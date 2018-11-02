@@ -23,14 +23,14 @@ Scenario Outline: Data driving for invalid data for sign-in.
 Scenario: 
 	Given Open the website url. 
 	Then click on most downloaded link. 
-#	Then select a product item. 
-#	Then click on download this presentation link. 
-#	Then Enter user a email address as. 
-#	Then Enter password as. 
-#	Then Click on Login button. 
-#	Given after login redirect to price page. 
-#	Then Select any of price subscription. 
-#	Then Verify the payment option field. 
+	Then select a product item. 
+	Then click on download this presentation link. 
+	Then Enter user a email address as. 
+	Then Enter password as. 
+	Then Click on Login button. 
+	Given after login redirect to price page. 
+	Then Select any of price subscription. 
+	Then Verify the payment option field. 
 	
 	
 @signInTest_and_redirect_paypal_page 
