@@ -1,0 +1,58 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 23,
+        "name": "",
+        "description": "",
+        "id": "signin-test-on-web-application;",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7039205000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "Open the website url.",
+            "match": {
+              "location": "Login_step_definition.navigates_to_website_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5068210100,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "click on most downloaded link.",
+            "match": {
+              "location": "Login_step_definition.click_most_download()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 22,
+            "name": "@signInTest_tochek_payement_option"
+          }
+        ]
+      }
+    ],
+    "name": "signin Test On Web Application",
+    "description": "",
+    "id": "signin-test-on-web-application",
+    "keyword": "Feature",
+    "uri": "src/test/resources/login.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@signInTest"
+      }
+    ]
+  }
+]
