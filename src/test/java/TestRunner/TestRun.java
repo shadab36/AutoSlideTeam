@@ -9,7 +9,7 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = {"."},tags= {"@signInTest_tochek_payement_option"}, 
+@CucumberOptions(features = {"."}, 
 		plugin ={
 				"pretty", "html:target/cucumber-html-report","json:target/cucumber.json", "usage:target/usage.jsonx", "junit:target/cucumber.xml"},
 		monochrome=true)
