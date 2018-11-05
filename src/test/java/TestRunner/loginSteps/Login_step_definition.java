@@ -50,6 +50,8 @@ public class Login_step_definition extends SetupClass {
 
 	@Then("^click on most downloaded link\\.$")
 	public void click_most_download() throws InterruptedException {
+		driver.navigate().refresh();
+		Thread.sleep(2000);
 		webelement = driver.findElement(SignupObject.Most);
 		webelement.click();
 		wait.implictywait(driver);

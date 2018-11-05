@@ -51,6 +51,8 @@ public class Facebook_signin_Unpaid_stepDefinition extends SetupClass {
 
 	@And("^Select a product list as Complete ppts\\.$")
 	public void click_most_download() throws InterruptedException {
+		driver.navigate().refresh();
+		Thread.sleep(2000);
 		webelement = driver.findElement(SignupObject.Most);
 		webelement.click();
 		wait.implictywait(driver);

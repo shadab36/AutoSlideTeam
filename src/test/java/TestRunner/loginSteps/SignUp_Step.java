@@ -22,7 +22,7 @@ public class SignUp_Step extends SetupClass {
 	JavascriptExecutor js = (JavascriptExecutor) driver;
 	public static String Email_Address;
 	Random rad = new Random();
-	String name = "" + rad.nextInt(10000) + "@gmail.com";
+	String name = "" + rad.nextInt(100000) + "@gmail.com";
 
 	// Open web site URl
 	@Given("^Navigates to website url\\.$")
@@ -53,7 +53,8 @@ public class SignUp_Step extends SetupClass {
 
 	@Then("^Click on Most Downloaded link\\.$")
 	public void click_most_download() throws InterruptedException {
-		
+		driver.navigate().refresh();
+		Thread.sleep(2000);
 		webelement = driver.findElement(SignupObject.Most);
 		webelement.click();
 		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
@@ -154,6 +155,7 @@ public class SignUp_Step extends SetupClass {
 		webelement.clear();
 		wait.implictywait(driver);
 		webelement.sendKeys("23102018");
+		Thread.sleep(1000);
 		wait.implictywait(driver);
 		log.info("It's entering the user password");
 	}
@@ -163,6 +165,7 @@ public class SignUp_Step extends SetupClass {
 try {
 		WebDriverWait wait = new WebDriverWait(driver,40);
 		WebElement element = wait.until(ExpectedConditions.visibilityOfElementLocated(SignupObject.Signup));
+		Thread.sleep(1000);
 		js.executeScript("arguments[0].click();", element);
 		Thread.sleep(2000);
 	
