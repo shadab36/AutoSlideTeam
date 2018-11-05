@@ -6,7 +6,11 @@ import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
 import ObjectRepository.SignupObject;
 import TestRunner.SetupClass;
 import cucumber.api.java.en.Given;
@@ -154,21 +158,23 @@ public class SignUp_Step extends SetupClass {
 	}
 
 	@Then("^click on Signup button\\.$")
-	public void click_on_Signup_button() throws Throwable {
-		webelement = driver.findElement(SignupObject.Signup);
-		wait.implictywait(driver);
-		js.executeScript("arguments[0].click();", webelement);
-		wait.implictywait(driver);
-		Thread.sleep(1500);
+	public void click_on_Signup_button() throws InterruptedException {
+try {
+		WebDriverWait wait = new WebDriverWait(driver,40);
+		WebElement element = wait.until(ExpectedConditions.visibilityOfElementLocated(SignupObject.Signup));
+		js.executeScript("arguments[0].click();", element);
+		Thread.sleep(2000);
+	
+	}catch(TimeoutException e) {
+	}
 	}
 
 	@Then("^Verify \"([^\"]*)\" validation message for Email Address\\.$")
 	public void verify_validation_message_for_Email_Address(String Email) throws InterruptedException {
 
 		try {
-
 			String Email_val = driver.findElement(SignupObject.Email_AddressVal).getText();
-			wait.implictywait(driver);
+			Thread.sleep(1000);
 			Assert.assertEquals(Email, Email_val);
 			wait.implictywait(driver);
 			Thread.sleep(1000);
