@@ -1851,3 +1851,812 @@ formatter.match({
   ],
   "location": "SignUp_Step.verify_validation_message_for_First_Name(String)"
 });
+formatter.result({
+  "duration": 20045007200,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_forLast_Name(String)"
+});
+formatter.result({
+  "duration": 20042420400,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_password(String)"
+});
+formatter.result({
+  "duration": 20060815000,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_Confirm_password(String)"
+});
+formatter.result({
+  "duration": 20061379000,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "There is already an account with this email address. If you are sure that it is your email address, click here to get your password and access your account.",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.message_for_all_invalid_credentials(String)"
+});
+formatter.result({
+  "duration": 69682800,
+  "status": "passed"
+});
+formatter.scenarioOutline({
+  "line": 34,
+  "name": "Data driving for valid sign-up.",
+  "description": "",
+  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.",
+  "type": "scenario_outline",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 33,
+      "name": "@signupTest"
+    }
+  ]
+});
+formatter.step({
+  "line": 35,
+  "name": "Enter Email \"\u003cEmail Address\u003e\".",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 36,
+  "name": "Enter First Name as \"\u003cFirst Name\u003e\".",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 37,
+  "name": "Enter Last Name as \"\u003cLast Name\u003e\".",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 38,
+  "name": "Enter Password as \"\u003cPassword\u003e\".",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 39,
+  "name": "Enter Confirm password as \"\u003cConfirm_password\u003e\".",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 40,
+  "name": "Enter the captcha.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 41,
+  "name": "click on Signup button.",
+  "keyword": "Then "
+});
+formatter.examples({
+  "line": 42,
+  "name": "",
+  "description": "",
+  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;",
+  "rows": [
+    {
+      "cells": [
+        "Email Address",
+        "First Name",
+        "Last Name",
+        "Password",
+        "Confirm_password"
+      ],
+      "line": 43,
+      "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;1"
+    },
+    {
+      "cells": [
+        "selenium.testing",
+        "Test",
+        "Test",
+        "123456",
+        "123456"
+      ],
+      "line": 44,
+      "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2"
+    }
+  ],
+  "keyword": "Examples"
+});
+formatter.scenario({
+  "line": 44,
+  "name": "Data driving for valid sign-up.",
+  "description": "",
+  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@signupTest"
+    }
+  ]
+});
+formatter.step({
+  "line": 35,
+  "name": "Enter Email \"selenium.testing\".",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 36,
+  "name": "Enter First Name as \"Test\".",
+  "matchedColumns": [
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 37,
+  "name": "Enter Last Name as \"Test\".",
+  "matchedColumns": [
+    2
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 38,
+  "name": "Enter Password as \"123456\".",
+  "matchedColumns": [
+    3
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 39,
+  "name": "Enter Confirm password as \"123456\".",
+  "matchedColumns": [
+    4
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 40,
+  "name": "Enter the captcha.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 41,
+  "name": "click on Signup button.",
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "selenium.testing",
+      "offset": 13
+    }
+  ],
+  "location": "SignUp_Step.Enter_Email_credentials(String)"
+});
+formatter.result({
+  "duration": 5363207800,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Test",
+      "offset": 21
+    }
+  ],
+  "location": "SignUp_Step.enter_First_Name_as(String)"
+});
+formatter.result({
+  "duration": 5207341300,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Test",
+      "offset": 20
+    }
+  ],
+  "location": "SignUp_Step.enter_Last_Name_as(String)"
+});
+formatter.result({
+  "duration": 5220116200,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "123456",
+      "offset": 19
+    }
+  ],
+  "location": "SignUp_Step.enter_password(String)"
+});
+formatter.result({
+  "duration": 6217007500,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "123456",
+      "offset": 27
+    }
+  ],
+  "location": "SignUp_Step.enter_Confirm_password_as(String)"
+});
+formatter.result({
+  "duration": 5218030500,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.enter_the_captcha()"
+});
+formatter.result({
+  "duration": 5189051700,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.click_on_Signup_button()"
+});
+formatter.result({
+  "duration": 2180279000,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 47,
+  "name": "",
+  "description": "",
+  "id": "signup-test-on-web-application;",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 46,
+      "name": "@signupTest"
+    }
+  ]
+});
+formatter.step({
+  "line": 48,
+  "name": "After signup see the price page.",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 49,
+  "name": "Select price subscription.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 50,
+  "name": "Verify the payment option.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 51,
+  "name": "Click on My account link.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 52,
+  "name": "Click on delete account link.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 53,
+  "name": "Click on Yes button.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 54,
+  "name": "Verify the delete account confirmation message.",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "SignUp_Step.verify_the_price_page()"
+});
+formatter.result({
+  "duration": 1188701500,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.select_price_subscription()"
+});
+formatter.result({
+  "duration": 9951740400,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.payement_option()"
+});
+formatter.result({
+  "duration": 4092768100,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.my_account_link()"
+});
+formatter.result({
+  "duration": 9108335500,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.delete_account_link()"
+});
+formatter.result({
+  "duration": 8264396000,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.confirm_yes_()"
+});
+formatter.result({
+  "duration": 10131284300,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.delete_confirmation_message()"
+});
+formatter.result({
+  "duration": 2116584200,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 56,
+  "name": "",
+  "description": "",
+  "id": "signup-test-on-web-application;",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 55,
+      "name": "@signupTest_select_paypal_payement_option"
+    }
+  ]
+});
+formatter.step({
+  "line": 57,
+  "name": "Navigates to website url.",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 58,
+  "name": "Click on Most Downloaded link.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 59,
+  "name": "Select a product items.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 60,
+  "name": "Click on Download this presentation link.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 61,
+  "name": "Click on Create an Account CTA.",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "SignUp_Step.navigates_to_website_url()"
+});
+formatter.result({
+  "duration": 43801183600,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.click_most_download()"
+});
+formatter.result({
+  "duration": 7884655400,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.select_product()"
+});
+formatter.result({
+  "duration": 8130038000,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.click_on_Download_this_presentation_link()"
+});
+formatter.result({
+  "duration": 5953075300,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.reate_an_Account_CTA()"
+});
+formatter.result({
+  "duration": 8067615400,
+  "status": "passed"
+});
+formatter.scenarioOutline({
+  "line": 63,
+  "name": "Data driving for valid sign-up.",
+  "description": "",
+  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.",
+  "type": "scenario_outline",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 62,
+      "name": "@signupTest_select_paypal_payement_option"
+    }
+  ]
+});
+formatter.step({
+  "line": 64,
+  "name": "Enter Email \"\u003cEmail Address\u003e\".",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 65,
+  "name": "Enter First Name as \"\u003cFirst Name\u003e\".",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 66,
+  "name": "Enter Last Name as \"\u003cLast Name\u003e\".",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 67,
+  "name": "Enter Password as \"\u003cPassword\u003e\".",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 68,
+  "name": "Enter Confirm password as \"\u003cConfirm_password\u003e\".",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 69,
+  "name": "Enter the captcha.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 70,
+  "name": "click on Signup button.",
+  "keyword": "Then "
+});
+formatter.examples({
+  "line": 71,
+  "name": "",
+  "description": "",
+  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;",
+  "rows": [
+    {
+      "cells": [
+        "Email Address",
+        "First Name",
+        "Last Name",
+        "Password",
+        "Confirm_password"
+      ],
+      "line": 72,
+      "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;1"
+    },
+    {
+      "cells": [
+        "selenium.testing",
+        "Test",
+        "Test",
+        "123456",
+        "123456"
+      ],
+      "line": 73,
+      "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2"
+    }
+  ],
+  "keyword": "Examples"
+});
+formatter.scenario({
+  "line": 73,
+  "name": "Data driving for valid sign-up.",
+  "description": "",
+  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@signupTest"
+    },
+    {
+      "line": 62,
+      "name": "@signupTest_select_paypal_payement_option"
+    }
+  ]
+});
+formatter.step({
+  "line": 64,
+  "name": "Enter Email \"selenium.testing\".",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 65,
+  "name": "Enter First Name as \"Test\".",
+  "matchedColumns": [
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 66,
+  "name": "Enter Last Name as \"Test\".",
+  "matchedColumns": [
+    2
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 67,
+  "name": "Enter Password as \"123456\".",
+  "matchedColumns": [
+    3
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 68,
+  "name": "Enter Confirm password as \"123456\".",
+  "matchedColumns": [
+    4
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 69,
+  "name": "Enter the captcha.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 70,
+  "name": "click on Signup button.",
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "selenium.testing",
+      "offset": 13
+    }
+  ],
+  "location": "SignUp_Step.Enter_Email_credentials(String)"
+});
+formatter.result({
+  "duration": 5347273600,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Test",
+      "offset": 21
+    }
+  ],
+  "location": "SignUp_Step.enter_First_Name_as(String)"
+});
+formatter.result({
+  "duration": 5174345200,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Test",
+      "offset": 20
+    }
+  ],
+  "location": "SignUp_Step.enter_Last_Name_as(String)"
+});
+formatter.result({
+  "duration": 5204157200,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "123456",
+      "offset": 19
+    }
+  ],
+  "location": "SignUp_Step.enter_password(String)"
+});
+formatter.result({
+  "duration": 6247933600,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "123456",
+      "offset": 27
+    }
+  ],
+  "location": "SignUp_Step.enter_Confirm_password_as(String)"
+});
+formatter.result({
+  "duration": 2036193300,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.enter_the_captcha()"
+});
+formatter.result({
+  "duration": 205421800,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.click_on_Signup_button()"
+});
+formatter.result({
+  "duration": 3837709900,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 76,
+  "name": "",
+  "description": "",
+  "id": "signup-test-on-web-application;",
+  "type": "scenario",
+  "keyword": "Scenario",
+  "tags": [
+    {
+      "line": 75,
+      "name": "@signupTest_select_paypal_payement_option"
+    }
+  ]
+});
+formatter.step({
+  "line": 77,
+  "name": "After signup see the price page.",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 78,
+  "name": "Select price subscription.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 79,
+  "name": "Verify the default payment option as paypal.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 80,
+  "name": "Enter the coupon code.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 81,
+  "name": "Apply the coupon code as given.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 82,
+  "name": "Verify the applied coupon code.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 83,
+  "name": "click on place order button.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 84,
+  "name": "Verify the paypal payement process.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 85,
+  "name": "Navigates to website url home page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 86,
+  "name": "Click on My account link.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 87,
+  "name": "Click on delete account link.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 88,
+  "name": "Click on Yes button.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 89,
+  "name": "Verify the delete account confirmation message.",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "SignUp_Step.verify_the_price_page()"
+});
+formatter.result({
+  "duration": 1089746800,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.select_price_subscription()"
+});
+formatter.result({
+  "duration": 7514456400,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.select_the_default_payment_option_as_paypal()"
+});
+formatter.result({
+  "duration": 1108250300,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.Enter_the_coupon_code()"
+});
+formatter.result({
+  "duration": 1171318100,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.apply_the_coupon_code()"
+});
+formatter.result({
+  "duration": 2079388900,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.applied_coupon_code()"
+});
+formatter.result({
+  "duration": 1059164700,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.click_on_place_order_cta()"
+});
+formatter.result({
+  "duration": 5108352400,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.paypal_payement_place_process_Step()"
+});

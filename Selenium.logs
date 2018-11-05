@@ -35,3 +35,13 @@
 05:00:05,505  INFO devpinoyLogger<strong>{1}</strong>:131 - It's entering the user password
 05:00:10,762  INFO devpinoyLogger<strong>{1}</strong>:144 - It's entering the user password
 05:00:15,944  INFO devpinoyLogger<strong>{1}</strong>:157 - It's entering the user password
+05:02:10,245  INFO devpinoyLogger<strong>{1}</strong>:105 - It's entering the user First Name
+05:02:15,466  INFO devpinoyLogger<strong>{1}</strong>:117 - It's entering the user Last Name
+05:02:21,684  INFO devpinoyLogger<strong>{1}</strong>:131 - It's entering the user password
+05:02:26,902  INFO devpinoyLogger<strong>{1}</strong>:144 - It's entering the user password
+05:02:32,092  INFO devpinoyLogger<strong>{1}</strong>:157 - It's entering the user password
+05:04:43,502  INFO devpinoyLogger<strong>{1}</strong>:105 - It's entering the user First Name
+05:04:48,707  INFO devpinoyLogger<strong>{1}</strong>:117 - It's entering the user Last Name
+05:04:54,956  INFO devpinoyLogger<strong>{1}</strong>:131 - It's entering the user password
+05:04:56,993  INFO devpinoyLogger<strong>{1}</strong>:144 - It's entering the user password
+05:04:57,199  INFO devpinoyLogger<strong>{1}</strong>:157 - It's entering the user password
