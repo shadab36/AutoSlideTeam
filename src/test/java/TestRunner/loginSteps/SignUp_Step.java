@@ -42,9 +42,9 @@ public class SignUp_Step extends SetupClass {
 			WebElement User_Signin = driver.findElement(By.cssSelector(".signin-link[title='Sign Out']"));
 			if (User_Signin.isEnabled()) {
 				User_Signin.click();
-				Thread.sleep(5000);
+				Thread.sleep(8000);
 				driver.navigate().refresh();
-				Thread.sleep(1000);
+				Thread.sleep(2000);
 			}
 		} catch (NoSuchElementException Exb) {
 
@@ -53,6 +53,7 @@ public class SignUp_Step extends SetupClass {
 
 	@Then("^Click on Most Downloaded link\\.$")
 	public void click_most_download() throws InterruptedException {
+		
 		webelement = driver.findElement(SignupObject.Most);
 		webelement.click();
 		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);

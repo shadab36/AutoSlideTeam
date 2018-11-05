@@ -40,9 +40,9 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 			WebElement logout = driver.findElement(By.cssSelector(".signin-link[title='Sign Out']"));
 			if (logout.isEnabled()) {
 				logout.click();
-				Thread.sleep(6000);
+				Thread.sleep(8000);
 				driver.navigate().refresh();
-				Thread.sleep(1000);
+				Thread.sleep(2000);
 			}
 		} catch (NoSuchElementException Ext) {
 

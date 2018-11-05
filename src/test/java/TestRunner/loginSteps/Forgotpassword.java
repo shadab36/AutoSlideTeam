@@ -37,9 +37,9 @@ import webApp.PerformAction;
 			WebElement logout = driver.findElement(By.cssSelector(".signin-link[title='Sign Out']"));
 			if (logout.isEnabled()) {
 				logout.click();
-				Thread.sleep(5000);
+				Thread.sleep(8000);
 				driver.navigate().refresh();
-				Thread.sleep(1000);
+				Thread.sleep(2000);
 			}
 		} catch (NoSuchElementException Ext) {
 

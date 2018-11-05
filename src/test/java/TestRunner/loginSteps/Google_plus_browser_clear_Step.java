@@ -8,9 +8,9 @@ public class Google_plus_browser_clear_Step extends SetupClass {
 	public void navigates_to_website_url() throws InterruptedException {
 		
 		driver.get("https://mail.google.com");
-		Thread.sleep(3000);
+		Thread.sleep(5000);
 driver.manage().deleteAllCookies();
-Thread.sleep(5000);
+Thread.sleep(8000);
 	
 	}
 
