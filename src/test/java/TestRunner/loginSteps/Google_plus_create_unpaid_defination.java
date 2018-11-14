@@ -51,6 +51,8 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 
 	@And("^the product list as Complete ppts\\.$")
 	public void click_most_download() throws InterruptedException {
+		driver.navigate().refresh();
+		Thread.sleep(2000);
 		webelement = driver.findElement(SignupObject.Most);
 		webelement.click();
 		wait.implictywait(driver);
@@ -211,6 +213,8 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 
 	@Then("^Verify the apply coupon code text is appeared\\.$")
 	public void verify_the_applied_coupon_code_offer() throws Throwable {
+		js.executeScript("window.scrollBy(0,500)");
+		Thread.sleep(2000);
 		String applied_code = driver.findElement(SignupObject.verify_apply_code).getText();
 		System.out.println(applied_code);
 		String ExpectTitle = "Discount (5OFF)";

@@ -16,7 +16,6 @@ import TestRunner.SetupClass;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import webApp.PerformAction;
-
 public class SignUp_Step extends SetupClass {
 	PerformAction wait = new PerformAction();
 	JavascriptExecutor js = (JavascriptExecutor) driver;

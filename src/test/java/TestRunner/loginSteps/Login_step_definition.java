@@ -233,7 +233,7 @@ public class Login_step_definition extends SetupClass {
 	public void apply_the_cuopon_code() throws Throwable {
 		webelement = driver.findElement(SignupObject.Apply_Coupon);
 		js.executeScript("arguments[0].click();", webelement);
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 		driver.switchTo().alert().dismiss();
 		Thread.sleep(1000);
 
@@ -241,13 +241,13 @@ public class Login_step_definition extends SetupClass {
 
 	@Then("^Verify applied coupon code offer\\.$")
 	public void verify_the_applied_coupon_code_offer() throws Throwable {
-		js.executeScript("window.scrollBy(0,400)");
-		Thread.sleep(1000);
+		js.executeScript("window.scrollBy(0,500)");
+		Thread.sleep(2000);
 		String applied_code = driver.findElement(SignupObject.verify_apply_code).getText();
 		System.out.println(applied_code);
 		String ExpectTitle = "Discount (5OFF)";
 		Assert.assertEquals(ExpectTitle, applied_code);
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 	}
 
 	@Then("^click on place order CTA\\.$")

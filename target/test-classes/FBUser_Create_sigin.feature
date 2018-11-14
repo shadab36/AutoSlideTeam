@@ -29,7 +29,7 @@ Scenario:
 	Then Apply the code. 
 	Then Verify the apply offer code is appeared. 
 	Then Place order the product. 
-	Then Verify the payment page. 
+	 
 	
 Scenario: 
 Given Launching the application URL. 

@@ -207,6 +207,8 @@ public class Facebook_signin_Unpaid_stepDefinition extends SetupClass {
 
 	@Then("^Verify the apply code is applied\\.$")
 	public void verify_the_applied_coupon_code_offer() throws Throwable {
+		js.executeScript("window.scrollBy(0,500)");
+		Thread.sleep(2000);
 		String applied_code = driver.findElement(SignupObject.verify_apply_code).getText();
 		System.out.println(applied_code);
 		String ExpectTitle = "Discount (5OFF)";

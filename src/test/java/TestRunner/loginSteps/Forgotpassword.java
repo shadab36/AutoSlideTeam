@@ -92,9 +92,9 @@ import webApp.PerformAction;
 	@Then("^Click on submit button\\.$")
 	public void enter_user_mail() throws InterruptedException {
 		webelement = driver.findElement(LoginObject.Button_submit);
-		webelement.click();
+		js.executeScript("arguments[0].click();", webelement);
 		wait.implictywait(driver);
-		Thread.sleep(800);
+		Thread.sleep(2000);
 	}
 
 	@Then("^Verify \"([^\"]*)\" the validation message\\.$")

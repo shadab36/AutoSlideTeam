@@ -62,6 +62,8 @@ public class Facebook_create_sigin_unpaid_stepDefin extends SetupClass {
 
 		@And("^On the Scoping Powerpoint product\\.$")
 		public void on_the_Scoping_Powerpoint_product() throws InterruptedException {
+			driver.navigate().refresh();
+			Thread.sleep(2000);
 			webelement = driver.findElement(SignupObject.Select_item);
 			webelement.click();
 			wait.implictywait(driver);
@@ -202,6 +204,8 @@ public class Facebook_create_sigin_unpaid_stepDefin extends SetupClass {
 
 		@Then("^Verify the apply offer code is appeared\\.$")
 		public void verify_the_applied_coupon_code_offer() throws Throwable {
+			js.executeScript("window.scrollBy(0,500)");
+			Thread.sleep(2000);
 			String applied_code = driver.findElement(SignupObject.verify_apply_code).getText();
 			System.out.println(applied_code);
 			String ExpectTitle = "Discount (5OFF)";
