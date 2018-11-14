@@ -320,6 +320,8 @@ try {
 
 	@Then("^Verify the applied coupon code\\.$")
 	public void applied_coupon_code() throws InterruptedException {
+		js.executeScript("window.scrollBy(0,500)");
+		Thread.sleep(2000);
 		String applied_code = driver.findElement(SignupObject.verify_apply_code).getText();
 		System.out.println(applied_code);
 		String ExpectTitle = "Discount (5OFF)";
