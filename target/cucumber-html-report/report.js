@@ -74,71 +74,64 @@ formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 6849625400,
+  "duration": 2380068400,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.click_most_download()"
 });
 formatter.result({
-  "duration": 4665201900,
-  "status": "passed"
+  "duration": 29714700,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.GooglePlus_signin_paid_user_stepDefinitio.click_most_download(GooglePlus_signin_paid_user_stepDefinitio.java:53)\r\n\tat ✽.And Select style as complete ppt.(src/test/resources/1Google_Plus_paid_user.feature:5)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.select_product()"
 });
 formatter.result({
-  "duration": 5022513800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2418824700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.fb_link()"
 });
 formatter.result({
-  "duration": 2884417300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.enter_user_mail()"
 });
 formatter.result({
-  "duration": 1303340500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.enter_user_password()"
 });
 formatter.result({
-  "duration": 5133774000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.google_pass()"
 });
 formatter.result({
-  "duration": 1203865700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 10319426200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.verify_uesr_validation_message_for_Email_Address()"
 });
 formatter.result({
-  "duration": 1042682200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.uri("src/test/resources/1facebookUser_already_subscribe.feature");
 formatter.feature({
@@ -211,64 +204,58 @@ formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 37663106900,
+  "duration": 2220749400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 4175478100,
-  "status": "passed"
+  "duration": 21589500,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Facebook_signin_paid_user_stepDefinition.click_most_download(Facebook_signin_paid_user_stepDefinition.java:53)\r\n\tat ✽.And go to Complete ppts(src/test/resources/1facebookUser_already_subscribe.feature:5)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 5154752900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2371537900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 2369330300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.enter_user_mail()"
 });
 formatter.result({
-  "duration": 307310200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.enter_user_password()"
 });
 formatter.result({
-  "duration": 174174400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 50835370300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.verify_uesr_validation_message_for_Email_Address()"
 });
 formatter.result({
-  "duration": 1042459600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.uri("src/test/resources/2Google_plus_user_logout.feature");
 formatter.feature({
@@ -301,7 +288,7 @@ formatter.match({
   "location": "Google_plus_browser_clear_Step.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 18622692200,
+  "duration": 13963321000,
   "status": "passed"
 });
 formatter.uri("src/test/resources/2facebook_logout.feature");
@@ -335,7 +322,7 @@ formatter.match({
   "location": "Fbpaid_User_logout.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 14942244300,
+  "duration": 13682299000,
   "status": "passed"
 });
 formatter.uri("src/test/resources/Email_signin_paid_user.feature");
@@ -404,57 +391,52 @@ formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 37461246100,
+  "duration": 2277223600,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 4197013100,
-  "status": "passed"
+  "duration": 29729600,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Email_Signin_paidUser_stepDefinition.click_most_download(Email_Signin_paidUser_stepDefinition.java:53)\r\n\tat ✽.And Click on Complete ppts(src/test/resources/Email_signin_paid_user.feature:5)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 5198999500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 1148727800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.enter_user_email_address_as()"
 });
 formatter.result({
-  "duration": 260480800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.enter_user_password_as()"
 });
 formatter.result({
-  "duration": 180395000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 7401912300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.verify_uesr_validation_message_for_Email_Address()"
 });
 formatter.result({
-  "duration": 1038132300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.uri("src/test/resources/FBUser_Create_sigin.feature");
 formatter.feature({
@@ -542,85 +524,76 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 37387400400,
+  "duration": 3401531500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 4253953100,
-  "status": "passed"
+  "duration": 12399700,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts(Facebook_create_sigin_unpaid_stepDefin.java:57)\r\n\tat ✽.And Select product list as Complete ppts.(src/test/resources/FBUser_Create_sigin.feature:5)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 9849883400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 2153401900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 2793287400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 1852599300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.fb_user_enter_a_valid_email()"
 });
 formatter.result({
-  "duration": 307812400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.fb_user_enter_valid_password()"
 });
 formatter.result({
-  "duration": 189373200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_login_cta_on_fb_page()"
 });
 formatter.result({
-  "duration": 27708589100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2010273100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 5959808700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.verify_the_payement_section_on_the_app()"
 });
 formatter.result({
-  "duration": 1052087800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 18,
@@ -699,92 +672,82 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 37383131900,
+  "duration": 2226289900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 4315403600,
-  "status": "passed"
+  "duration": 14247100,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts(Facebook_create_sigin_unpaid_stepDefin.java:57)\r\n\tat ✽.And Select product list as Complete ppts.(src/test/resources/FBUser_Create_sigin.feature:20)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 10174795600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 2280093000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 2836131800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 4030009600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2012047900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 5864008900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.by_default_payment_option_as_paypal_is_selected()"
 });
 formatter.result({
-  "duration": 1084650100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.enter_coupon()"
 });
 formatter.result({
-  "duration": 114873100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 2064546500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 3042095600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5067014300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 34,
@@ -853,78 +816,70 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 37696720700,
+  "duration": 3327448800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 4195083800,
-  "status": "passed"
+  "duration": 15753700,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts(Facebook_create_sigin_unpaid_stepDefin.java:57)\r\n\tat ✽.And Select product list as Complete ppts.(src/test/resources/FBUser_Create_sigin.feature:36)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 10210874900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 2218317700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 2826070200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 3854876100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2012815100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 5742058600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.by_default_payment_option_as_paypal_is_selected()"
 });
 formatter.result({
-  "duration": 1069199300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5072022200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.verify_the_paypal_payement_page()"
 });
 formatter.result({
-  "duration": 6012794400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.scenario({
   "line": 48,
@@ -1008,15 +963,16 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 7589512900,
-  "error_message": "java.lang.NullPointerException\r\n\tat TestRunner.loginSteps.Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL(Facebook_create_sigin_unpaid_stepDefin.java:36)\r\n\tat ✽.Given Launching the application URL.(src/test/resources/FBUser_Create_sigin.feature:49)\r\n",
-  "status": "failed"
+  "duration": 2212677800,
+  "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 30371100,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts(Facebook_create_sigin_unpaid_stepDefin.java:57)\r\n\tat ✽.And Select product list as Complete ppts.(src/test/resources/FBUser_Create_sigin.feature:50)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
@@ -1155,4 +1111,1725 @@ formatter.step({
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
+});
+formatter.result({
+  "duration": 2258279400,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
+});
+formatter.result({
+  "duration": 16539000,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts(Facebook_create_sigin_unpaid_stepDefin.java:57)\r\n\tat ✽.And Select product list as Complete ppts.(src/test/resources/FBUser_Create_sigin.feature:66)\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_create_sigin_unpaid_stepDefin.select_payment_option_as_Card()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_place_order_CTA()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_create_sigin_unpaid_stepDefin.card_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.uri("src/test/resources/Facebook_Sigin_Unpaid_User.feature");
+formatter.feature({
+  "line": 2,
+  "name": "Sign with new facebook user.",
+  "description": "",
+  "id": "sign-with-new-facebook-user.",
+  "keyword": "Feature",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@Fbuser_unpaid_user"
+    }
+  ]
+});
+formatter.scenario({
+  "line": 3,
+  "name": "Sign in the application with facebook user.",
+  "description": "",
+  "id": "sign-with-new-facebook-user.;sign-in-the-application-with-facebook-user.",
+  "type": "scenario",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "line": 4,
+  "name": "Go to the application URL.",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 5,
+  "name": "Select a product list as Complete ppts.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 6,
+  "name": "Click on Project Scoping Powerpoint product.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 7,
+  "name": "Click on download presentation link.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 8,
+  "name": "Click on fblink.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "Facebook user enter a email as.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 10,
+  "name": "Facebook user enter password.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 11,
+  "name": "Login the application.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 12,
+  "name": "See that user is redirected to price page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 13,
+  "name": "Subscribe the product.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "Verify the payment section information.",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
+});
+formatter.result({
+  "duration": 2118476100,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
+});
+formatter.result({
+  "duration": 2078271100,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Facebook_signin_Unpaid_stepDefinition.click_most_download(Facebook_signin_Unpaid_stepDefinition.java:56)\r\n\tat ✽.And Select a product list as Complete ppts.(src/test/resources/Facebook_Sigin_Unpaid_User.feature:5)\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.enter_user_mail()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.enter_user_password()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Login_button()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_payment_option_field()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.scenario({
+  "line": 17,
+  "name": "",
+  "description": "",
+  "id": "sign-with-new-facebook-user.;",
+  "type": "scenario",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "line": 18,
+  "name": "Go to the application URL.",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 19,
+  "name": "Select a product list as Complete ppts.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 20,
+  "name": "Click on Project Scoping Powerpoint product.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 21,
+  "name": "Click on download presentation link.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 22,
+  "name": "Click on fblink.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 23,
+  "name": "See that user is redirected to price page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 24,
+  "name": "Subscribe the product.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 25,
+  "name": "Verify the by default payment option as paypal.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 26,
+  "name": "Enter the coupon as showing.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 27,
+  "name": "Apply coupon the code.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 28,
+  "name": "Verify the apply code is applied.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 29,
+  "name": "Go to payement page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 30,
+  "name": "Verify the payment page is payapal.",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
+});
+formatter.result({
+  "duration": 2188293100,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
+});
+formatter.result({
+  "duration": 3318677400,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Facebook_signin_Unpaid_stepDefinition.click_most_download(Facebook_signin_Unpaid_stepDefinition.java:56)\r\n\tat ✽.And Select a product list as Complete ppts.(src/test/resources/Facebook_Sigin_Unpaid_User.feature:19)\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.see_default_payment_option_as_paypal()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.enter_coupon()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.apply_the_cuopon_code()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_applied_coupon_code_offer()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.click_on_place_order_CTA()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_paypal_payement_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.scenario({
+  "line": 32,
+  "name": "",
+  "description": "",
+  "id": "sign-with-new-facebook-user.;",
+  "type": "scenario",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "line": 33,
+  "name": "Go to the application URL.",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 34,
+  "name": "Select a product list as Complete ppts.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 35,
+  "name": "Click on Project Scoping Powerpoint product.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 36,
+  "name": "Click on download presentation link.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 37,
+  "name": "Click on fblink.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 38,
+  "name": "See that user is redirected to price page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 39,
+  "name": "Subscribe the product.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 40,
+  "name": "Verify the by default payment option as paypal.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 41,
+  "name": "Go to payement page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 42,
+  "name": "Verify the payment page is payapal.",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
+});
+formatter.result({
+  "duration": 3182986600,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
+});
+formatter.result({
+  "duration": 2182942000,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Facebook_signin_Unpaid_stepDefinition.click_most_download(Facebook_signin_Unpaid_stepDefinition.java:56)\r\n\tat ✽.And Select a product list as Complete ppts.(src/test/resources/Facebook_Sigin_Unpaid_User.feature:34)\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.see_default_payment_option_as_paypal()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.click_on_place_order_CTA()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_paypal_payement_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.scenario({
+  "line": 45,
+  "name": "",
+  "description": "",
+  "id": "sign-with-new-facebook-user.;",
+  "type": "scenario",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "line": 46,
+  "name": "Go to the application URL.",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 47,
+  "name": "Select a product list as Complete ppts.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 48,
+  "name": "Click on Project Scoping Powerpoint product.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 49,
+  "name": "Click on download presentation link.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 50,
+  "name": "Click on fblink.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 51,
+  "name": "See that user is redirected to price page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 52,
+  "name": "Subscribe the product.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 53,
+  "name": "Select the payment option as CARD.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 54,
+  "name": "Enter the coupon as showing.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 55,
+  "name": "Apply coupon the code.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 56,
+  "name": "Verify the apply code is applied.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 57,
+  "name": "Go to payement page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 58,
+  "name": "Verify the payment page is card chekout.",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
+});
+formatter.result({
+  "duration": 2156348800,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
+});
+formatter.result({
+  "duration": 3390725000,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Facebook_signin_Unpaid_stepDefinition.click_most_download(Facebook_signin_Unpaid_stepDefinition.java:56)\r\n\tat ✽.And Select a product list as Complete ppts.(src/test/resources/Facebook_Sigin_Unpaid_User.feature:47)\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.select_payment_option_as_Card()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.enter_coupon()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.apply_the_cuopon_code()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_applied_coupon_code_offer()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.click_on_place_order_CTA()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.card_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.scenario({
+  "line": 62,
+  "name": "",
+  "description": "",
+  "id": "sign-with-new-facebook-user.;",
+  "type": "scenario",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "line": 63,
+  "name": "Go to the application URL.",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 64,
+  "name": "Select a product list as Complete ppts.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 65,
+  "name": "Click on Project Scoping Powerpoint product.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 66,
+  "name": "Click on download presentation link.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 67,
+  "name": "Click on fblink.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 68,
+  "name": "See that user is redirected to price page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 69,
+  "name": "Subscribe the product.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 70,
+  "name": "Select the payment option as CARD.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 71,
+  "name": "Go to payement page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 72,
+  "name": "Verify the payment page is card chekout.",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
+});
+formatter.result({
+  "duration": 2105917200,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
+});
+formatter.result({
+  "duration": 2078959100,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Facebook_signin_Unpaid_stepDefinition.click_most_download(Facebook_signin_Unpaid_stepDefinition.java:56)\r\n\tat ✽.And Select a product list as Complete ppts.(src/test/resources/Facebook_Sigin_Unpaid_User.feature:64)\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.select_payment_option_as_Card()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.click_on_place_order_CTA()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Facebook_signin_Unpaid_stepDefinition.card_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.uri("src/test/resources/ForgotPassword.feature");
+formatter.feature({
+  "line": 2,
+  "name": "Verify the forgot password.",
+  "description": "",
+  "id": "verify-the-forgot-password.",
+  "keyword": "Feature",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@forgotTest"
+    }
+  ]
+});
+formatter.scenarioOutline({
+  "line": 3,
+  "name": "Test the forgot password.",
+  "description": "",
+  "id": "verify-the-forgot-password.;test-the-forgot-password.",
+  "type": "scenario_outline",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 4,
+  "name": "To the application URL.",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 5,
+  "name": "Select on Complete ppts CTA.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 6,
+  "name": "Select as a Project Scoping Powerpoint.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 7,
+  "name": "Click on download link cta.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 8,
+  "name": "Click on forgot password link.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 9,
+  "name": "Enter the user email address is registerd as \"\u003cEmail Address\u003e\".",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 10,
+  "name": "Click on submit button.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 11,
+  "name": "Verify \"\u003cEmail AddressVal\u003e\" the validation message.",
+  "keyword": "Then "
+});
+formatter.examples({
+  "line": 12,
+  "name": "",
+  "description": "",
+  "id": "verify-the-forgot-password.;test-the-forgot-password.;",
+  "rows": [
+    {
+      "cells": [
+        "Email Address",
+        "Email AddressVal"
+      ],
+      "line": 13,
+      "id": "verify-the-forgot-password.;test-the-forgot-password.;;1"
+    },
+    {
+      "cells": [
+        "",
+        "This is a required field."
+      ],
+      "line": 14,
+      "id": "verify-the-forgot-password.;test-the-forgot-password.;;2"
+    }
+  ],
+  "keyword": "Examples"
+});
+formatter.scenario({
+  "line": 14,
+  "name": "Test the forgot password.",
+  "description": "",
+  "id": "verify-the-forgot-password.;test-the-forgot-password.;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@forgotTest"
+    }
+  ]
+});
+formatter.step({
+  "line": 4,
+  "name": "To the application URL.",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 5,
+  "name": "Select on Complete ppts CTA.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 6,
+  "name": "Select as a Project Scoping Powerpoint.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 7,
+  "name": "Click on download link cta.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 8,
+  "name": "Click on forgot password link.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 9,
+  "name": "Enter the user email address is registerd as \"\".",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 10,
+  "name": "Click on submit button.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 11,
+  "name": "Verify \"This is a required field.\" the validation message.",
+  "matchedColumns": [
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Forgotpassword.navigates_to_website_url()"
+});
+formatter.result({
+  "duration": 3215025200,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Forgotpassword.click_most_download()"
+});
+formatter.result({
+  "duration": 31208000,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Forgotpassword.click_most_download(Forgotpassword.java:51)\r\n\tat ✽.And Select on Complete ppts CTA.(src/test/resources/ForgotPassword.feature:5)\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "location": "Forgotpassword.select_product()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Forgotpassword.click_on_Download_this_presentation_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Forgotpassword.google_create()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 46
+    }
+  ],
+  "location": "Forgotpassword.user_mail(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Forgotpassword.enter_user_mail()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "This is a required field.",
+      "offset": 8
+    }
+  ],
+  "location": "Forgotpassword.password_page(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.scenarioOutline({
+  "line": 15,
+  "name": "",
+  "description": "",
+  "id": "verify-the-forgot-password.;",
+  "type": "scenario_outline",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "line": 16,
+  "name": "To the application URL.",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 17,
+  "name": "Select on Complete ppts CTA.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 18,
+  "name": "Select as a Project Scoping Powerpoint.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 19,
+  "name": "Click on download link cta.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 20,
+  "name": "Click on forgot password link.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 21,
+  "name": "Enter the user email address is registerd as \"\u003cEmail Address\u003e\".",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 22,
+  "name": "Click on submit button.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 23,
+  "name": "\"\u003cpassword SendVal\u003e\" validation message.",
+  "keyword": "Then "
+});
+formatter.examples({
+  "line": 24,
+  "name": "",
+  "description": "",
+  "id": "verify-the-forgot-password.;;",
+  "rows": [
+    {
+      "cells": [
+        "Email Address",
+        "password SendVal"
+      ],
+      "line": 25,
+      "id": "verify-the-forgot-password.;;;1"
+    },
+    {
+      "cells": [
+        "test.shadab@gmail.com",
+        "If there is an account associated with test.shadab@gmail.com you will receive an email with a link to reset your password."
+      ],
+      "line": 26,
+      "id": "verify-the-forgot-password.;;;2"
+    }
+  ],
+  "keyword": "Examples"
+});
+formatter.scenario({
+  "line": 26,
+  "name": "",
+  "description": "",
+  "id": "verify-the-forgot-password.;;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@forgotTest"
+    }
+  ]
+});
+formatter.step({
+  "line": 16,
+  "name": "To the application URL.",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 17,
+  "name": "Select on Complete ppts CTA.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 18,
+  "name": "Select as a Project Scoping Powerpoint.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 19,
+  "name": "Click on download link cta.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 20,
+  "name": "Click on forgot password link.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 21,
+  "name": "Enter the user email address is registerd as \"test.shadab@gmail.com\".",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 22,
+  "name": "Click on submit button.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 23,
+  "name": "\"If there is an account associated with test.shadab@gmail.com you will receive an email with a link to reset your password.\" validation message.",
+  "matchedColumns": [
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Forgotpassword.navigates_to_website_url()"
+});
+formatter.result({
+  "duration": 2202527200,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Forgotpassword.click_most_download()"
+});
+formatter.result({
+  "duration": 15920900,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Forgotpassword.click_most_download(Forgotpassword.java:51)\r\n\tat ✽.And Select on Complete ppts CTA.(src/test/resources/ForgotPassword.feature:17)\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "location": "Forgotpassword.select_product()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Forgotpassword.click_on_Download_this_presentation_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Forgotpassword.google_create()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "test.shadab@gmail.com",
+      "offset": 46
+    }
+  ],
+  "location": "Forgotpassword.user_mail(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Forgotpassword.enter_user_mail()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "If there is an account associated with test.shadab@gmail.com you will receive an email with a link to reset your password.",
+      "offset": 1
+    }
+  ],
+  "location": "Forgotpassword.Verify_user_send_email(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.uri("src/test/resources/Google_Plus(+)_Create_Singin_unpaid.feature");
+formatter.feature({
+  "line": 2,
+  "name": "google plus user.",
+  "description": "",
+  "id": "google-plus-user.",
+  "keyword": "Feature",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@Google_plus_create"
+    }
+  ]
+});
+formatter.scenario({
+  "line": 3,
+  "name": "google plus user signin the app.",
+  "description": "",
+  "id": "google-plus-user.;google-plus-user-signin-the-app.",
+  "type": "scenario",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "line": 4,
+  "name": "launch application.",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 5,
+  "name": "the product list as Complete ppts.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 6,
+  "name": "Project list as Scoping Powerpoint product.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 7,
+  "name": "go to download link.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 8,
+  "name": "Click on Create account cta.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 9,
+  "name": "then click on Google plus link button.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 10,
+  "name": "enter a email.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 11,
+  "name": "Go to next page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 12,
+  "name": "enter password.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 13,
+  "name": "Click on next button.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "Redirected to price page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 15,
+  "name": "Subscribe randomly the product.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "the payment information is verify.",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.navigates_to_website_url()"
+});
+formatter.result({
+  "duration": 2115515400,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.click_most_download()"
+});
+formatter.result({
+  "duration": 2095115000,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Google_plus_create_unpaid_defination.click_most_download(Google_plus_create_unpaid_defination.java:56)\r\n\tat ✽.And the product list as Complete ppts.(src/test/resources/Google_Plus(+)_Create_Singin_unpaid.feature:5)\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.select_product()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.click_on_Download_this_presentation_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.create_accuont()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.fb_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.enter_user_mail()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.password_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.enter_user_password()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.click_on_Login_button()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.after_signup_redirect_to_price_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.select_any_of_price_subscription()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.verify_the_payment_option_field()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.scenario({
+  "line": 19,
+  "name": "",
+  "description": "",
+  "id": "google-plus-user.;",
+  "type": "scenario",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "line": 20,
+  "name": "launch application.",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 21,
+  "name": "the product list as Complete ppts.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 22,
+  "name": "Project list as Scoping Powerpoint product.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 23,
+  "name": "go to download link.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 24,
+  "name": "Click on Create account cta.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 25,
+  "name": "then click on Google plus link button.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 26,
+  "name": "Redirected to price page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 27,
+  "name": "Subscribe randomly the product.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 28,
+  "name": "then default payment option is paypal.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 29,
+  "name": "insert coupon as display in screen.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 30,
+  "name": "apply coupon cta.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 31,
+  "name": "Verify the apply coupon code text is appeared.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 32,
+  "name": "Go to checkout payement process page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 33,
+  "name": "Verify the payment screen is paypal is dispalyed.",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.navigates_to_website_url()"
+});
+formatter.result({
+  "duration": 2176445000,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.click_most_download()"
+});
+formatter.result({
+  "duration": 2095899800,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Google_plus_create_unpaid_defination.click_most_download(Google_plus_create_unpaid_defination.java:56)\r\n\tat ✽.And the product list as Complete ppts.(src/test/resources/Google_Plus(+)_Create_Singin_unpaid.feature:21)\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.select_product()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.click_on_Download_this_presentation_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.create_accuont()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.fb_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.after_signup_redirect_to_price_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.select_any_of_price_subscription()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.see_default_payment_option_as_paypal()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.enter_coupon()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.apply_the_cuopon_code()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.verify_the_applied_coupon_code_offer()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.click_on_place_order_CTA()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.verify_the_paypal_payement_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.scenario({
+  "line": 35,
+  "name": "",
+  "description": "",
+  "id": "google-plus-user.;",
+  "type": "scenario",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "line": 36,
+  "name": "launch application.",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 37,
+  "name": "the product list as Complete ppts.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 38,
+  "name": "Project list as Scoping Powerpoint product.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 39,
+  "name": "go to download link.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 40,
+  "name": "Click on Create account cta.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 41,
+  "name": "then click on Google plus link button.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 42,
+  "name": "Redirected to price page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 43,
+  "name": "Subscribe randomly the product.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 44,
+  "name": "then default payment option is paypal.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 45,
+  "name": "Go to checkout payement process page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 46,
+  "name": "Verify the payment screen is paypal is dispalyed.",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.navigates_to_website_url()"
+});
+formatter.result({
+  "duration": 2201313900,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.click_most_download()"
+});
+formatter.result({
+  "duration": 2050727000,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#new-menu\u003eli:nth-child(3)\"}\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63817}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 140c1c3d30c4e28544f79c7d9c8035f6\n*** Element info: {Using\u003dcss selector, value\u003d#new-menu\u003eli:nth-child(3)}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:411)\r\n\tat org.openqa.selenium.By$ByCssSelector.findElement(By.java:431)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Google_plus_create_unpaid_defination.click_most_download(Google_plus_create_unpaid_defination.java:56)\r\n\tat ✽.And the product list as Complete ppts.(src/test/resources/Google_Plus(+)_Create_Singin_unpaid.feature:37)\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.select_product()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.click_on_Download_this_presentation_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.create_accuont()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.fb_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.after_signup_redirect_to_price_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.select_any_of_price_subscription()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.see_default_payment_option_as_paypal()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.click_on_place_order_CTA()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.verify_the_paypal_payement_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.scenario({
+  "line": 49,
+  "name": "On the card page with apply coupon code",
+  "description": "",
+  "id": "google-plus-user.;on-the-card-page-with-apply-coupon-code",
+  "type": "scenario",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "line": 50,
+  "name": "launch application.",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 51,
+  "name": "the product list as Complete ppts.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 52,
+  "name": "Project list as Scoping Powerpoint product.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 53,
+  "name": "go to download link.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 54,
+  "name": "Click on Create account cta.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 55,
+  "name": "then click on Google plus link button.",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 56,
+  "name": "Redirected to price page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 57,
+  "name": "Subscribe randomly the product.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 58,
+  "name": "Click on card radio button.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 59,
+  "name": "insert coupon as display in screen.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 60,
+  "name": "apply coupon cta.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 61,
+  "name": "Verify the apply coupon code text is appeared.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 62,
+  "name": "Go to checkout payement process page.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 63,
+  "name": "Verify the payment page is secure card 2checkout title.",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.navigates_to_website_url()"
+});
+formatter.result({
+  "duration": 5545707700,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.click_most_download()"
 });

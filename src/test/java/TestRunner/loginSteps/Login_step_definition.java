@@ -233,9 +233,9 @@ public class Login_step_definition extends SetupClass {
 	public void apply_the_cuopon_code() throws Throwable {
 		webelement = driver.findElement(SignupObject.Apply_Coupon);
 		js.executeScript("arguments[0].click();", webelement);
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		driver.switchTo().alert().dismiss();
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 
 	}
 

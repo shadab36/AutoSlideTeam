@@ -313,9 +313,9 @@ try {
 	public void apply_the_coupon_code() throws Throwable {
 		webelement = driver.findElement(SignupObject.Apply_Coupon);
 		js.executeScript("arguments[0].click();", webelement);
-		Thread.sleep(1000);
+		Thread.sleep(3000);
 		driver.switchTo().alert().dismiss();
-		Thread.sleep(1000);
+		Thread.sleep(3000);
 	}
 
 	@Then("^Verify the applied coupon code\\.$")
@@ -421,7 +421,7 @@ try {
 		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
 		webelement = driver.findElement(SignupObject.Delete);
 		wait.implictywait(driver);
-		webelement.click();
+		js.executeScript("arguments[0].click();", webelement);
 		Thread.sleep(3000);
 
 	}
