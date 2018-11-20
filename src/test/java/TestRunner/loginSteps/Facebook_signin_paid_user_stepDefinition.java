@@ -53,7 +53,8 @@ public class Facebook_signin_paid_user_stepDefinition extends SetupClass {
 		webelement = driver.findElement(SignupObject.Most);
 		webelement.click();
 		wait.implictywait(driver);
-		Thread.sleep(1000);
+		Thread.sleep(2000);
+	
 	}
 
 	@And("^product as Project Scoping Powerpoint$")
@@ -65,8 +66,9 @@ public class Facebook_signin_paid_user_stepDefinition extends SetupClass {
 	}
 
 	@And("^Click on download this presentation$")
-	public void click_on_Download_this_presentation_link() throws InterruptedException {
+	public void click_on_Download_thist_presentation_link() throws InterruptedException {
 		webelement = driver.findElement(SignupObject.Downloaded);
+		wait.implictywait(driver);
 		webelement.click();
 		Thread.sleep(1000);
 	}

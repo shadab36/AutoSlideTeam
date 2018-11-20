@@ -53,8 +53,17 @@ public class Email_Signin_paidUser_stepDefinition extends SetupClass {
 			webelement = driver.findElement(SignupObject.Most);
 			webelement.click();
 			wait.implictywait(driver);
-			Thread.sleep(1000);
+			Thread.sleep(2000);
+			try {
+				WebElement recommended=driver.findElement(By.cssSelector(".scd-assistant-cards-close>i"));
+				wait.implictywait(driver);
+				recommended.click();
+		Thread.sleep(1000);
+		} catch (NoSuchElementException recomm) {
+
 		}
+		}
+		
 
 		@Then("^Select a product as Project Scoping Powerpoint$")
 		public void select_product() throws InterruptedException {
@@ -69,7 +78,7 @@ public class Email_Signin_paidUser_stepDefinition extends SetupClass {
 			webelement = driver.findElement(SignupObject.Downloaded);
 			wait.implictywait(driver);
 			webelement.click();
-			wait.implictywait(driver);
+			Thread.sleep(1000);
 		}
 
 		@Then("^Enter a user email$")

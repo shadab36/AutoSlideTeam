@@ -70,6 +70,7 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 	@And("^go to download link\\.$")
 	public void click_on_Download_this_presentation_link() throws InterruptedException {
 		webelement = driver.findElement(SignupObject.Downloaded);
+		wait.implictywait(driver);
 		webelement.click();
 		Thread.sleep(1000);
 	}

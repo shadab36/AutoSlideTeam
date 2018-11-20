@@ -65,6 +65,7 @@ import webApp.PerformAction;
 	@And("^Click on download link cta\\.$")
 	public void click_on_Download_this_presentation_link() throws InterruptedException {
 		webelement = driver.findElement(SignupObject.Downloaded);
+		wait.implictywait(driver);
 		webelement.click();
 		Thread.sleep(1000);
 	}
@@ -73,7 +74,7 @@ import webApp.PerformAction;
 	public void google_create() throws InterruptedException {
 		webelement = driver.findElement(LoginObject.Forgot);
 		webelement.click();
-		Thread.sleep(1000);
+		Thread.sleep(3000);
 
 	}
 

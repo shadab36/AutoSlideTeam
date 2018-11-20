@@ -71,8 +71,9 @@ public class SignUp_Step extends SetupClass {
 	public void click_on_Download_this_presentation_link() throws InterruptedException {
 
 		webelement = driver.findElement(SignupObject.Downloaded);
+		wait.implictywait(driver);
 		webelement.click();
-		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
+		Thread.sleep(1000);
 	}
 
 	@Then("^Click on Create an Account CTA\\.$")

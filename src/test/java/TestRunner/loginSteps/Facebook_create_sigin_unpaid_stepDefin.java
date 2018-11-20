@@ -73,6 +73,7 @@ public class Facebook_create_sigin_unpaid_stepDefin extends SetupClass {
 		@And("^Open the download presentation link\\.$")
 		public void open_the_download_presentation_link() throws InterruptedException {
 			webelement = driver.findElement(SignupObject.Downloaded);
+			wait.implictywait(driver);
 			webelement.click();
 			Thread.sleep(1000);
 		}

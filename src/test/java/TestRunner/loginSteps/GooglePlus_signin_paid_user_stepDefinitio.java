@@ -53,7 +53,15 @@ public class GooglePlus_signin_paid_user_stepDefinitio extends SetupClass {
 		webelement = driver.findElement(SignupObject.Most);
 		webelement.click();
 		wait.implictywait(driver);
-		Thread.sleep(1000);
+		Thread.sleep(2000);
+		try {
+			WebElement recommended=driver.findElement(By.cssSelector(".scd-assistant-cards-close>i"));
+			wait.implictywait(driver);
+			recommended.click();
+	Thread.sleep(1000);
+	} catch (NoSuchElementException recommended) {
+
+	}
 	}
 
 	@And("^Select any project slider\\.$")
@@ -67,6 +75,7 @@ public class GooglePlus_signin_paid_user_stepDefinitio extends SetupClass {
 	@And("^Click on downloadbtn test5 link\\.$")
 	public void click_on_Download_this_presentation_link() throws InterruptedException {
 		webelement = driver.findElement(SignupObject.Downloaded);
+		wait.implictywait(driver);
 		webelement.click();
 		Thread.sleep(1000);
 	}
