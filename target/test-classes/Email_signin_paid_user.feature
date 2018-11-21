@@ -5,6 +5,7 @@ Scenario: Already subscribe the product.
 	And Click on Complete ppts 
 	And Select a product as Project Scoping Powerpoint 
 	And Click on download this presentation link 
+	Then chat window option.
 	Then Enter a user email 
 	Then Enter the user password 
 	Then click on Login cta 

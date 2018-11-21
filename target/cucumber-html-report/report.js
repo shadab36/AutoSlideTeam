@@ -74,70 +74,74 @@ formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 6745931400,
+  "duration": 7752166300,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.click_most_download()"
 });
 formatter.result({
-  "duration": 6887431700,
+  "duration": 6308794600,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.select_product()"
 });
 formatter.result({
-  "duration": 4686354400,
+  "duration": 5419520600,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2454616400,
+  "duration": 2982807900,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.fb_link()"
 });
 formatter.result({
-  "duration": 1871186300,
+  "duration": 2724210200,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.enter_user_mail()"
 });
 formatter.result({
-  "duration": 2091946000,
+  "duration": 1282833900,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.enter_user_password()"
 });
 formatter.result({
-  "duration": 5188993200,
+  "duration": 5137876800,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.google_pass()"
 });
 formatter.result({
-  "duration": 1199037000,
+  "duration": 1191609000,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 9748911500,
+  "duration": 8193816900,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.verify_uesr_validation_message_for_Email_Address()"
 });
 formatter.result({
-  "duration": 1122850700,
+  "duration": 1047900200,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 124000,
   "status": "passed"
 });
 formatter.uri("src/test/resources/1facebookUser_already_subscribe.feature");
@@ -211,63 +215,67 @@ formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 37597973500,
+  "duration": 37649536300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 25256283000,
+  "duration": 5467824000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 8326998900,
+  "duration": 4661796700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.click_on_Download_thist_presentation_link()"
 });
 formatter.result({
-  "duration": 2240218200,
+  "duration": 2170488800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 2045477700,
+  "duration": 1766010000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.enter_user_mail()"
 });
 formatter.result({
-  "duration": 322096500,
+  "duration": 369941400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.enter_user_password()"
 });
 formatter.result({
-  "duration": 166239000,
+  "duration": 168193300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 48436656300,
+  "duration": 49664148600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.verify_uesr_validation_message_for_Email_Address()"
 });
 formatter.result({
-  "duration": 1052298200,
+  "duration": 1043615000,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 38600,
   "status": "passed"
 });
 formatter.uri("src/test/resources/2Google_plus_user_logout.feature");
@@ -301,7 +309,11 @@ formatter.match({
   "location": "Google_plus_browser_clear_Step.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 19655125600,
+  "duration": 19154618700,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 31900,
   "status": "passed"
 });
 formatter.uri("src/test/resources/2facebook_logout.feature");
@@ -335,7 +347,11 @@ formatter.match({
   "location": "Fbpaid_User_logout.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 14742478200,
+  "duration": 16068695000,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 32000,
   "status": "passed"
 });
 formatter.uri("src/test/resources/Email_signin_paid_user.feature");
@@ -382,21 +398,26 @@ formatter.step({
 });
 formatter.step({
   "line": 8,
-  "name": "Enter a user email",
+  "name": "chat window option.",
   "keyword": "Then "
 });
 formatter.step({
   "line": 9,
-  "name": "Enter the user password",
+  "name": "Enter a user email",
   "keyword": "Then "
 });
 formatter.step({
   "line": 10,
-  "name": "click on Login cta",
+  "name": "Enter the user password",
   "keyword": "Then "
 });
 formatter.step({
   "line": 11,
+  "name": "click on Login cta",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 12,
   "name": "the download this presenetion link is appeared",
   "keyword": "Then "
 });
@@ -404,56 +425,67 @@ formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 37196853600,
+  "duration": 37498114100,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 24895630300,
+  "duration": 25066507200,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 4734945000,
+  "duration": 5063839600,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2084240900,
+  "duration": 9226897700,
+  "status": "passed"
+});
+formatter.match({
+  "location": "Email_Signin_paidUser_stepDefinition.close_chat_window()"
+});
+formatter.result({
+  "duration": 6262856400,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.enter_user_email_address_as()"
 });
 formatter.result({
-  "duration": 244729000,
+  "duration": 239010300,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.enter_user_password_as()"
 });
 formatter.result({
-  "duration": 189267400,
+  "duration": 179773900,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 7670980200,
+  "duration": 7769127000,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.verify_uesr_validation_message_for_Email_Address()"
 });
 formatter.result({
-  "duration": 1032093400,
+  "duration": 1040086100,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 1487700,
   "status": "passed"
 });
 formatter.uri("src/test/resources/FBUser_Create_sigin.feature");
@@ -542,84 +574,88 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 40368353499,
+  "duration": 38196799500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 8967398600,
+  "duration": 4213391000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 11795762800,
+  "duration": 10018623600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 6998299801,
+  "duration": 2117072400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 7654958100,
+  "duration": 2514088700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 6966659000,
+  "duration": 1672059700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.fb_user_enter_a_valid_email()"
 });
 formatter.result({
-  "duration": 5327199600,
+  "duration": 288087000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.fb_user_enter_valid_password()"
 });
 formatter.result({
-  "duration": 5246904200,
+  "duration": 193190700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_login_cta_on_fb_page()"
 });
 formatter.result({
-  "duration": 32230490200,
+  "duration": 27308512000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2012366900,
+  "duration": 2011378500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 5637961599,
+  "duration": 6859890700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.verify_the_payement_section_on_the_app()"
 });
 formatter.result({
-  "duration": 1044402200,
+  "duration": 1043135900,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 35200,
   "status": "passed"
 });
 formatter.scenario({
@@ -699,91 +735,95 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 38616589400,
+  "duration": 37059527300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 4022709600,
+  "duration": 4274359900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 9844013000,
+  "duration": 10335705800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 2052111699,
+  "duration": 2331092400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 2710281100,
+  "duration": 3023233600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 3125019200,
+  "duration": 2831143000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2053795900,
+  "duration": 2030109300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 5571017800,
+  "duration": 6838039600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.by_default_payment_option_as_paypal_is_selected()"
 });
 formatter.result({
-  "duration": 1106656700,
+  "duration": 1068165400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.enter_coupon()"
 });
 formatter.result({
-  "duration": 123709399,
+  "duration": 120546800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5058377600,
+  "duration": 5043572600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 3043824499,
+  "duration": 3043104600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5087786300,
+  "duration": 5070967300,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 49500,
   "status": "passed"
 });
 formatter.scenario({
@@ -853,77 +893,81 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 36946721700,
+  "duration": 38197975800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 4017417600,
+  "duration": 4745867400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 9735228200,
+  "duration": 9868884800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 2122013000,
+  "duration": 3009747200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 2694992600,
+  "duration": 2706100000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 2521710501,
+  "duration": 3311021800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2093556700,
+  "duration": 2010878700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 5649041001,
+  "duration": 6310054800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.by_default_payment_option_as_paypal_is_selected()"
 });
 formatter.result({
-  "duration": 1075195100,
+  "duration": 1072167900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5084854301,
+  "duration": 5072694700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.verify_the_paypal_payement_page()"
 });
 formatter.result({
-  "duration": 6045724201,
+  "duration": 6010015700,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 53000,
   "status": "passed"
 });
 formatter.scenario({
@@ -1008,98 +1052,102 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 37043145701,
+  "duration": 37448597400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 4186484400,
+  "duration": 3948605700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 9241191000,
+  "duration": 9711646400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 2130338201,
+  "duration": 2057998200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 2643965100,
+  "duration": 2709521700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 3322112700,
+  "duration": 2898351300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2046077699,
+  "duration": 2010136900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 5520922600,
+  "duration": 5749972400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 2161379001,
+  "duration": 2126958800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.enter_coupon()"
 });
 formatter.result({
-  "duration": 105412100,
+  "duration": 105869400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5040508900,
+  "duration": 5041815200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 3049787399,
+  "duration": 3103209900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5082740300,
+  "duration": 5075088100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.card_page()"
 });
 formatter.result({
-  "duration": 7090582700,
+  "duration": 7017022600,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 51700,
   "status": "passed"
 });
 formatter.scenario({
@@ -1169,77 +1217,81 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 36993495600,
+  "duration": 42759828600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 4170353300,
+  "duration": 4685077500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 9572459800,
+  "duration": 10453957800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 2060226399,
+  "duration": 2490151000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 2623583999,
+  "duration": 3278150600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 2567423600,
+  "duration": 4285020800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2055689001,
+  "duration": 2011177000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 5473099700,
+  "duration": 5647942000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 2105107800,
+  "duration": 2129956000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5081221501,
+  "duration": 5069955900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.card_page()"
 });
 formatter.result({
-  "duration": 7092820301,
+  "duration": 7019016200,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 34700,
   "status": "passed"
 });
 formatter.uri("src/test/resources/Facebook_Sigin_Unpaid_User.feature");
@@ -1323,77 +1375,81 @@ formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 37091601700,
+  "duration": 37231549500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 7890002100,
+  "duration": 8381904300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 4564065200,
+  "duration": 4838970300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2048169099,
+  "duration": 2416164200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 2603863601,
+  "duration": 3544559100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.enter_user_mail()"
 });
 formatter.result({
-  "duration": 20060770900,
+  "duration": 20023727600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.enter_user_password()"
 });
 formatter.result({
-  "duration": 20084317300,
+  "duration": 20040396500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 40107969699,
+  "duration": 40080402500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 39028401,
+  "duration": 8870000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5990990400,
+  "duration": 6250742600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_payment_option_field()"
 });
 formatter.result({
-  "duration": 1035271599,
+  "duration": 1050723700,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 32700,
   "status": "passed"
 });
 formatter.scenario({
@@ -1473,91 +1529,95 @@ formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 39933035000,
+  "duration": 37161040100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 7768036600,
+  "duration": 8026808900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 4630552900,
+  "duration": 4976004200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2226833900,
+  "duration": 2267060100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 31357662000,
+  "duration": 3440200200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 47132600,
+  "duration": 17776300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 6549000800,
+  "duration": 5853855100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.see_default_payment_option_as_paypal()"
 });
 formatter.result({
-  "duration": 1070350100,
+  "duration": 1066180300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.enter_coupon()"
 });
 formatter.result({
-  "duration": 123809000,
+  "duration": 124961900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5055633000,
+  "duration": 5038489600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 3047251000,
+  "duration": 3048091400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5085172100,
+  "duration": 5073123800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_paypal_payement_page()"
 });
 formatter.result({
-  "duration": 2030508500,
+  "duration": 2011224800,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 31800,
   "status": "passed"
 });
 formatter.scenario({
@@ -1622,70 +1682,74 @@ formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 37360274800,
+  "duration": 37449019800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 7820936000,
+  "duration": 7936184900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 5191841600,
+  "duration": 4883855400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2117699200,
+  "duration": 2131118400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 42482384000,
+  "duration": 2677954700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 46855500,
+  "duration": 9785300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 6659751100,
+  "duration": 5549888700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.see_default_payment_option_as_paypal()"
 });
 formatter.result({
-  "duration": 1069077200,
+  "duration": 1065282600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5079251100,
+  "duration": 5069151800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_paypal_payement_page()"
 });
 formatter.result({
-  "duration": 2030366400,
+  "duration": 2011263100,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 33600,
   "status": "passed"
 });
 formatter.scenario({
@@ -1765,91 +1829,95 @@ formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 37696810400,
+  "duration": 37176992500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 7922351100,
+  "duration": 7730061000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 4977715500,
+  "duration": 4831680000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2098737900,
+  "duration": 2195299400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 21045447600,
+  "duration": 2486923700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 47170900,
+  "duration": 7741900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5667918600,
+  "duration": 5237870500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 2109278700,
+  "duration": 2113289900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.enter_coupon()"
 });
 formatter.result({
-  "duration": 114955000,
+  "duration": 99893900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5041626800,
+  "duration": 5036735800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 3040251100,
+  "duration": 3042010500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5074163300,
+  "duration": 5077188400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.card_page()"
 });
 formatter.result({
-  "duration": 4086160800,
+  "duration": 4018172500,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 35000,
   "status": "passed"
 });
 formatter.scenario({
@@ -1914,70 +1982,74 @@ formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 37176149300,
+  "duration": 37100874400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 6021211300,
+  "duration": 7618279000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 4495031900,
+  "duration": 4849081700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2022237500,
+  "duration": 2176240800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 6386513900,
+  "duration": 3041176300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 47065800,
+  "duration": 15729600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5963730600,
+  "duration": 5626808500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 2105261700,
+  "duration": 2099241600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5083698500,
+  "duration": 5069209200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.card_page()"
 });
 formatter.result({
-  "duration": 4092574800,
+  "duration": 4017172000,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 32400,
   "status": "passed"
 });
 formatter.uri("src/test/resources/ForgotPassword.feature");
@@ -2131,35 +2203,35 @@ formatter.match({
   "location": "Forgotpassword.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 36961322700,
+  "duration": 37283302500,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.click_most_download()"
 });
 formatter.result({
-  "duration": 4405308000,
+  "duration": 3997092300,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.select_product()"
 });
 formatter.result({
-  "duration": 4865703600,
+  "duration": 4826152100,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2132530200,
+  "duration": 2072290600,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.google_create()"
 });
 formatter.result({
-  "duration": 4098987000,
+  "duration": 4081270600,
   "status": "passed"
 });
 formatter.match({
@@ -2172,14 +2244,14 @@ formatter.match({
   "location": "Forgotpassword.user_mail(String)"
 });
 formatter.result({
-  "duration": 118496300,
+  "duration": 124338100,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.enter_user_mail()"
 });
 formatter.result({
-  "duration": 2035889100,
+  "duration": 2036826000,
   "status": "passed"
 });
 formatter.match({
@@ -2192,7 +2264,11 @@ formatter.match({
   "location": "Forgotpassword.password_page(String)"
 });
 formatter.result({
-  "duration": 43647800,
+  "duration": 48490900,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 484500,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -2332,35 +2408,35 @@ formatter.match({
   "location": "Forgotpassword.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 43796367100,
+  "duration": 43894958900,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.click_most_download()"
 });
 formatter.result({
-  "duration": 3929294800,
+  "duration": 4135137600,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.select_product()"
 });
 formatter.result({
-  "duration": 4313680500,
+  "duration": 4766138800,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2122311800,
+  "duration": 2313689000,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.google_create()"
 });
 formatter.result({
-  "duration": 4111919300,
+  "duration": 4925189100,
   "status": "passed"
 });
 formatter.match({
@@ -2373,14 +2449,14 @@ formatter.match({
   "location": "Forgotpassword.user_mail(String)"
 });
 formatter.result({
-  "duration": 196887100,
+  "duration": 223763100,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.enter_user_mail()"
 });
 formatter.result({
-  "duration": 3194742300,
+  "duration": 3470860300,
   "status": "passed"
 });
 formatter.match({
@@ -2393,7 +2469,11 @@ formatter.match({
   "location": "Forgotpassword.Verify_user_send_email(String)"
 });
 formatter.result({
-  "duration": 37709200,
+  "duration": 42775200,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 45000,
   "status": "passed"
 });
 formatter.uri("src/test/resources/Google_Plus(+)_Create_Singin_unpaid.feature");
@@ -2487,91 +2567,95 @@ formatter.match({
   "location": "Google_plus_create_unpaid_defination.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 43661506200,
+  "duration": 44270149600,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_most_download()"
 });
 formatter.result({
-  "duration": 7835883500,
+  "duration": 8218848700,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_product()"
 });
 formatter.result({
-  "duration": 4665270000,
+  "duration": 4656168400,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2442610300,
+  "duration": 2204295800,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.create_accuont()"
 });
 formatter.result({
-  "duration": 1671162200,
+  "duration": 2435121800,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.fb_link()"
 });
 formatter.result({
-  "duration": 1296550500,
+  "duration": 1293417700,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.enter_user_mail()"
 });
 formatter.result({
-  "duration": 2873214600,
+  "duration": 3009112100,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.password_page()"
 });
 formatter.result({
-  "duration": 3139889000,
+  "duration": 3127272800,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.enter_user_password()"
 });
 formatter.result({
-  "duration": 2202349000,
+  "duration": 2155291100,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 10137186600,
+  "duration": 10100071500,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 15768000,
+  "duration": 15603800,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5861527600,
+  "duration": 5583809000,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.verify_the_payment_option_field()"
 });
 formatter.result({
-  "duration": 1035350200,
+  "duration": 1038283600,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 26100,
   "status": "passed"
 });
 formatter.scenario({
@@ -2656,98 +2740,102 @@ formatter.match({
   "location": "Google_plus_create_unpaid_defination.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 36755563700,
+  "duration": 36985674500,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_most_download()"
 });
 formatter.result({
-  "duration": 7542231300,
+  "duration": 7850105600,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_product()"
 });
 formatter.result({
-  "duration": 4844853400,
+  "duration": 4501175700,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2278495000,
+  "duration": 2083168200,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.create_accuont()"
 });
 formatter.result({
-  "duration": 1671097100,
+  "duration": 1714190100,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.fb_link()"
 });
 formatter.result({
-  "duration": 3831078800,
+  "duration": 4271153900,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 58798400,
+  "duration": 11698500,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5482742700,
+  "duration": 5577832000,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.see_default_payment_option_as_paypal()"
 });
 formatter.result({
-  "duration": 1069205900,
+  "duration": 1067277000,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.enter_coupon()"
 });
 formatter.result({
-  "duration": 120792300,
+  "duration": 104711400,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5035735000,
+  "duration": 5038877300,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 3041176700,
+  "duration": 3088113200,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5073108400,
+  "duration": 5123134200,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.verify_the_paypal_payement_page()"
 });
 formatter.result({
-  "duration": 2030325900,
+  "duration": 2010104600,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 24500,
   "status": "passed"
 });
 formatter.scenario({
@@ -2817,77 +2905,81 @@ formatter.match({
   "location": "Google_plus_create_unpaid_defination.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 36980687400,
+  "duration": 37297315600,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_most_download()"
 });
 formatter.result({
-  "duration": 7427792000,
+  "duration": 7558148600,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_product()"
 });
 formatter.result({
-  "duration": 4772632900,
+  "duration": 5027136000,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2084288700,
+  "duration": 2022226400,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.create_accuont()"
 });
 formatter.result({
-  "duration": 1639838100,
+  "duration": 1748428000,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.fb_link()"
 });
 formatter.result({
-  "duration": 4607901500,
+  "duration": 4021001300,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 46937400,
+  "duration": 10664200,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5599319000,
+  "duration": 5469940700,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.see_default_payment_option_as_paypal()"
 });
 formatter.result({
-  "duration": 1070310400,
+  "duration": 1065232100,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5077052800,
+  "duration": 5070090500,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.verify_the_paypal_payement_page()"
 });
 formatter.result({
-  "duration": 2030488900,
+  "duration": 2009286900,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 29700,
   "status": "passed"
 });
 formatter.scenario({
@@ -2972,98 +3064,102 @@ formatter.match({
   "location": "Google_plus_create_unpaid_defination.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 37017924600,
+  "duration": 37054543500,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_most_download()"
 });
 formatter.result({
-  "duration": 7742844800,
+  "duration": 8877036100,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_product()"
 });
 formatter.result({
-  "duration": 4832296900,
+  "duration": 4656162400,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2134823500,
+  "duration": 2023256600,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.create_accuont()"
 });
 formatter.result({
-  "duration": 1733459400,
+  "duration": 1640984300,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.fb_link()"
 });
 formatter.result({
-  "duration": 4697188200,
+  "duration": 7441966800,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 67221900,
+  "duration": 8663800,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5512194800,
+  "duration": 5811042800,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 2111231600,
+  "duration": 2096269700,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.enter_coupon()"
 });
 formatter.result({
-  "duration": 101809500,
+  "duration": 105542600,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5039675100,
+  "duration": 5037722100,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 3038243400,
+  "duration": 3041817300,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5082344300,
+  "duration": 5086140100,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.card_page()"
 });
 formatter.result({
-  "duration": 2077274600,
+  "duration": 2015150300,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 28200,
   "status": "passed"
 });
 formatter.scenario({
@@ -3133,77 +3229,81 @@ formatter.match({
   "location": "Google_plus_create_unpaid_defination.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 40073568800,
+  "duration": 37505396300,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_most_download()"
 });
 formatter.result({
-  "duration": 10483339100,
+  "duration": 7925066300,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_product()"
 });
 formatter.result({
-  "duration": 9657050500,
+  "duration": 4875178100,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 5273220200,
+  "duration": 2280945800,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.create_accuont()"
 });
 formatter.result({
-  "duration": 1676258600,
+  "duration": 1692268900,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.fb_link()"
 });
 formatter.result({
-  "duration": 3717955700,
+  "duration": 30570373500,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 38866000,
+  "duration": 7597700,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5847717400,
+  "duration": 6595901400,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 2102279700,
+  "duration": 2099214300,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5069708600,
+  "duration": 5068067700,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.card_page()"
 });
 formatter.result({
-  "duration": 2077239500,
+  "duration": 2015282900,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 25900,
   "status": "passed"
 });
 formatter.uri("src/test/resources/Signup.feature");
@@ -3263,35 +3363,39 @@ formatter.match({
   "location": "SignUp_Step.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 37330002000,
+  "duration": 37133926100,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_most_download()"
 });
 formatter.result({
-  "duration": 6891230400,
+  "duration": 6731717100,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.select_product()"
 });
 formatter.result({
-  "duration": 2785248700,
+  "duration": 2838245800,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2049973200,
+  "duration": 2231837600,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.reate_an_Account_CTA()"
 });
 formatter.result({
-  "duration": 2858613400,
+  "duration": 2971180100,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 281900,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -3397,28 +3501,91 @@ formatter.examples({
       "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;1"
     },
     {
-      "comments": [
-        {
-          "line": 27,
-          "value": "#\t\t|                                 |                 |             |                 |                    |This is a required field.                              |This is a required field.   |This is a required field. |This is a required field.                                                      |    This is a required field.          |                                                                                                                                                             |"
-        },
-        {
-          "line": 28,
-          "value": "#\t\t|selenium.testing1234@gmail.com   |    Test         |             |                 |                    |                                                       |                            |This is a required field. |This is a required field.                                                      |This is a required field.              |                                                                                                                                                             |"
-        },
-        {
-          "line": 29,
-          "value": "#\t\t|selenium.testing1234@gmail.com   |    Test         |   Test      |                 |                    |                                                       |                            |                          |This is a required field.                                                      |This is a required field.              |                                                                                                                                                             |"
-        },
-        {
-          "line": 30,
-          "value": "#\t\t|selenium.testing1234@gmail.com   |    Test         |   Test      |   1234          |                    |                                                       |                            |                          |Please enter 6 or more characters. Leading or trailing spaces will be ignored. |This is a required field.              |                                                                                                                                                             |"
-        },
-        {
-          "line": 31,
-          "value": "#\t\t|selenium.testing1234@gmail.com   |    Test         |   Test      |    123456       |         654221     |                                                       |                            |                          |                                                                               | Please make sure your passwords match.|                                                                                                                                                             |"
-        }
+      "cells": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "This is a required field.",
+        "This is a required field.",
+        "This is a required field.",
+        "This is a required field.",
+        "This is a required field.",
+        ""
       ],
+      "line": 27,
+      "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;2"
+    },
+    {
+      "cells": [
+        "selenium.testing1234@gmail.com",
+        "Test",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "This is a required field.",
+        "This is a required field.",
+        "This is a required field.",
+        ""
+      ],
+      "line": 28,
+      "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;3"
+    },
+    {
+      "cells": [
+        "selenium.testing1234@gmail.com",
+        "Test",
+        "Test",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "This is a required field.",
+        "This is a required field.",
+        ""
+      ],
+      "line": 29,
+      "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;4"
+    },
+    {
+      "cells": [
+        "selenium.testing1234@gmail.com",
+        "Test",
+        "Test",
+        "1234",
+        "",
+        "",
+        "",
+        "",
+        "Please enter 6 or more characters. Leading or trailing spaces will be ignored.",
+        "This is a required field.",
+        ""
+      ],
+      "line": 30,
+      "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;5"
+    },
+    {
+      "cells": [
+        "selenium.testing1234@gmail.com",
+        "Test",
+        "Test",
+        "123456",
+        "654221",
+        "",
+        "",
+        "",
+        "",
+        "Please make sure your passwords match.",
+        ""
+      ],
+      "line": 31,
+      "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;6"
+    },
+    {
       "cells": [
         "selenium.testing1234@gmail.com",
         "Test",
@@ -3433,38 +3600,1381 @@ formatter.examples({
         "There is already an account with this email address. If you are sure that it is your email address, click here to get your password and access your account."
       ],
       "line": 32,
-      "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;2"
+      "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;7"
     }
   ],
   "keyword": "Examples"
 });
 formatter.scenario({
-  "comments": [
-    {
-      "line": 27,
-      "value": "#\t\t|                                 |                 |             |                 |                    |This is a required field.                              |This is a required field.   |This is a required field. |This is a required field.                                                      |    This is a required field.          |                                                                                                                                                             |"
-    },
-    {
-      "line": 28,
-      "value": "#\t\t|selenium.testing1234@gmail.com   |    Test         |             |                 |                    |                                                       |                            |This is a required field. |This is a required field.                                                      |This is a required field.              |                                                                                                                                                             |"
-    },
-    {
-      "line": 29,
-      "value": "#\t\t|selenium.testing1234@gmail.com   |    Test         |   Test      |                 |                    |                                                       |                            |                          |This is a required field.                                                      |This is a required field.              |                                                                                                                                                             |"
-    },
-    {
-      "line": 30,
-      "value": "#\t\t|selenium.testing1234@gmail.com   |    Test         |   Test      |   1234          |                    |                                                       |                            |                          |Please enter 6 or more characters. Leading or trailing spaces will be ignored. |This is a required field.              |                                                                                                                                                             |"
-    },
-    {
-      "line": 31,
-      "value": "#\t\t|selenium.testing1234@gmail.com   |    Test         |   Test      |    123456       |         654221     |                                                       |                            |                          |                                                                               | Please make sure your passwords match.|                                                                                                                                                             |"
-    }
-  ],
-  "line": 32,
+  "line": 27,
   "name": "Data driving for invalid data for sign-up.",
   "description": "",
   "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;2",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@signupTest"
+    }
+  ]
+});
+formatter.step({
+  "line": 12,
+  "name": "Enter Email Address as \"\".",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 13,
+  "name": "Enter First Name as \"\".",
+  "matchedColumns": [
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "Enter Last Name as \"\".",
+  "matchedColumns": [
+    2
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 15,
+  "name": "Enter Password as \"\".",
+  "matchedColumns": [
+    3
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "Enter Confirm password as \"\".",
+  "matchedColumns": [
+    4
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "Enter the captcha.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 18,
+  "name": "click on Signup button.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "Verify \"This is a required field.\" validation message for Email Address.",
+  "matchedColumns": [
+    5
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "Verify \"This is a required field.\" validation message for First Name.",
+  "matchedColumns": [
+    6
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 21,
+  "name": "Verify \"This is a required field.\" validation message forLast Name.",
+  "matchedColumns": [
+    7
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 22,
+  "name": "Verify \"This is a required field.\" validation message for Password.",
+  "matchedColumns": [
+    8
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 23,
+  "name": "Verify \"This is a required field.\" validation message for Confirm_password.",
+  "matchedColumns": [
+    9
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 24,
+  "name": "Verify \"\" message for all invalid credentials.",
+  "matchedColumns": [
+    10
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 24
+    }
+  ],
+  "location": "SignUp_Step.enter_Email_Address_as(String)"
+});
+formatter.result({
+  "duration": 148896900,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 21
+    }
+  ],
+  "location": "SignUp_Step.enter_First_Name_as(String)"
+});
+formatter.result({
+  "duration": 141044200,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 20
+    }
+  ],
+  "location": "SignUp_Step.enter_Last_Name_as(String)"
+});
+formatter.result({
+  "duration": 110399200,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 19
+    }
+  ],
+  "location": "SignUp_Step.enter_password(String)"
+});
+formatter.result({
+  "duration": 1116306900,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 27
+    }
+  ],
+  "location": "SignUp_Step.enter_Confirm_password_as(String)"
+});
+formatter.result({
+  "duration": 121456300,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.enter_the_captcha()"
+});
+formatter.result({
+  "duration": 1135934100,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.click_on_Signup_button()"
+});
+formatter.result({
+  "duration": 3169021400,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "This is a required field.",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_Email_Address(String)"
+});
+formatter.result({
+  "duration": 2032773100,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "This is a required field.",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_First_Name(String)"
+});
+formatter.result({
+  "duration": 33706900,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "This is a required field.",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_forLast_Name(String)"
+});
+formatter.result({
+  "duration": 33929300,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "This is a required field.",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_password(String)"
+});
+formatter.result({
+  "duration": 20043875400,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "This is a required field.",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_Confirm_password(String)"
+});
+formatter.result({
+  "duration": 20048296800,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.message_for_all_invalid_credentials(String)"
+});
+formatter.result({
+  "duration": 20052045300,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 47700,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 28,
+  "name": "Data driving for invalid data for sign-up.",
+  "description": "",
+  "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;3",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@signupTest"
+    }
+  ]
+});
+formatter.step({
+  "line": 12,
+  "name": "Enter Email Address as \"selenium.testing1234@gmail.com\".",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 13,
+  "name": "Enter First Name as \"Test\".",
+  "matchedColumns": [
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "Enter Last Name as \"\".",
+  "matchedColumns": [
+    2
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 15,
+  "name": "Enter Password as \"\".",
+  "matchedColumns": [
+    3
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "Enter Confirm password as \"\".",
+  "matchedColumns": [
+    4
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "Enter the captcha.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 18,
+  "name": "click on Signup button.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "Verify \"\" validation message for Email Address.",
+  "matchedColumns": [
+    5
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "Verify \"\" validation message for First Name.",
+  "matchedColumns": [
+    6
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 21,
+  "name": "Verify \"This is a required field.\" validation message forLast Name.",
+  "matchedColumns": [
+    7
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 22,
+  "name": "Verify \"This is a required field.\" validation message for Password.",
+  "matchedColumns": [
+    8
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 23,
+  "name": "Verify \"This is a required field.\" validation message for Confirm_password.",
+  "matchedColumns": [
+    9
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 24,
+  "name": "Verify \"\" message for all invalid credentials.",
+  "matchedColumns": [
+    10
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "selenium.testing1234@gmail.com",
+      "offset": 24
+    }
+  ],
+  "location": "SignUp_Step.enter_Email_Address_as(String)"
+});
+formatter.result({
+  "duration": 290590500,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Test",
+      "offset": 21
+    }
+  ],
+  "location": "SignUp_Step.enter_First_Name_as(String)"
+});
+formatter.result({
+  "duration": 147257700,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 20
+    }
+  ],
+  "location": "SignUp_Step.enter_Last_Name_as(String)"
+});
+formatter.result({
+  "duration": 114159500,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 19
+    }
+  ],
+  "location": "SignUp_Step.enter_password(String)"
+});
+formatter.result({
+  "duration": 1120318600,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 27
+    }
+  ],
+  "location": "SignUp_Step.enter_Confirm_password_as(String)"
+});
+formatter.result({
+  "duration": 113446600,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.enter_the_captcha()"
+});
+formatter.result({
+  "duration": 1156792700,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.click_on_Signup_button()"
+});
+formatter.result({
+  "duration": 3160330100,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_Email_Address(String)"
+});
+formatter.result({
+  "duration": 2031286800,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_First_Name(String)"
+});
+formatter.result({
+  "duration": 30805600,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "This is a required field.",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_forLast_Name(String)"
+});
+formatter.result({
+  "duration": 32458200,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "This is a required field.",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_password(String)"
+});
+formatter.result({
+  "duration": 20020814500,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "This is a required field.",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_Confirm_password(String)"
+});
+formatter.result({
+  "duration": 20070123600,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.message_for_all_invalid_credentials(String)"
+});
+formatter.result({
+  "duration": 20069971700,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 25300,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 29,
+  "name": "Data driving for invalid data for sign-up.",
+  "description": "",
+  "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;4",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@signupTest"
+    }
+  ]
+});
+formatter.step({
+  "line": 12,
+  "name": "Enter Email Address as \"selenium.testing1234@gmail.com\".",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 13,
+  "name": "Enter First Name as \"Test\".",
+  "matchedColumns": [
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "Enter Last Name as \"Test\".",
+  "matchedColumns": [
+    2
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 15,
+  "name": "Enter Password as \"\".",
+  "matchedColumns": [
+    3
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "Enter Confirm password as \"\".",
+  "matchedColumns": [
+    4
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "Enter the captcha.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 18,
+  "name": "click on Signup button.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "Verify \"\" validation message for Email Address.",
+  "matchedColumns": [
+    5
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "Verify \"\" validation message for First Name.",
+  "matchedColumns": [
+    6
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 21,
+  "name": "Verify \"\" validation message forLast Name.",
+  "matchedColumns": [
+    7
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 22,
+  "name": "Verify \"This is a required field.\" validation message for Password.",
+  "matchedColumns": [
+    8
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 23,
+  "name": "Verify \"This is a required field.\" validation message for Confirm_password.",
+  "matchedColumns": [
+    9
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 24,
+  "name": "Verify \"\" message for all invalid credentials.",
+  "matchedColumns": [
+    10
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "selenium.testing1234@gmail.com",
+      "offset": 24
+    }
+  ],
+  "location": "SignUp_Step.enter_Email_Address_as(String)"
+});
+formatter.result({
+  "duration": 255511200,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Test",
+      "offset": 21
+    }
+  ],
+  "location": "SignUp_Step.enter_First_Name_as(String)"
+});
+formatter.result({
+  "duration": 142999100,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Test",
+      "offset": 20
+    }
+  ],
+  "location": "SignUp_Step.enter_Last_Name_as(String)"
+});
+formatter.result({
+  "duration": 130158700,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 19
+    }
+  ],
+  "location": "SignUp_Step.enter_password(String)"
+});
+formatter.result({
+  "duration": 1144060400,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 27
+    }
+  ],
+  "location": "SignUp_Step.enter_Confirm_password_as(String)"
+});
+formatter.result({
+  "duration": 169111400,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.enter_the_captcha()"
+});
+formatter.result({
+  "duration": 1150706700,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.click_on_Signup_button()"
+});
+formatter.result({
+  "duration": 3111365700,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_Email_Address(String)"
+});
+formatter.result({
+  "duration": 2032316700,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_First_Name(String)"
+});
+formatter.result({
+  "duration": 33811600,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_forLast_Name(String)"
+});
+formatter.result({
+  "duration": 31467200,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "This is a required field.",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_password(String)"
+});
+formatter.result({
+  "duration": 20015336400,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "This is a required field.",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_Confirm_password(String)"
+});
+formatter.result({
+  "duration": 20039867500,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.message_for_all_invalid_credentials(String)"
+});
+formatter.result({
+  "duration": 20052902900,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 35400,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 30,
+  "name": "Data driving for invalid data for sign-up.",
+  "description": "",
+  "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;5",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@signupTest"
+    }
+  ]
+});
+formatter.step({
+  "line": 12,
+  "name": "Enter Email Address as \"selenium.testing1234@gmail.com\".",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 13,
+  "name": "Enter First Name as \"Test\".",
+  "matchedColumns": [
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "Enter Last Name as \"Test\".",
+  "matchedColumns": [
+    2
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 15,
+  "name": "Enter Password as \"1234\".",
+  "matchedColumns": [
+    3
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "Enter Confirm password as \"\".",
+  "matchedColumns": [
+    4
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "Enter the captcha.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 18,
+  "name": "click on Signup button.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "Verify \"\" validation message for Email Address.",
+  "matchedColumns": [
+    5
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "Verify \"\" validation message for First Name.",
+  "matchedColumns": [
+    6
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 21,
+  "name": "Verify \"\" validation message forLast Name.",
+  "matchedColumns": [
+    7
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 22,
+  "name": "Verify \"Please enter 6 or more characters. Leading or trailing spaces will be ignored.\" validation message for Password.",
+  "matchedColumns": [
+    8
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 23,
+  "name": "Verify \"This is a required field.\" validation message for Confirm_password.",
+  "matchedColumns": [
+    9
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 24,
+  "name": "Verify \"\" message for all invalid credentials.",
+  "matchedColumns": [
+    10
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "selenium.testing1234@gmail.com",
+      "offset": 24
+    }
+  ],
+  "location": "SignUp_Step.enter_Email_Address_as(String)"
+});
+formatter.result({
+  "duration": 249080400,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Test",
+      "offset": 21
+    }
+  ],
+  "location": "SignUp_Step.enter_First_Name_as(String)"
+});
+formatter.result({
+  "duration": 171500200,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Test",
+      "offset": 20
+    }
+  ],
+  "location": "SignUp_Step.enter_Last_Name_as(String)"
+});
+formatter.result({
+  "duration": 128457800,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "1234",
+      "offset": 19
+    }
+  ],
+  "location": "SignUp_Step.enter_password(String)"
+});
+formatter.result({
+  "duration": 1129450100,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 27
+    }
+  ],
+  "location": "SignUp_Step.enter_Confirm_password_as(String)"
+});
+formatter.result({
+  "duration": 126014400,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.enter_the_captcha()"
+});
+formatter.result({
+  "duration": 1153236900,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.click_on_Signup_button()"
+});
+formatter.result({
+  "duration": 3108390500,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_Email_Address(String)"
+});
+formatter.result({
+  "duration": 2031268900,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_First_Name(String)"
+});
+formatter.result({
+  "duration": 44002200,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_forLast_Name(String)"
+});
+formatter.result({
+  "duration": 34842900,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Please enter 6 or more characters. Leading or trailing spaces will be ignored.",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_password(String)"
+});
+formatter.result({
+  "duration": 98730800,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "This is a required field.",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_Confirm_password(String)"
+});
+formatter.result({
+  "duration": 20049643000,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.message_for_all_invalid_credentials(String)"
+});
+formatter.result({
+  "duration": 20010635300,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 36200,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 31,
+  "name": "Data driving for invalid data for sign-up.",
+  "description": "",
+  "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;6",
+  "type": "scenario",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@signupTest"
+    }
+  ]
+});
+formatter.step({
+  "line": 12,
+  "name": "Enter Email Address as \"selenium.testing1234@gmail.com\".",
+  "matchedColumns": [
+    0
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 13,
+  "name": "Enter First Name as \"Test\".",
+  "matchedColumns": [
+    1
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 14,
+  "name": "Enter Last Name as \"Test\".",
+  "matchedColumns": [
+    2
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 15,
+  "name": "Enter Password as \"123456\".",
+  "matchedColumns": [
+    3
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 16,
+  "name": "Enter Confirm password as \"654221\".",
+  "matchedColumns": [
+    4
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 17,
+  "name": "Enter the captcha.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 18,
+  "name": "click on Signup button.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 19,
+  "name": "Verify \"\" validation message for Email Address.",
+  "matchedColumns": [
+    5
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 20,
+  "name": "Verify \"\" validation message for First Name.",
+  "matchedColumns": [
+    6
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 21,
+  "name": "Verify \"\" validation message forLast Name.",
+  "matchedColumns": [
+    7
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 22,
+  "name": "Verify \"\" validation message for Password.",
+  "matchedColumns": [
+    8
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 23,
+  "name": "Verify \"Please make sure your passwords match.\" validation message for Confirm_password.",
+  "matchedColumns": [
+    9
+  ],
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 24,
+  "name": "Verify \"\" message for all invalid credentials.",
+  "matchedColumns": [
+    10
+  ],
+  "keyword": "Then "
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "selenium.testing1234@gmail.com",
+      "offset": 24
+    }
+  ],
+  "location": "SignUp_Step.enter_Email_Address_as(String)"
+});
+formatter.result({
+  "duration": 253669000,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Test",
+      "offset": 21
+    }
+  ],
+  "location": "SignUp_Step.enter_First_Name_as(String)"
+});
+formatter.result({
+  "duration": 132495200,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Test",
+      "offset": 20
+    }
+  ],
+  "location": "SignUp_Step.enter_Last_Name_as(String)"
+});
+formatter.result({
+  "duration": 139785400,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "123456",
+      "offset": 19
+    }
+  ],
+  "location": "SignUp_Step.enter_password(String)"
+});
+formatter.result({
+  "duration": 1141117500,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "654221",
+      "offset": 27
+    }
+  ],
+  "location": "SignUp_Step.enter_Confirm_password_as(String)"
+});
+formatter.result({
+  "duration": 129467000,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.enter_the_captcha()"
+});
+formatter.result({
+  "duration": 1146681100,
+  "status": "passed"
+});
+formatter.match({
+  "location": "SignUp_Step.click_on_Signup_button()"
+});
+formatter.result({
+  "duration": 3146444200,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_Email_Address(String)"
+});
+formatter.result({
+  "duration": 2032322100,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_First_Name(String)"
+});
+formatter.result({
+  "duration": 31797400,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_forLast_Name(String)"
+});
+formatter.result({
+  "duration": 32607700,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_password(String)"
+});
+formatter.result({
+  "duration": 30251800,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "Please make sure your passwords match.",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.verify_validation_message_for_Confirm_password(String)"
+});
+formatter.result({
+  "duration": 20039408500,
+  "status": "passed"
+});
+formatter.match({
+  "arguments": [
+    {
+      "val": "",
+      "offset": 8
+    }
+  ],
+  "location": "SignUp_Step.message_for_all_invalid_credentials(String)"
+});
+formatter.result({
+  "duration": 20002737500,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 24900,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 32,
+  "name": "Data driving for invalid data for sign-up.",
+  "description": "",
+  "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;7",
   "type": "scenario",
   "keyword": "Scenario Outline",
   "tags": [
@@ -3582,7 +5092,7 @@ formatter.match({
   "location": "SignUp_Step.enter_Email_Address_as(String)"
 });
 formatter.result({
-  "duration": 281116600,
+  "duration": 258224800,
   "status": "passed"
 });
 formatter.match({
@@ -3595,7 +5105,7 @@ formatter.match({
   "location": "SignUp_Step.enter_First_Name_as(String)"
 });
 formatter.result({
-  "duration": 213531000,
+  "duration": 140658600,
   "status": "passed"
 });
 formatter.match({
@@ -3608,7 +5118,7 @@ formatter.match({
   "location": "SignUp_Step.enter_Last_Name_as(String)"
 });
 formatter.result({
-  "duration": 175004100,
+  "duration": 146254800,
   "status": "passed"
 });
 formatter.match({
@@ -3621,7 +5131,7 @@ formatter.match({
   "location": "SignUp_Step.enter_password(String)"
 });
 formatter.result({
-  "duration": 1142458800,
+  "duration": 1165453700,
   "status": "passed"
 });
 formatter.match({
@@ -3634,21 +5144,21 @@ formatter.match({
   "location": "SignUp_Step.enter_Confirm_password_as(String)"
 });
 formatter.result({
-  "duration": 142849100,
+  "duration": 149017600,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.enter_the_captcha()"
 });
 formatter.result({
-  "duration": 1152473700,
+  "duration": 1203148900,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_Signup_button()"
 });
 formatter.result({
-  "duration": 4253747300,
+  "duration": 4917308500,
   "status": "passed"
 });
 formatter.match({
@@ -3661,7 +5171,7 @@ formatter.match({
   "location": "SignUp_Step.verify_validation_message_for_Email_Address(String)"
 });
 formatter.result({
-  "duration": 20056095400,
+  "duration": 20060601100,
   "status": "passed"
 });
 formatter.match({
@@ -3674,7 +5184,7 @@ formatter.match({
   "location": "SignUp_Step.verify_validation_message_for_First_Name(String)"
 });
 formatter.result({
-  "duration": 20061874100,
+  "duration": 20054700400,
   "status": "passed"
 });
 formatter.match({
@@ -3687,7 +5197,7 @@ formatter.match({
   "location": "SignUp_Step.verify_validation_message_forLast_Name(String)"
 });
 formatter.result({
-  "duration": 20079606400,
+  "duration": 20047789700,
   "status": "passed"
 });
 formatter.match({
@@ -3700,7 +5210,7 @@ formatter.match({
   "location": "SignUp_Step.verify_validation_message_for_password(String)"
 });
 formatter.result({
-  "duration": 20058109300,
+  "duration": 20045023000,
   "status": "passed"
 });
 formatter.match({
@@ -3713,7 +5223,7 @@ formatter.match({
   "location": "SignUp_Step.verify_validation_message_for_Confirm_password(String)"
 });
 formatter.result({
-  "duration": 20030103700,
+  "duration": 20040656600,
   "status": "passed"
 });
 formatter.match({
@@ -3726,7 +5236,11 @@ formatter.match({
   "location": "SignUp_Step.message_for_all_invalid_credentials(String)"
 });
 formatter.result({
-  "duration": 71532000,
+  "duration": 35189800,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 28600,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -3883,7 +5397,7 @@ formatter.match({
   "location": "SignUp_Step.Enter_Email_credentials(String)"
 });
 formatter.result({
-  "duration": 292954900,
+  "duration": 252588600,
   "status": "passed"
 });
 formatter.match({
@@ -3896,7 +5410,7 @@ formatter.match({
   "location": "SignUp_Step.enter_First_Name_as(String)"
 });
 formatter.result({
-  "duration": 140734100,
+  "duration": 135798300,
   "status": "passed"
 });
 formatter.match({
@@ -3909,7 +5423,7 @@ formatter.match({
   "location": "SignUp_Step.enter_Last_Name_as(String)"
 });
 formatter.result({
-  "duration": 137411400,
+  "duration": 128478600,
   "status": "passed"
 });
 formatter.match({
@@ -3922,7 +5436,7 @@ formatter.match({
   "location": "SignUp_Step.enter_password(String)"
 });
 formatter.result({
-  "duration": 1155835400,
+  "duration": 1192392200,
   "status": "passed"
 });
 formatter.match({
@@ -3935,21 +5449,25 @@ formatter.match({
   "location": "SignUp_Step.enter_Confirm_password_as(String)"
 });
 formatter.result({
-  "duration": 134096500,
+  "duration": 135402700,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.enter_the_captcha()"
 });
 formatter.result({
-  "duration": 1155063600,
+  "duration": 1147737000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_Signup_button()"
 });
 formatter.result({
-  "duration": 4659480000,
+  "duration": 4640436400,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 33400,
   "status": "passed"
 });
 formatter.scenario({
@@ -4005,49 +5523,53 @@ formatter.match({
   "location": "SignUp_Step.verify_the_price_page()"
 });
 formatter.result({
-  "duration": 1013734600,
+  "duration": 1017438300,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.select_price_subscription()"
 });
 formatter.result({
-  "duration": 4567519100,
+  "duration": 4815180300,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.payement_option()"
 });
 formatter.result({
-  "duration": 4037331800,
+  "duration": 4038333400,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.my_account_link()"
 });
 formatter.result({
-  "duration": 4164969700,
+  "duration": 4435319000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.delete_account_link()"
 });
 formatter.result({
-  "duration": 3155277800,
+  "duration": 3159301400,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.confirm_yes_()"
 });
 formatter.result({
-  "duration": 5076155100,
+  "duration": 5070286900,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.delete_confirmation_message()"
 });
 formatter.result({
-  "duration": 2046438400,
+  "duration": 2042328900,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 42400,
   "status": "passed"
 });
 formatter.scenario({
@@ -4093,35 +5615,39 @@ formatter.match({
   "location": "SignUp_Step.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 44378438200,
+  "duration": 44032448600,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_most_download()"
 });
 formatter.result({
-  "duration": 7193389900,
+  "duration": 7669412200,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.select_product()"
 });
 formatter.result({
-  "duration": 3045559500,
+  "duration": 3537810000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2133873700,
+  "duration": 4730609400,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.reate_an_Account_CTA()"
 });
 formatter.result({
-  "duration": 2863570600,
+  "duration": 3150434400,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 38700,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -4282,7 +5808,7 @@ formatter.match({
   "location": "SignUp_Step.Enter_Email_credentials(String)"
 });
 formatter.result({
-  "duration": 346095100,
+  "duration": 311897100,
   "status": "passed"
 });
 formatter.match({
@@ -4295,7 +5821,7 @@ formatter.match({
   "location": "SignUp_Step.enter_First_Name_as(String)"
 });
 formatter.result({
-  "duration": 176739200,
+  "duration": 134778700,
   "status": "passed"
 });
 formatter.match({
@@ -4308,7 +5834,7 @@ formatter.match({
   "location": "SignUp_Step.enter_Last_Name_as(String)"
 });
 formatter.result({
-  "duration": 139479500,
+  "duration": 168544300,
   "status": "passed"
 });
 formatter.match({
@@ -4321,7 +5847,7 @@ formatter.match({
   "location": "SignUp_Step.enter_password(String)"
 });
 formatter.result({
-  "duration": 1140529100,
+  "duration": 1152445900,
   "status": "passed"
 });
 formatter.match({
@@ -4334,21 +5860,25 @@ formatter.match({
   "location": "SignUp_Step.enter_Confirm_password_as(String)"
 });
 formatter.result({
-  "duration": 191269200,
+  "duration": 128563400,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.enter_the_captcha()"
 });
 formatter.result({
-  "duration": 1149724000,
+  "duration": 1142580500,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_Signup_button()"
 });
 formatter.result({
-  "duration": 4619218000,
+  "duration": 4571451400,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 32400,
   "status": "passed"
 });
 formatter.scenario({
@@ -4434,91 +5964,95 @@ formatter.match({
   "location": "SignUp_Step.verify_the_price_page()"
 });
 formatter.result({
-  "duration": 1017169300,
+  "duration": 1028940900,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.select_price_subscription()"
 });
 formatter.result({
-  "duration": 4765190600,
+  "duration": 5482268800,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.select_the_default_payment_option_as_paypal()"
 });
 formatter.result({
-  "duration": 1067443700,
+  "duration": 1067293200,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.Enter_the_coupon_code()"
 });
 formatter.result({
-  "duration": 1107915200,
+  "duration": 1106803000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.apply_the_coupon_code()"
 });
 formatter.result({
-  "duration": 6048814900,
+  "duration": 6034765000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.applied_coupon_code()"
 });
 formatter.result({
-  "duration": 3039346600,
+  "duration": 3055155100,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_place_order_cta()"
 });
 formatter.result({
-  "duration": 5068083500,
+  "duration": 5081172700,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.paypal_payement_place_process_Step()"
 });
 formatter.result({
-  "duration": 4046210700,
+  "duration": 4015949100,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.website_url_home_page()"
 });
 formatter.result({
-  "duration": 2072146000,
+  "duration": 2244763000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.my_account_link()"
 });
 formatter.result({
-  "duration": 4083805800,
+  "duration": 4277933600,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.delete_account_link()"
 });
 formatter.result({
-  "duration": 3156214900,
+  "duration": 3158283500,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.confirm_yes_()"
 });
 formatter.result({
-  "duration": 5068347500,
+  "duration": 5069266100,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.delete_confirmation_message()"
 });
 formatter.result({
-  "duration": 2066338300,
+  "duration": 2047363500,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 35500,
   "status": "passed"
 });
 formatter.scenario({
@@ -4570,35 +6104,39 @@ formatter.match({
   "location": "SignUp_Step.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 43820580300,
+  "duration": 43697951700,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_most_download()"
 });
 formatter.result({
-  "duration": 6659389000,
+  "duration": 5224831800,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.select_product()"
 });
 formatter.result({
-  "duration": 2968361500,
+  "duration": 2996382000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2111671800,
+  "duration": 2267979500,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.reate_an_Account_CTA()"
 });
 formatter.result({
-  "duration": 2718014400,
+  "duration": 2632434300,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 30100,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -4759,7 +6297,7 @@ formatter.match({
   "location": "SignUp_Step.Enter_Email_credentials(String)"
 });
 formatter.result({
-  "duration": 298329300,
+  "duration": 229924300,
   "status": "passed"
 });
 formatter.match({
@@ -4772,7 +6310,7 @@ formatter.match({
   "location": "SignUp_Step.enter_First_Name_as(String)"
 });
 formatter.result({
-  "duration": 131838700,
+  "duration": 175372700,
   "status": "passed"
 });
 formatter.match({
@@ -4785,7 +6323,7 @@ formatter.match({
   "location": "SignUp_Step.enter_Last_Name_as(String)"
 });
 formatter.result({
-  "duration": 171595400,
+  "duration": 172005700,
   "status": "passed"
 });
 formatter.match({
@@ -4798,7 +6336,7 @@ formatter.match({
   "location": "SignUp_Step.enter_password(String)"
 });
 formatter.result({
-  "duration": 1178222900,
+  "duration": 1152173100,
   "status": "passed"
 });
 formatter.match({
@@ -4811,21 +6349,25 @@ formatter.match({
   "location": "SignUp_Step.enter_Confirm_password_as(String)"
 });
 formatter.result({
-  "duration": 138719700,
+  "duration": 132866500,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.enter_the_captcha()"
 });
 formatter.result({
-  "duration": 1141443400,
+  "duration": 1150776400,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_Signup_button()"
 });
 formatter.result({
-  "duration": 4578364300,
+  "duration": 4572464200,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 30600,
   "status": "passed"
 });
 formatter.scenario({
@@ -4896,70 +6438,74 @@ formatter.match({
   "location": "SignUp_Step.verify_the_price_page()"
 });
 formatter.result({
-  "duration": 1014615600,
+  "duration": 1021400400,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.select_price_subscription()"
 });
 formatter.result({
-  "duration": 4712288400,
+  "duration": 4603300200,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.select_the_default_payment_option_as_paypal()"
 });
 formatter.result({
-  "duration": 1066437900,
+  "duration": 1065394100,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_place_order_cta()"
 });
 formatter.result({
-  "duration": 5073041600,
+  "duration": 5067331600,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.paypal_payement_place_process_Step()"
 });
 formatter.result({
-  "duration": 4077378400,
+  "duration": 4014357400,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.website_url_home_page()"
 });
 formatter.result({
-  "duration": 2169874100,
+  "duration": 2100871400,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.my_account_link()"
 });
 formatter.result({
-  "duration": 4121901600,
+  "duration": 4111921200,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.delete_account_link()"
 });
 formatter.result({
-  "duration": 3153353300,
+  "duration": 3163315300,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.confirm_yes_()"
 });
 formatter.result({
-  "duration": 5070290100,
+  "duration": 5071213300,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.delete_confirmation_message()"
 });
 formatter.result({
-  "duration": 2047391700,
+  "duration": 2048296000,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 33300,
   "status": "passed"
 });
 formatter.scenario({
@@ -5011,35 +6557,39 @@ formatter.match({
   "location": "SignUp_Step.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 43782200100,
+  "duration": 43883517500,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_most_download()"
 });
 formatter.result({
-  "duration": 7055849100,
+  "duration": 7539618900,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.select_product()"
 });
 formatter.result({
-  "duration": 2491859600,
+  "duration": 2987196000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2240147800,
+  "duration": 2245743500,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.reate_an_Account_CTA()"
 });
 formatter.result({
-  "duration": 2685619000,
+  "duration": 2592881400,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 32600,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -5200,7 +6750,7 @@ formatter.match({
   "location": "SignUp_Step.Enter_Email_credentials(String)"
 });
 formatter.result({
-  "duration": 305322400,
+  "duration": 252393000,
   "status": "passed"
 });
 formatter.match({
@@ -5213,7 +6763,7 @@ formatter.match({
   "location": "SignUp_Step.enter_First_Name_as(String)"
 });
 formatter.result({
-  "duration": 184832700,
+  "duration": 160165600,
   "status": "passed"
 });
 formatter.match({
@@ -5226,7 +6776,7 @@ formatter.match({
   "location": "SignUp_Step.enter_Last_Name_as(String)"
 });
 formatter.result({
-  "duration": 136360000,
+  "duration": 320581400,
   "status": "passed"
 });
 formatter.match({
@@ -5239,7 +6789,7 @@ formatter.match({
   "location": "SignUp_Step.enter_password(String)"
 });
 formatter.result({
-  "duration": 1151500300,
+  "duration": 1189438800,
   "status": "passed"
 });
 formatter.match({
@@ -5252,21 +6802,25 @@ formatter.match({
   "location": "SignUp_Step.enter_Confirm_password_as(String)"
 });
 formatter.result({
-  "duration": 136440600,
+  "duration": 142577900,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.enter_the_captcha()"
 });
 formatter.result({
-  "duration": 1147621400,
+  "duration": 1144729100,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_Signup_button()"
 });
 formatter.result({
-  "duration": 4602433700,
+  "duration": 4629039400,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 320400,
   "status": "passed"
 });
 formatter.scenario({
@@ -5352,91 +6906,95 @@ formatter.match({
   "location": "SignUp_Step.verify_the_price_page()"
 });
 formatter.result({
-  "duration": 1014517000,
+  "duration": 1076014700,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.select_price_subscription()"
 });
 formatter.result({
-  "duration": 4732275200,
+  "duration": 4678653500,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.card_payment()"
 });
 formatter.result({
-  "duration": 2108394300,
+  "duration": 2139881200,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.Enter_the_coupon_code()"
 });
 formatter.result({
-  "duration": 1105301100,
+  "duration": 1168046800,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.apply_the_coupon_code()"
 });
 formatter.result({
-  "duration": 6034363200,
+  "duration": 6065113600,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.applied_coupon_code()"
 });
 formatter.result({
-  "duration": 3048244100,
+  "duration": 3077548000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_place_order_cta()"
 });
 formatter.result({
-  "duration": 5108505800,
+  "duration": 5097929900,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.card_page()"
 });
 formatter.result({
-  "duration": 5062363400,
+  "duration": 5041152000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.website_url_home_page()"
 });
 formatter.result({
-  "duration": 2550747400,
+  "duration": 2068068500,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.my_account_link()"
 });
 formatter.result({
-  "duration": 5649420200,
+  "duration": 4077882100,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.delete_account_link()"
 });
 formatter.result({
-  "duration": 3158247400,
+  "duration": 3164872100,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.confirm_yes_()"
 });
 formatter.result({
-  "duration": 5068296800,
+  "duration": 5124113100,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.delete_confirmation_message()"
 });
 formatter.result({
-  "duration": 2087318700,
+  "duration": 2077273900,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 48000,
   "status": "passed"
 });
 formatter.scenario({
@@ -5488,35 +7046,39 @@ formatter.match({
   "location": "SignUp_Step.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 43844173800,
+  "duration": 43878640400,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_most_download()"
 });
 formatter.result({
-  "duration": 7003756900,
+  "duration": 6992165200,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.select_product()"
 });
 formatter.result({
-  "duration": 2908432000,
+  "duration": 2884405700,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2079112700,
+  "duration": 2224136800,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.reate_an_Account_CTA()"
 });
 formatter.result({
-  "duration": 3050115200,
+  "duration": 2748596300,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 28500,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -5677,7 +7239,7 @@ formatter.match({
   "location": "SignUp_Step.Enter_Email_credentials(String)"
 });
 formatter.result({
-  "duration": 285508800,
+  "duration": 254073100,
   "status": "passed"
 });
 formatter.match({
@@ -5690,7 +7252,7 @@ formatter.match({
   "location": "SignUp_Step.enter_First_Name_as(String)"
 });
 formatter.result({
-  "duration": 132826400,
+  "duration": 149748900,
   "status": "passed"
 });
 formatter.match({
@@ -5703,7 +7265,7 @@ formatter.match({
   "location": "SignUp_Step.enter_Last_Name_as(String)"
 });
 formatter.result({
-  "duration": 177378900,
+  "duration": 142508400,
   "status": "passed"
 });
 formatter.match({
@@ -5716,7 +7278,7 @@ formatter.match({
   "location": "SignUp_Step.enter_password(String)"
 });
 formatter.result({
-  "duration": 1145468900,
+  "duration": 1144490400,
   "status": "passed"
 });
 formatter.match({
@@ -5729,21 +7291,25 @@ formatter.match({
   "location": "SignUp_Step.enter_Confirm_password_as(String)"
 });
 formatter.result({
-  "duration": 145627100,
+  "duration": 142336800,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.enter_the_captcha()"
 });
 formatter.result({
-  "duration": 1150713500,
+  "duration": 1172974700,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_Signup_button()"
 });
 formatter.result({
-  "duration": 4657063900,
+  "duration": 5026069600,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 32700,
   "status": "passed"
 });
 formatter.scenario({
@@ -5814,70 +7380,74 @@ formatter.match({
   "location": "SignUp_Step.verify_the_price_page()"
 });
 formatter.result({
-  "duration": 1153385000,
+  "duration": 1063359500,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.select_price_subscription()"
 });
 formatter.result({
-  "duration": 5053158500,
+  "duration": 4684333000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.card_payment()"
 });
 formatter.result({
-  "duration": 2116424200,
+  "duration": 2142562600,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_place_order_cta()"
 });
 formatter.result({
-  "duration": 5078228500,
+  "duration": 5108733800,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.card_page()"
 });
 formatter.result({
-  "duration": 5077259200,
+  "duration": 5077658600,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.website_url_home_page()"
 });
 formatter.result({
-  "duration": 2037725000,
+  "duration": 2036139900,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.my_account_link()"
 });
 formatter.result({
-  "duration": 4105742600,
+  "duration": 4118892000,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.delete_account_link()"
 });
 formatter.result({
-  "duration": 3156196100,
+  "duration": 3202326300,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.confirm_yes_()"
 });
 formatter.result({
-  "duration": 5072307700,
+  "duration": 5124232200,
   "status": "passed"
 });
 formatter.match({
   "location": "SignUp_Step.delete_confirmation_message()"
 });
 formatter.result({
-  "duration": 2047402000,
+  "duration": 2108667700,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 33000,
   "status": "passed"
 });
 formatter.uri("src/test/resources/login.feature");
@@ -5926,28 +7496,32 @@ formatter.match({
   "location": "Login_step_definition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 43783526200,
+  "duration": 43722682700,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_most_download()"
 });
 formatter.result({
-  "duration": 7695417900,
+  "duration": 7773822200,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.select_product()"
 });
 formatter.result({
-  "duration": 4816858400,
+  "duration": 4453978400,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2072481600,
+  "duration": 2122933900,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 29400,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -6110,7 +7684,7 @@ formatter.match({
   "location": "Login_step_definition.enter_user_email_address_as(String)"
 });
 formatter.result({
-  "duration": 154846200,
+  "duration": 146984000,
   "status": "passed"
 });
 formatter.match({
@@ -6123,14 +7697,14 @@ formatter.match({
   "location": "Login_step_definition.enter_user_password_as(String)"
 });
 formatter.result({
-  "duration": 139875200,
+  "duration": 164047800,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 2091819300,
+  "duration": 2123710300,
   "status": "passed"
 });
 formatter.match({
@@ -6143,7 +7717,7 @@ formatter.match({
   "location": "Login_step_definition.verify_uesr_validation_message_for_Email_Address(String)"
 });
 formatter.result({
-  "duration": 34303300,
+  "duration": 62820600,
   "status": "passed"
 });
 formatter.match({
@@ -6156,7 +7730,7 @@ formatter.match({
   "location": "Login_step_definition.verify_user_validation_message_for_Password(String)"
 });
 formatter.result({
-  "duration": 34318400,
+  "duration": 97477300,
   "status": "passed"
 });
 formatter.match({
@@ -6169,7 +7743,11 @@ formatter.match({
   "location": "Login_step_definition.verify_user_message_for_all_invalid_credentials(String)"
 });
 formatter.result({
-  "duration": 20011360200,
+  "duration": 20031128200,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 23400,
   "status": "passed"
 });
 formatter.scenario({
@@ -6241,7 +7819,7 @@ formatter.match({
   "location": "Login_step_definition.enter_user_email_address_as(String)"
 });
 formatter.result({
-  "duration": 166050000,
+  "duration": 208640200,
   "status": "passed"
 });
 formatter.match({
@@ -6254,14 +7832,14 @@ formatter.match({
   "location": "Login_step_definition.enter_user_password_as(String)"
 });
 formatter.result({
-  "duration": 176483700,
+  "duration": 127077800,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 2101124500,
+  "duration": 2108292100,
   "status": "passed"
 });
 formatter.match({
@@ -6274,7 +7852,7 @@ formatter.match({
   "location": "Login_step_definition.verify_uesr_validation_message_for_Email_Address(String)"
 });
 formatter.result({
-  "duration": 32628100,
+  "duration": 123529200,
   "status": "passed"
 });
 formatter.match({
@@ -6287,7 +7865,7 @@ formatter.match({
   "location": "Login_step_definition.verify_user_validation_message_for_Password(String)"
 });
 formatter.result({
-  "duration": 33484000,
+  "duration": 93614900,
   "status": "passed"
 });
 formatter.match({
@@ -6300,7 +7878,11 @@ formatter.match({
   "location": "Login_step_definition.verify_user_message_for_all_invalid_credentials(String)"
 });
 formatter.result({
-  "duration": 20048094500,
+  "duration": 20020289200,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 22700,
   "status": "passed"
 });
 formatter.scenario({
@@ -6372,7 +7954,7 @@ formatter.match({
   "location": "Login_step_definition.enter_user_email_address_as(String)"
 });
 formatter.result({
-  "duration": 256639100,
+  "duration": 193294700,
   "status": "passed"
 });
 formatter.match({
@@ -6385,14 +7967,14 @@ formatter.match({
   "location": "Login_step_definition.enter_user_password_as(String)"
 });
 formatter.result({
-  "duration": 155324800,
+  "duration": 153597100,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 3321054200,
+  "duration": 3629881000,
   "status": "passed"
 });
 formatter.match({
@@ -6405,7 +7987,7 @@ formatter.match({
   "location": "Login_step_definition.verify_uesr_validation_message_for_Email_Address(String)"
 });
 formatter.result({
-  "duration": 20043920100,
+  "duration": 20066717600,
   "status": "passed"
 });
 formatter.match({
@@ -6418,7 +8000,7 @@ formatter.match({
   "location": "Login_step_definition.verify_user_validation_message_for_Password(String)"
 });
 formatter.result({
-  "duration": 20061281100,
+  "duration": 20014662300,
   "status": "passed"
 });
 formatter.match({
@@ -6431,7 +8013,11 @@ formatter.match({
   "location": "Login_step_definition.verify_user_message_for_all_invalid_credentials(String)"
 });
 formatter.result({
-  "duration": 20043661500,
+  "duration": 20076941500,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 24200,
   "status": "passed"
 });
 formatter.scenario({
@@ -6502,70 +8088,74 @@ formatter.match({
   "location": "Login_step_definition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 44096772300,
+  "duration": 43999866900,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_most_download()"
 });
 formatter.result({
-  "duration": 8424214500,
+  "duration": 8164134400,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.select_product()"
 });
 formatter.result({
-  "duration": 4582177300,
+  "duration": 4760444500,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2119592700,
+  "duration": 2191504000,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.enter_email_as()"
 });
 formatter.result({
-  "duration": 227910700,
+  "duration": 250735200,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.enter_paasword_as()"
 });
 formatter.result({
-  "duration": 1125034400,
+  "duration": 1216927100,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 3516366800,
+  "duration": 4865460800,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 5012301200,
+  "duration": 5019350700,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5998280400,
+  "duration": 5722465400,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.verify_the_payment_option_field()"
 });
 formatter.result({
-  "duration": 1039368600,
+  "duration": 1061996900,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 31300,
   "status": "passed"
 });
 formatter.scenario({
@@ -6661,105 +8251,109 @@ formatter.match({
   "location": "Login_step_definition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 36793045300,
+  "duration": 37272322400,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_most_download()"
 });
 formatter.result({
-  "duration": 7711306800,
+  "duration": 8395856700,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.select_product()"
 });
 formatter.result({
-  "duration": 5074687700,
+  "duration": 4815783300,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2058774100,
+  "duration": 2245479600,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.enter_email_as()"
 });
 formatter.result({
-  "duration": 249047000,
+  "duration": 339171700,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.enter_paasword_as()"
 });
 formatter.result({
-  "duration": 1138935600,
+  "duration": 1175298400,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 3323392500,
+  "duration": 3358740700,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 5010340200,
+  "duration": 5077455400,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5782190400,
+  "duration": 5936951800,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.see_default_payment_option_as_paypal()"
 });
 formatter.result({
-  "duration": 1062498800,
+  "duration": 1108740700,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.enter_coupon()"
 });
 formatter.result({
-  "duration": 113882300,
+  "duration": 139906200,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5038947900,
+  "duration": 5077789200,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 4037379100,
+  "duration": 4077505700,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5070589800,
+  "duration": 5124493800,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.verify_the_paypal_payement_page()"
 });
 formatter.result({
-  "duration": 5077470500,
+  "duration": 5077427100,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 30700,
   "status": "passed"
 });
 formatter.scenario({
@@ -6840,84 +8434,88 @@ formatter.match({
   "location": "Login_step_definition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 36909797100,
+  "duration": 39208531500,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_most_download()"
 });
 formatter.result({
-  "duration": 7571040000,
+  "duration": 7973587600,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.select_product()"
 });
 formatter.result({
-  "duration": 4860500300,
+  "duration": 5001970200,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2044476300,
+  "duration": 2300299900,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.enter_email_as()"
 });
 formatter.result({
-  "duration": 236646300,
+  "duration": 228908900,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.enter_paasword_as()"
 });
 formatter.result({
-  "duration": 1137053200,
+  "duration": 1138254300,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 3219291600,
+  "duration": 3406335200,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 5010356900,
+  "duration": 5076870800,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5540315400,
+  "duration": 6202447600,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.see_default_payment_option_as_paypal()"
 });
 formatter.result({
-  "duration": 1066354900,
+  "duration": 1093266200,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5082394000,
+  "duration": 5093015900,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.verify_the_paypal_payement_page()"
 });
 formatter.result({
-  "duration": 5077460100,
+  "duration": 5077515600,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 32000,
   "status": "passed"
 });
 formatter.scenario({
@@ -7013,105 +8611,109 @@ formatter.match({
   "location": "Login_step_definition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 37124746700,
+  "duration": 38212044500,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_most_download()"
 });
 formatter.result({
-  "duration": 7994439900,
+  "duration": 8019042100,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.select_product()"
 });
 formatter.result({
-  "duration": 4811973900,
+  "duration": 4590406200,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2006377800,
+  "duration": 2189485600,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.enter_email_as()"
 });
 formatter.result({
-  "duration": 245160600,
+  "duration": 310917900,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.enter_paasword_as()"
 });
 formatter.result({
-  "duration": 1157822800,
+  "duration": 1145157600,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 3507320700,
+  "duration": 3292336900,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 5010220500,
+  "duration": 5062372300,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5687215700,
+  "duration": 6076996500,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 2123382800,
+  "duration": 2124811800,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.enter_coupon()"
 });
 formatter.result({
-  "duration": 109241000,
+  "duration": 161942500,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5036569300,
+  "duration": 5055241600,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 4056380800,
+  "duration": 4093119500,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5115200300,
+  "duration": 5102281800,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.card_page()"
 });
 formatter.result({
-  "duration": 6077346600,
+  "duration": 6068247100,
+  "status": "passed"
+});
+formatter.after({
+  "duration": 33200,
   "status": "passed"
 });
 formatter.scenario({
@@ -7192,3393 +8794,88 @@ formatter.match({
   "location": "Login_step_definition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 37124925100,
+  "duration": 37136513700,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_most_download()"
 });
 formatter.result({
-  "duration": 7965208400,
+  "duration": 7936883200,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.select_product()"
 });
 formatter.result({
-  "duration": 4812179700,
+  "duration": 4860242900,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2170835900,
+  "duration": 2076205300,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.enter_email_as()"
 });
 formatter.result({
-  "duration": 366159100,
+  "duration": 244248000,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.enter_paasword_as()"
 });
 formatter.result({
-  "duration": 1155249800,
+  "duration": 1131116300,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 3301332900,
+  "duration": 3440453500,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 5009348600,
+  "duration": 5010068700,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5752339900,
+  "duration": 5851675800,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 2103919700,
+  "duration": 2162616500,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5071405100,
+  "duration": 5108684500,
   "status": "passed"
 });
 formatter.match({
   "location": "Login_step_definition.card_page()"
 });
 formatter.result({
-  "duration": 6092998800,
+  "duration": 6077308600,
   "status": "passed"
 });
-});.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:363)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:188)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.SignUp_Step.Enter_Email_credentials(SignUp_Step.java:254)\r\n\tat ✽.Then Enter Email \"selenium.testing\".(src/test/resources/Signup.feature:35)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 21
-    }
-  ],
-  "location": "SignUp_Step.enter_First_Name_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 20
-    }
-  ],
-  "location": "SignUp_Step.enter_Last_Name_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "123456",
-      "offset": 19
-    }
-  ],
-  "location": "SignUp_Step.enter_password(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "123456",
-      "offset": 27
-    }
-  ],
-  "location": "SignUp_Step.enter_Confirm_password_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.enter_the_captcha()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Signup_button()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenario({
-  "line": 47,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 46,
-      "name": "@signupTest"
-    }
-  ]
-});
-formatter.step({
-  "line": 48,
-  "name": "After signup see the price page.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 49,
-  "name": "Select price subscription.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 50,
-  "name": "Verify the payment option.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 51,
-  "name": "Click on My account link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 52,
-  "name": "Click on delete account link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 53,
-  "name": "Click on Yes button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 54,
-  "name": "Verify the delete account confirmation message.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "SignUp_Step.verify_the_price_page()"
-});
-formatter.result({
-  "duration": 4016536100,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:275)\r\n\tat TestRunner.loginSteps.SignUp_Step.verify_the_price_page(SignUp_Step.java:268)\r\n\tat ✽.Given After signup see the price page.(src/test/resources/Signup.feature:48)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "location": "SignUp_Step.select_price_subscription()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.payement_option()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.my_account_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.delete_account_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.confirm_yes_()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.delete_confirmation_message()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenario({
-  "line": 56,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 55,
-      "name": "@signupTest_select_paypal_payement_option"
-    }
-  ]
-});
-formatter.step({
-  "line": 57,
-  "name": "Navigates to website url.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 58,
-  "name": "Click on Most Downloaded link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 59,
-  "name": "Select a product items.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 60,
-  "name": "Click on Download this presentation link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 61,
-  "name": "Click on Create an Account CTA.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "SignUp_Step.navigates_to_website_url()"
-});
-formatter.result({
-  "duration": 6058591900,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.SignUp_Step.navigates_to_website_url(SignUp_Step.java:30)\r\n\tat ✽.Given Navigates to website url.(src/test/resources/Signup.feature:57)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "location": "SignUp_Step.click_most_download()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.select_product()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Download_this_presentation_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.reate_an_Account_CTA()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenarioOutline({
-  "line": 63,
-  "name": "Data driving for valid sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.",
-  "type": "scenario_outline",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 62,
-      "name": "@signupTest_select_paypal_payement_option"
-    }
-  ]
-});
-formatter.step({
-  "line": 64,
-  "name": "Enter Email \"\u003cEmail Address\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 65,
-  "name": "Enter First Name as \"\u003cFirst Name\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 66,
-  "name": "Enter Last Name as \"\u003cLast Name\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 67,
-  "name": "Enter Password as \"\u003cPassword\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 68,
-  "name": "Enter Confirm password as \"\u003cConfirm_password\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 69,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 70,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.examples({
-  "line": 71,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;",
-  "rows": [
-    {
-      "cells": [
-        "Email Address",
-        "First Name",
-        "Last Name",
-        "Password",
-        "Confirm_password"
-      ],
-      "line": 72,
-      "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;1"
-    },
-    {
-      "cells": [
-        "selenium.testing",
-        "Test",
-        "Test",
-        "123456",
-        "123456"
-      ],
-      "line": 73,
-      "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2"
-    }
-  ],
-  "keyword": "Examples"
-});
-formatter.scenario({
-  "line": 73,
-  "name": "Data driving for valid sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@signupTest"
-    },
-    {
-      "line": 62,
-      "name": "@signupTest_select_paypal_payement_option"
-    }
-  ]
-});
-formatter.step({
-  "line": 64,
-  "name": "Enter Email \"selenium.testing\".",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 65,
-  "name": "Enter First Name as \"Test\".",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 66,
-  "name": "Enter Last Name as \"Test\".",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 67,
-  "name": "Enter Password as \"123456\".",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 68,
-  "name": "Enter Confirm password as \"123456\".",
-  "matchedColumns": [
-    4
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 69,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 70,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "selenium.testing",
-      "offset": 13
-    }
-  ],
-  "location": "SignUp_Step.Enter_Email_credentials(String)"
-});
-formatter.result({
-  "duration": 6084637100,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\n*** Element info: {Using\u003did, value\u003demail_address}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:363)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:188)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.SignUp_Step.Enter_Email_credentials(SignUp_Step.java:254)\r\n\tat ✽.Then Enter Email \"selenium.testing\".(src/test/resources/Signup.feature:64)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 21
-    }
-  ],
-  "location": "SignUp_Step.enter_First_Name_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 20
-    }
-  ],
-  "location": "SignUp_Step.enter_Last_Name_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "123456",
-      "offset": 19
-    }
-  ],
-  "location": "SignUp_Step.enter_password(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "123456",
-      "offset": 27
-    }
-  ],
-  "location": "SignUp_Step.enter_Confirm_password_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.enter_the_captcha()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Signup_button()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenario({
-  "line": 76,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 75,
-      "name": "@signupTest_select_paypal_payement_option"
-    }
-  ]
-});
-formatter.step({
-  "line": 77,
-  "name": "After signup see the price page.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 78,
-  "name": "Select price subscription.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 79,
-  "name": "Verify the default payment option as paypal.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 80,
-  "name": "Enter the coupon code.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 81,
-  "name": "Apply the coupon code as given.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 82,
-  "name": "Verify the applied coupon code.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 83,
-  "name": "click on place order button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 84,
-  "name": "Verify the paypal payement process.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 85,
-  "name": "Navigates to website url home page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 86,
-  "name": "Click on My account link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 87,
-  "name": "Click on delete account link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 88,
-  "name": "Click on Yes button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 89,
-  "name": "Verify the delete account confirmation message.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "SignUp_Step.verify_the_price_page()"
-});
-formatter.result({
-  "duration": 6117328500,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:275)\r\n\tat TestRunner.loginSteps.SignUp_Step.verify_the_price_page(SignUp_Step.java:268)\r\n\tat ✽.Given After signup see the price page.(src/test/resources/Signup.feature:77)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "location": "SignUp_Step.select_price_subscription()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.select_the_default_payment_option_as_paypal()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.Enter_the_coupon_code()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.apply_the_coupon_code()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.applied_coupon_code()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_place_order_cta()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.paypal_payement_place_process_Step()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.website_url_home_page()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.my_account_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.delete_account_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.confirm_yes_()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.delete_confirmation_message()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenario({
-  "comments": [
-    {
-      "line": 90,
-      "value": "#\t\t\t//Payement the paypal screen without apply coupon code"
-    }
-  ],
-  "line": 93,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 92,
-      "name": "@signupTest_select_paypal_payement_without_coupon"
-    }
-  ]
-});
-formatter.step({
-  "line": 94,
-  "name": "Navigates to website url.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 95,
-  "name": "Click on Most Downloaded link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 96,
-  "name": "Select a product items.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 97,
-  "name": "Click on Download this presentation link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 98,
-  "name": "Click on Create an Account CTA.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "SignUp_Step.navigates_to_website_url()"
-});
-formatter.result({
-  "duration": 6115869300,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.SignUp_Step.navigates_to_website_url(SignUp_Step.java:30)\r\n\tat ✽.Given Navigates to website url.(src/test/resources/Signup.feature:94)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "location": "SignUp_Step.click_most_download()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.select_product()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Download_this_presentation_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.reate_an_Account_CTA()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenarioOutline({
-  "line": 100,
-  "name": "Data driving for valid sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.",
-  "type": "scenario_outline",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 99,
-      "name": "@signupTest_select_paypal_payement_without_coupon"
-    }
-  ]
-});
-formatter.step({
-  "line": 101,
-  "name": "Enter Email \"\u003cEmail Address\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 102,
-  "name": "Enter First Name as \"\u003cFirst Name\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 103,
-  "name": "Enter Last Name as \"\u003cLast Name\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 104,
-  "name": "Enter Password as \"\u003cPassword\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 105,
-  "name": "Enter Confirm password as \"\u003cConfirm_password\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 106,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 107,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.examples({
-  "line": 108,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;",
-  "rows": [
-    {
-      "cells": [
-        "Email Address",
-        "First Name",
-        "Last Name",
-        "Password",
-        "Confirm_password"
-      ],
-      "line": 109,
-      "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;1"
-    },
-    {
-      "cells": [
-        "selenium.testing",
-        "Test",
-        "Test",
-        "123456",
-        "123456"
-      ],
-      "line": 110,
-      "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2"
-    }
-  ],
-  "keyword": "Examples"
-});
-formatter.scenario({
-  "line": 110,
-  "name": "Data driving for valid sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@signupTest"
-    },
-    {
-      "line": 99,
-      "name": "@signupTest_select_paypal_payement_without_coupon"
-    }
-  ]
-});
-formatter.step({
-  "line": 101,
-  "name": "Enter Email \"selenium.testing\".",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 102,
-  "name": "Enter First Name as \"Test\".",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 103,
-  "name": "Enter Last Name as \"Test\".",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 104,
-  "name": "Enter Password as \"123456\".",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 105,
-  "name": "Enter Confirm password as \"123456\".",
-  "matchedColumns": [
-    4
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 106,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 107,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "selenium.testing",
-      "offset": 13
-    }
-  ],
-  "location": "SignUp_Step.Enter_Email_credentials(String)"
-});
-formatter.result({
-  "duration": 6044546700,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\n*** Element info: {Using\u003did, value\u003demail_address}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:363)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:188)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.SignUp_Step.Enter_Email_credentials(SignUp_Step.java:254)\r\n\tat ✽.Then Enter Email \"selenium.testing\".(src/test/resources/Signup.feature:101)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 21
-    }
-  ],
-  "location": "SignUp_Step.enter_First_Name_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 20
-    }
-  ],
-  "location": "SignUp_Step.enter_Last_Name_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "123456",
-      "offset": 19
-    }
-  ],
-  "location": "SignUp_Step.enter_password(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "123456",
-      "offset": 27
-    }
-  ],
-  "location": "SignUp_Step.enter_Confirm_password_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.enter_the_captcha()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Signup_button()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenario({
-  "line": 113,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 112,
-      "name": "@signupTest_select_paypal_payement_without_coupon"
-    }
-  ]
-});
-formatter.step({
-  "line": 114,
-  "name": "After signup see the price page.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 115,
-  "name": "Select price subscription.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 116,
-  "name": "Verify the default payment option as paypal.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 117,
-  "name": "click on place order button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 118,
-  "name": "Verify the paypal payement process.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 119,
-  "name": "Navigates to website url home page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 120,
-  "name": "Click on My account link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 121,
-  "name": "Click on delete account link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 122,
-  "name": "Click on Yes button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 123,
-  "name": "Verify the delete account confirmation message.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "SignUp_Step.verify_the_price_page()"
-});
-formatter.result({
-  "duration": 6044725700,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:275)\r\n\tat TestRunner.loginSteps.SignUp_Step.verify_the_price_page(SignUp_Step.java:268)\r\n\tat ✽.Given After signup see the price page.(src/test/resources/Signup.feature:114)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "location": "SignUp_Step.select_price_subscription()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.select_the_default_payment_option_as_paypal()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_place_order_cta()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.paypal_payement_place_process_Step()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.website_url_home_page()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.my_account_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.delete_account_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.confirm_yes_()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.delete_confirmation_message()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenario({
-  "comments": [
-    {
-      "line": 124,
-      "value": "#\t\t\t//Payement with card apply coupon code"
-    }
-  ],
-  "line": 127,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 126,
-      "name": "@signupTest_select_Card_payement"
-    }
-  ]
-});
-formatter.step({
-  "line": 128,
-  "name": "Navigates to website url.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 129,
-  "name": "Click on Most Downloaded link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 130,
-  "name": "Select a product items.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 131,
-  "name": "Click on Download this presentation link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 132,
-  "name": "Click on Create an Account CTA.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "SignUp_Step.navigates_to_website_url()"
-});
-formatter.result({
-  "duration": 6024173600,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.SignUp_Step.navigates_to_website_url(SignUp_Step.java:30)\r\n\tat ✽.Given Navigates to website url.(src/test/resources/Signup.feature:128)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "location": "SignUp_Step.click_most_download()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.select_product()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Download_this_presentation_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.reate_an_Account_CTA()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenarioOutline({
-  "line": 134,
-  "name": "Data driving for valid sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.",
-  "type": "scenario_outline",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 133,
-      "name": "@signupTest_select_Card_payement"
-    }
-  ]
-});
-formatter.step({
-  "line": 135,
-  "name": "Enter Email \"\u003cEmail Address\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 136,
-  "name": "Enter First Name as \"\u003cFirst Name\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 137,
-  "name": "Enter Last Name as \"\u003cLast Name\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 138,
-  "name": "Enter Password as \"\u003cPassword\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 139,
-  "name": "Enter Confirm password as \"\u003cConfirm_password\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 140,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 141,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.examples({
-  "line": 142,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;",
-  "rows": [
-    {
-      "cells": [
-        "Email Address",
-        "First Name",
-        "Last Name",
-        "Password",
-        "Confirm_password"
-      ],
-      "line": 143,
-      "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;1"
-    },
-    {
-      "cells": [
-        "selenium.testing",
-        "Test",
-        "Test",
-        "123456",
-        "123456"
-      ],
-      "line": 144,
-      "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2"
-    }
-  ],
-  "keyword": "Examples"
-});
-formatter.scenario({
-  "line": 144,
-  "name": "Data driving for valid sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@signupTest"
-    },
-    {
-      "line": 133,
-      "name": "@signupTest_select_Card_payement"
-    }
-  ]
-});
-formatter.step({
-  "line": 135,
-  "name": "Enter Email \"selenium.testing\".",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 136,
-  "name": "Enter First Name as \"Test\".",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 137,
-  "name": "Enter Last Name as \"Test\".",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 138,
-  "name": "Enter Password as \"123456\".",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 139,
-  "name": "Enter Confirm password as \"123456\".",
-  "matchedColumns": [
-    4
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 140,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 141,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "selenium.testing",
-      "offset": 13
-    }
-  ],
-  "location": "SignUp_Step.Enter_Email_credentials(String)"
-});
-formatter.result({
-  "duration": 6076889100,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\n*** Element info: {Using\u003did, value\u003demail_address}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:363)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:188)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.SignUp_Step.Enter_Email_credentials(SignUp_Step.java:254)\r\n\tat ✽.Then Enter Email \"selenium.testing\".(src/test/resources/Signup.feature:135)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 21
-    }
-  ],
-  "location": "SignUp_Step.enter_First_Name_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 20
-    }
-  ],
-  "location": "SignUp_Step.enter_Last_Name_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "123456",
-      "offset": 19
-    }
-  ],
-  "location": "SignUp_Step.enter_password(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "123456",
-      "offset": 27
-    }
-  ],
-  "location": "SignUp_Step.enter_Confirm_password_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.enter_the_captcha()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Signup_button()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenario({
-  "line": 148,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 147,
-      "name": "@signupTest_select_Card_payement"
-    }
-  ]
-});
-formatter.step({
-  "line": 149,
-  "name": "After signup see the price page.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 150,
-  "name": "Select price subscription.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 151,
-  "name": "Select the payment option as card.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 152,
-  "name": "Enter the coupon code.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 153,
-  "name": "Apply the coupon code as given.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 154,
-  "name": "Verify the applied coupon code.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 155,
-  "name": "click on place order button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 156,
-  "name": "Verify the card payement page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 157,
-  "name": "Navigates to website url home page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 158,
-  "name": "Click on My account link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 159,
-  "name": "Click on delete account link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 160,
-  "name": "Click on Yes button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 161,
-  "name": "Verify the delete account confirmation message.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "SignUp_Step.verify_the_price_page()"
-});
-formatter.result({
-  "duration": 6100504900,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:275)\r\n\tat TestRunner.loginSteps.SignUp_Step.verify_the_price_page(SignUp_Step.java:268)\r\n\tat ✽.Given After signup see the price page.(src/test/resources/Signup.feature:149)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "location": "SignUp_Step.select_price_subscription()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.card_payment()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.Enter_the_coupon_code()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.apply_the_coupon_code()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.applied_coupon_code()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_place_order_cta()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.card_page()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.website_url_home_page()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.my_account_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.delete_account_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.confirm_yes_()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.delete_confirmation_message()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenario({
-  "comments": [
-    {
-      "line": 162,
-      "value": "#\t\t\t\t\t\t\t\t\t//\t\tpayement the product without coupon"
-    }
-  ],
-  "line": 165,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 164,
-      "name": "@signupTest_select_Card_payement_without_coupon"
-    }
-  ]
-});
-formatter.step({
-  "line": 166,
-  "name": "Navigates to website url.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 167,
-  "name": "Click on Most Downloaded link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 168,
-  "name": "Select a product items.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 169,
-  "name": "Click on Download this presentation link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 170,
-  "name": "Click on Create an Account CTA.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "SignUp_Step.navigates_to_website_url()"
-});
-formatter.result({
-  "duration": 6102082300,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.SignUp_Step.navigates_to_website_url(SignUp_Step.java:30)\r\n\tat ✽.Given Navigates to website url.(src/test/resources/Signup.feature:166)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "location": "SignUp_Step.click_most_download()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.select_product()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Download_this_presentation_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.reate_an_Account_CTA()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenarioOutline({
-  "line": 172,
-  "name": "Data driving for valid sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.",
-  "type": "scenario_outline",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 171,
-      "name": "@signupTest_select_Card_payement_without_coupon"
-    }
-  ]
-});
-formatter.step({
-  "line": 173,
-  "name": "Enter Email \"\u003cEmail Address\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 174,
-  "name": "Enter First Name as \"\u003cFirst Name\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 175,
-  "name": "Enter Last Name as \"\u003cLast Name\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 176,
-  "name": "Enter Password as \"\u003cPassword\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 177,
-  "name": "Enter Confirm password as \"\u003cConfirm_password\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 178,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 179,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.examples({
-  "line": 180,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;",
-  "rows": [
-    {
-      "cells": [
-        "Email Address",
-        "First Name",
-        "Last Name",
-        "Password",
-        "Confirm_password"
-      ],
-      "line": 181,
-      "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;1"
-    },
-    {
-      "cells": [
-        "selenium.testing",
-        "Test",
-        "Test",
-        "123456",
-        "123456"
-      ],
-      "line": 182,
-      "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2"
-    }
-  ],
-  "keyword": "Examples"
-});
-formatter.scenario({
-  "line": 182,
-  "name": "Data driving for valid sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@signupTest"
-    },
-    {
-      "line": 171,
-      "name": "@signupTest_select_Card_payement_without_coupon"
-    }
-  ]
-});
-formatter.step({
-  "line": 173,
-  "name": "Enter Email \"selenium.testing\".",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 174,
-  "name": "Enter First Name as \"Test\".",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 175,
-  "name": "Enter Last Name as \"Test\".",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 176,
-  "name": "Enter Password as \"123456\".",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 177,
-  "name": "Enter Confirm password as \"123456\".",
-  "matchedColumns": [
-    4
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 178,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 179,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "selenium.testing",
-      "offset": 13
-    }
-  ],
-  "location": "SignUp_Step.Enter_Email_credentials(String)"
-});
-formatter.result({
-  "duration": 6087677500,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\n*** Element info: {Using\u003did, value\u003demail_address}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:363)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:188)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.SignUp_Step.Enter_Email_credentials(SignUp_Step.java:254)\r\n\tat ✽.Then Enter Email \"selenium.testing\".(src/test/resources/Signup.feature:173)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 21
-    }
-  ],
-  "location": "SignUp_Step.enter_First_Name_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 20
-    }
-  ],
-  "location": "SignUp_Step.enter_Last_Name_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "123456",
-      "offset": 19
-    }
-  ],
-  "location": "SignUp_Step.enter_password(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "123456",
-      "offset": 27
-    }
-  ],
-  "location": "SignUp_Step.enter_Confirm_password_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.enter_the_captcha()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Signup_button()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenario({
-  "line": 185,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 184,
-      "name": "@signupTest_select_Card_payement_without_coupon"
-    }
-  ]
-});
-formatter.step({
-  "line": 186,
-  "name": "After signup see the price page.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 187,
-  "name": "Select price subscription.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 188,
-  "name": "Select the payment option as card.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 189,
-  "name": "click on place order button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 190,
-  "name": "Verify the card payement page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 191,
-  "name": "Navigates to website url home page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 192,
-  "name": "Click on My account link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 193,
-  "name": "Click on delete account link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 194,
-  "name": "Click on Yes button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 195,
-  "name": "Verify the delete account confirmation message.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "SignUp_Step.verify_the_price_page()"
-});
-formatter.result({
-  "duration": 6032837500,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:275)\r\n\tat TestRunner.loginSteps.SignUp_Step.verify_the_price_page(SignUp_Step.java:268)\r\n\tat ✽.Given After signup see the price page.(src/test/resources/Signup.feature:186)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "location": "SignUp_Step.select_price_subscription()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.card_payment()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_place_order_cta()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.card_page()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.website_url_home_page()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.my_account_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.delete_account_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.confirm_yes_()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "SignUp_Step.delete_confirmation_message()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.uri("src/test/resources/login.feature");
-formatter.feature({
-  "line": 2,
-  "name": "signin Test On Web Application",
-  "description": "",
-  "id": "signin-test-on-web-application",
-  "keyword": "Feature",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@signInTest"
-    }
-  ]
-});
-formatter.scenario({
-  "line": 3,
-  "name": "",
-  "description": "",
-  "id": "signin-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario"
-});
-formatter.step({
-  "line": 4,
-  "name": "Open the website url.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 5,
-  "name": "click on most downloaded link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 6,
-  "name": "select a product item.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 7,
-  "name": "click on download this presentation link.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Login_step_definition.navigates_to_website_url()"
-});
-formatter.result({
-  "duration": 6028047000,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.Login_step_definition.navigates_to_website_url(Login_step_definition.java:28)\r\n\tat ✽.Given Open the website url.(src/test/resources/login.feature:4)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "location": "Login_step_definition.click_most_download()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.select_product()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_Download_this_presentation_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenarioOutline({
-  "line": 8,
-  "name": "Data driving for invalid data for sign-in.",
-  "description": "",
-  "id": "signin-test-on-web-application;data-driving-for-invalid-data-for-sign-in.",
-  "type": "scenario_outline",
-  "keyword": "Scenario Outline"
-});
-formatter.step({
-  "line": 9,
-  "name": "Enter user email address as \"\u003cEmailAddress\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 10,
-  "name": "Insert the Password \"\u003cPass\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 11,
-  "name": "Click on Login button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 12,
-  "name": "Verify uesr \"\u003cEmailAddressVal\u003e\" validation message for Email Address.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 13,
-  "name": "Verify user \"\u003cPassVal\u003e\" validation message for Password.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "Verify user \"\u003cSignin_error_Msg\u003e\" message for all invalid credentials.",
-  "keyword": "Then "
-});
-formatter.examples({
-  "line": 15,
-  "name": "",
-  "description": "",
-  "id": "signin-test-on-web-application;data-driving-for-invalid-data-for-sign-in.;",
-  "rows": [
-    {
-      "cells": [
-        "EmailAddress",
-        "Pass",
-        "EmailAddressVal",
-        "PassVal",
-        "Signin_error_Msg"
-      ],
-      "line": 16,
-      "id": "signin-test-on-web-application;data-driving-for-invalid-data-for-sign-in.;;1"
-    },
-    {
-      "cells": [
-        "",
-        "",
-        "This is a required field.",
-        "This is a required field.",
-        ""
-      ],
-      "line": 17,
-      "id": "signin-test-on-web-application;data-driving-for-invalid-data-for-sign-in.;;2"
-    },
-    {
-      "cells": [
-        "test@gmail.com",
-        "",
-        "",
-        "This is a required field.",
-        ""
-      ],
-      "line": 18,
-      "id": "signin-test-on-web-application;data-driving-for-invalid-data-for-sign-in.;;3"
-    },
-    {
-      "cells": [
-        "test@gmail.com",
-        "tes@1234",
-        "",
-        "",
-        "Invalid login or password."
-      ],
-      "line": 19,
-      "id": "signin-test-on-web-application;data-driving-for-invalid-data-for-sign-in.;;4"
-    }
-  ],
-  "keyword": "Examples"
-});
-formatter.scenario({
-  "line": 17,
-  "name": "Data driving for invalid data for sign-in.",
-  "description": "",
-  "id": "signin-test-on-web-application;data-driving-for-invalid-data-for-sign-in.;;2",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@signInTest"
-    }
-  ]
-});
-formatter.step({
-  "line": 9,
-  "name": "Enter user email address as \"\".",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 10,
-  "name": "Insert the Password \"\".",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 11,
-  "name": "Click on Login button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 12,
-  "name": "Verify uesr \"This is a required field.\" validation message for Email Address.",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 13,
-  "name": "Verify user \"This is a required field.\" validation message for Password.",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "Verify user \"\" message for all invalid credentials.",
-  "matchedColumns": [
-    4
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 29
-    }
-  ],
-  "location": "Login_step_definition.enter_user_email_address_as(String)"
-});
-formatter.result({
-  "duration": 6010106500,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\n*** Element info: {Using\u003did, value\u003demail}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:363)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:188)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Login_step_definition.enter_user_email_address_as(Login_step_definition.java:80)\r\n\tat ✽.Then Enter user email address as \"\".(src/test/resources/login.feature:9)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 21
-    }
-  ],
-  "location": "Login_step_definition.enter_user_password_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_Login_button()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "This is a required field.",
-      "offset": 13
-    }
-  ],
-  "location": "Login_step_definition.verify_uesr_validation_message_for_Email_Address(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "This is a required field.",
-      "offset": 13
-    }
-  ],
-  "location": "Login_step_definition.verify_user_validation_message_for_Password(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 13
-    }
-  ],
-  "location": "Login_step_definition.verify_user_message_for_all_invalid_credentials(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenario({
-  "line": 18,
-  "name": "Data driving for invalid data for sign-in.",
-  "description": "",
-  "id": "signin-test-on-web-application;data-driving-for-invalid-data-for-sign-in.;;3",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@signInTest"
-    }
-  ]
-});
-formatter.step({
-  "line": 9,
-  "name": "Enter user email address as \"test@gmail.com\".",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 10,
-  "name": "Insert the Password \"\".",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 11,
-  "name": "Click on Login button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 12,
-  "name": "Verify uesr \"\" validation message for Email Address.",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 13,
-  "name": "Verify user \"This is a required field.\" validation message for Password.",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "Verify user \"\" message for all invalid credentials.",
-  "matchedColumns": [
-    4
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "test@gmail.com",
-      "offset": 29
-    }
-  ],
-  "location": "Login_step_definition.enter_user_email_address_as(String)"
-});
-formatter.result({
-  "duration": 4009227800,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\n*** Element info: {Using\u003did, value\u003demail}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:363)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:188)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Login_step_definition.enter_user_email_address_as(Login_step_definition.java:80)\r\n\tat ✽.Then Enter user email address as \"test@gmail.com\".(src/test/resources/login.feature:9)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 21
-    }
-  ],
-  "location": "Login_step_definition.enter_user_password_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_Login_button()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 13
-    }
-  ],
-  "location": "Login_step_definition.verify_uesr_validation_message_for_Email_Address(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "This is a required field.",
-      "offset": 13
-    }
-  ],
-  "location": "Login_step_definition.verify_user_validation_message_for_Password(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 13
-    }
-  ],
-  "location": "Login_step_definition.verify_user_message_for_all_invalid_credentials(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenario({
-  "line": 19,
-  "name": "Data driving for invalid data for sign-in.",
-  "description": "",
-  "id": "signin-test-on-web-application;data-driving-for-invalid-data-for-sign-in.;;4",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@signInTest"
-    }
-  ]
-});
-formatter.step({
-  "line": 9,
-  "name": "Enter user email address as \"test@gmail.com\".",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 10,
-  "name": "Insert the Password \"tes@1234\".",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 11,
-  "name": "Click on Login button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 12,
-  "name": "Verify uesr \"\" validation message for Email Address.",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 13,
-  "name": "Verify user \"\" validation message for Password.",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "Verify user \"Invalid login or password.\" message for all invalid credentials.",
-  "matchedColumns": [
-    4
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "test@gmail.com",
-      "offset": 29
-    }
-  ],
-  "location": "Login_step_definition.enter_user_email_address_as(String)"
-});
-formatter.result({
-  "duration": 6037777000,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\n*** Element info: {Using\u003did, value\u003demail}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:363)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:188)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Login_step_definition.enter_user_email_address_as(Login_step_definition.java:80)\r\n\tat ✽.Then Enter user email address as \"test@gmail.com\".(src/test/resources/login.feature:9)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "tes@1234",
-      "offset": 21
-    }
-  ],
-  "location": "Login_step_definition.enter_user_password_as(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_Login_button()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 13
-    }
-  ],
-  "location": "Login_step_definition.verify_uesr_validation_message_for_Email_Address(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 13
-    }
-  ],
-  "location": "Login_step_definition.verify_user_validation_message_for_Password(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Invalid login or password.",
-      "offset": 13
-    }
-  ],
-  "location": "Login_step_definition.verify_user_message_for_all_invalid_credentials(String)"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenario({
-  "line": 23,
-  "name": "",
-  "description": "",
-  "id": "signin-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 22,
-      "name": "@signInTest_tochek_payement_option"
-    }
-  ]
-});
-formatter.step({
-  "line": 24,
-  "name": "Open the website url.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 25,
-  "name": "click on most downloaded link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 26,
-  "name": "select a product item.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 27,
-  "name": "click on download this presentation link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 28,
-  "name": "Enter user a email address as.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 29,
-  "name": "Enter password as.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 30,
-  "name": "Click on Login button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 31,
-  "name": "after login redirect to price page.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 32,
-  "name": "Select any of price subscription.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 33,
-  "name": "Verify the payment option field.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Login_step_definition.navigates_to_website_url()"
-});
-formatter.result({
-  "duration": 6089748700,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.Login_step_definition.navigates_to_website_url(Login_step_definition.java:28)\r\n\tat ✽.Given Open the website url.(src/test/resources/login.feature:24)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "location": "Login_step_definition.click_most_download()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.select_product()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_Download_this_presentation_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.enter_email_as()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.enter_paasword_as()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_Login_button()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.after_signup_redirect_to_price_page()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.select_any_of_price_subscription()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.verify_the_payment_option_field()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenario({
-  "line": 37,
-  "name": "",
-  "description": "",
-  "id": "signin-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 36,
-      "name": "@signInTest_and_redirect_paypal_page"
-    }
-  ]
-});
-formatter.step({
-  "line": 38,
-  "name": "Open the website url.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 39,
-  "name": "click on most downloaded link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 40,
-  "name": "select a product item.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 41,
-  "name": "click on download this presentation link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 42,
-  "name": "Enter user a email address as.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 43,
-  "name": "Enter password as.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 44,
-  "name": "Click on Login button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 45,
-  "name": "after login redirect to price page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 46,
-  "name": "Select any of price subscription.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 47,
-  "name": "See default payment option as paypal.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 48,
-  "name": "Enter coupon code.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 49,
-  "name": "Apply cuopon code.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 50,
-  "name": "Verify applied coupon code offer.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 51,
-  "name": "click on place order CTA.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 52,
-  "name": "Verify the paypal payement page.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Login_step_definition.navigates_to_website_url()"
-});
-formatter.result({
-  "duration": 6016299400,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.Login_step_definition.navigates_to_website_url(Login_step_definition.java:28)\r\n\tat ✽.Given Open the website url.(src/test/resources/login.feature:38)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "location": "Login_step_definition.click_most_download()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.select_product()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_Download_this_presentation_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.enter_email_as()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.enter_paasword_as()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_Login_button()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.after_signup_redirect_to_price_page()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.select_any_of_price_subscription()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.see_default_payment_option_as_paypal()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.enter_coupon()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.apply_the_cuopon_code()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.verify_the_applied_coupon_code_offer()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_place_order_CTA()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.verify_the_paypal_payement_page()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenario({
-  "line": 56,
-  "name": "",
-  "description": "",
-  "id": "signin-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 55,
-      "name": "@signInTest_and_redirect_paypal_page_without_apply_code"
-    }
-  ]
-});
-formatter.step({
-  "line": 57,
-  "name": "Open the website url.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 58,
-  "name": "click on most downloaded link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 59,
-  "name": "select a product item.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 60,
-  "name": "click on download this presentation link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 61,
-  "name": "Enter user a email address as.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 62,
-  "name": "Enter password as.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 63,
-  "name": "Click on Login button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 64,
-  "name": "after login redirect to price page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 65,
-  "name": "Select any of price subscription.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 66,
-  "name": "See default payment option as paypal.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 67,
-  "name": "click on place order CTA.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 68,
-  "name": "Verify the paypal payement page.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Login_step_definition.navigates_to_website_url()"
-});
-formatter.result({
-  "duration": 6011836900,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.Login_step_definition.navigates_to_website_url(Login_step_definition.java:28)\r\n\tat ✽.Given Open the website url.(src/test/resources/login.feature:57)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "location": "Login_step_definition.click_most_download()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.select_product()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_Download_this_presentation_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.enter_email_as()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.enter_paasword_as()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_Login_button()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.after_signup_redirect_to_price_page()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.select_any_of_price_subscription()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.see_default_payment_option_as_paypal()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_place_order_CTA()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.verify_the_paypal_payement_page()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenario({
-  "line": 71,
-  "name": "",
-  "description": "",
-  "id": "signin-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 70,
-      "name": "@signInTest_and_redirect_card_page"
-    }
-  ]
-});
-formatter.step({
-  "line": 72,
-  "name": "Open the website url.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 73,
-  "name": "click on most downloaded link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 74,
-  "name": "select a product item.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 75,
-  "name": "click on download this presentation link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 76,
-  "name": "Enter user a email address as.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 77,
-  "name": "Enter password as.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 78,
-  "name": "Click on Login button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 79,
-  "name": "after login redirect to price page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 80,
-  "name": "Select any of price subscription.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 81,
-  "name": "Select payment option as Card.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 82,
-  "name": "Enter coupon code.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 83,
-  "name": "Apply cuopon code.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 84,
-  "name": "Verify applied coupon code offer.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 85,
-  "name": "click on place order CTA.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 86,
-  "name": "Verify card payement page.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Login_step_definition.navigates_to_website_url()"
-});
-formatter.result({
-  "duration": 6014119400,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.Login_step_definition.navigates_to_website_url(Login_step_definition.java:28)\r\n\tat ✽.Given Open the website url.(src/test/resources/login.feature:72)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "location": "Login_step_definition.click_most_download()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.select_product()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_Download_this_presentation_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.enter_email_as()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.enter_paasword_as()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_Login_button()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.after_signup_redirect_to_price_page()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.select_any_of_price_subscription()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.select_payment_option_as_Card()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.enter_coupon()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.apply_the_cuopon_code()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.verify_the_applied_coupon_code_offer()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_place_order_CTA()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.card_page()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.scenario({
-  "line": 89,
-  "name": "",
-  "description": "",
-  "id": "signin-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 88,
-      "name": "@signInTest_and_redirect_card_page_without_coupon"
-    }
-  ]
-});
-formatter.step({
-  "line": 90,
-  "name": "Open the website url.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 91,
-  "name": "click on most downloaded link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 92,
-  "name": "select a product item.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 93,
-  "name": "click on download this presentation link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 94,
-  "name": "Enter user a email address as.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 95,
-  "name": "Enter password as.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 96,
-  "name": "Click on Login button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 97,
-  "name": "after login redirect to price page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 98,
-  "name": "Select any of price subscription.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 99,
-  "name": "Select payment option as Card.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 100,
-  "name": "click on place order CTA.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 101,
-  "name": "Verify card payement page.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Login_step_definition.navigates_to_website_url()"
-});
-formatter.result({
-  "duration": 6012141000,
-  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.102)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:58060}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}\nSession ID: 65245d0b593b21eff369e008220e567a\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.Login_step_definition.navigates_to_website_url(Login_step_definition.java:28)\r\n\tat ✽.Given Open the website url.(src/test/resources/login.feature:90)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "location": "Login_step_definition.click_most_download()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.select_product()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_Download_this_presentation_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.enter_email_as()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.enter_paasword_as()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_Login_button()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.after_signup_redirect_to_price_page()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.select_any_of_price_subscription()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.select_payment_option_as_Card()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_place_order_CTA()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.card_page()"
-});
-formatter.result({
-  "status": "skipped"
-});
-});n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.Login_step_definition.navigates_to_website_url(Login_step_definition.java:28)\r\n\tat ✽.Given Open the website url.(src/test/resources/login.feature:90)\r\n",
-  "status": "failed"
-});
-formatter.match({
-  "location": "Login_step_definition.click_most_download()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.select_product()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_Download_this_presentation_link()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.enter_email_as()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.enter_paasword_as()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_Login_button()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.after_signup_redirect_to_price_page()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.select_any_of_price_subscription()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.select_payment_option_as_Card()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.click_on_place_order_CTA()"
-});
-formatter.result({
-  "status": "skipped"
-});
-formatter.match({
-  "location": "Login_step_definition.card_page()"
-});
-formatter.result({
-  "status": "skipped"
+formatter.after({
+  "duration": 33200,
+  "status": "passed"
 });
 });

@@ -7,6 +7,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 
 import ObjectRepository.LoginObject;
 import ObjectRepository.SignupObject;
@@ -58,7 +59,7 @@ public class Email_Signin_paidUser_stepDefinition extends SetupClass {
 				WebElement recommended=driver.findElement(By.cssSelector(".scd-assistant-cards-close>i"));
 				wait.implictywait(driver);
 				recommended.click();
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 		} catch (NoSuchElementException recomm) {
 
 		}
@@ -78,8 +79,36 @@ public class Email_Signin_paidUser_stepDefinition extends SetupClass {
 			webelement = driver.findElement(SignupObject.Downloaded);
 			wait.implictywait(driver);
 			webelement.click();
-			Thread.sleep(1000);
+			Thread.sleep(8000);
 		}
+		@Then ("^chat window option\\.$")
+		public void close_chat_window() throws InterruptedException {
+			try {
+				WebElement iframe = driver.findElement(By.id("livechat-full-view"));
+				if(iframe.isDisplayed()) {
+					driver.switchTo().frame(iframe);   
+					 Actions act = new Actions(driver);
+					 act.moveToElement(driver.findElement(By.cssSelector("#title .icon-minimize"))).build().perform();
+					 Thread.sleep(2000);
+						WebElement chat1=driver.findElement(By.cssSelector("#title .icon-minimize"));
+						 Thread.sleep(1000);
+							chat1.click();
+							 Thread.sleep(1000);
+							 driver.switchTo().defaultContent();
+							 Thread.sleep(1000);
+							 driver.switchTo().parentFrame();
+						 Thread.sleep(1000);
+				}
+				else {
+					
+
+				System.out.println("chat window does not open");
+				}
+			}
+					catch(NoSuchElementException NCP) {
+						
+					}
+				}	
 
 		@Then("^Enter a user email$")
 		public void enter_user_email_address_as() {
