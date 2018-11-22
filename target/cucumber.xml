@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="52" time="3544.223977">
+<testcase classname="Already user subcribe the application with google plus id." name="Already subscribe the product with google plus id." time="79.715239">
+<system-out><![CDATA[Given Open home page of the application.....................................passed
+And Select style as complete ppt............................................passed
+And Select any project slider...............................................passed
+And Click on downloadbtn test5 link.........................................passed
+And Click on googlePlus link................................................passed
+Then Enter user google email addess.........................................passed
+Then go to password page....................................................passed
+Then Enter user google pass.................................................passed
+Then Click on next CTA......................................................passed
+Then The Page is redirect to download presenetion link......................passed
+]]></system-out>
+</testcase>
+<testcase classname="Already user subcribe the application with facebook id." name="Already subscribe the product." time="129.03639">
+<system-out><![CDATA[Given Open given the application URL........................................passed
+And go to Complete ppts.....................................................passed
+And product as Project Scoping Powerpoint...................................passed
+And Click on download this presentation.....................................passed
+And Click on test fblink....................................................passed
+Then user email as..........................................................passed
+Then user password as.......................................................passed
+Then click on Login button..................................................passed
+Then See the this link as download this presenetion link is appeared........passed
+]]></system-out>
+</testcase>
+<testcase classname="Clear google plus history." name="Redirect to google plus page." time="18.492596">
+<system-out><![CDATA[Given open the google plus page.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Logout the appliction ." name="log out the Fb paid user account." time="14.942021">
+<system-out><![CDATA[Given navigate to the facebook url..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Already user subcribe the application." name="Already subscribe the product." time="107.727969">
+<system-out><![CDATA[Given Open application URL..................................................passed
+And Click on Complete ppts..................................................passed
+And Select a product as Project Scoping Powerpoint..........................passed
+And Click on download this presentation link................................passed
+Then chat window option.....................................................passed
+Then Enter a user email.....................................................passed
+Then Enter the user password................................................passed
+Then click on Login cta.....................................................passed
+Then the download this presenetion link is appeared.........................passed
+]]></system-out>
+</testcase>
+<testcase classname="create new fbuser." name="create the application with facebook user." time="167.776773">
+<system-out><![CDATA[Given Launching the application URL.........................................passed
+And Select product list as Complete ppts....................................passed
+And On the Scoping Powerpoint product.......................................passed
+And Open the download presentation link.....................................passed
+And Click on create as account link.........................................passed
+And Click on faceblink......................................................passed
+Then Fb user enter a valid email............................................passed
+Then Fb user enter valid password...........................................passed
+Then click on login cta on fb page..........................................passed
+Then The user is redirected to price page...................................passed
+Then the randamly the subscription product..................................passed
+Then Verify the payement section on the app.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="create new fbuser." name="" time="151.542543">
+<system-out><![CDATA[Given Launching the application URL.........................................passed
+And Select product list as Complete ppts....................................passed
+And On the Scoping Powerpoint product.......................................passed
+And Open the download presentation link.....................................passed
+And Click on create as account link.........................................passed
+And Click on faceblink......................................................passed
+Then The user is redirected to price page...................................passed
+Then the randamly the subscription product..................................passed
+Then By default payment option as paypal is selected........................passed
+Then Enter the the offer code is off is showing.............................passed
+Then Apply the code.........................................................passed
+Then Verify the apply offer code is appeared................................passed
+Then Place order the product................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="create new fbuser." name="" time="106.921299">
+<system-out><![CDATA[Given Launching the application URL.........................................passed
+And Select product list as Complete ppts....................................passed
+And On the Scoping Powerpoint product.......................................passed
+And Open the download presentation link.....................................passed
+And Click on create as account link.........................................passed
+And Click on faceblink......................................................passed
+Then The user is redirected to price page...................................passed
+Then the randamly the subscription product..................................passed
+Then By default payment option as paypal is selected........................passed
+Then Place order the product................................................passed
+Then Verify the payment page................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="create new fbuser." name="" time="128.098804">
+<system-out><![CDATA[Given Launching the application URL.........................................passed
+And Select product list as Complete ppts....................................passed
+And On the Scoping Powerpoint product.......................................passed
+And Open the download presentation link.....................................passed
+And Click on create as account link.........................................passed
+And Click on faceblink......................................................passed
+Then The user is redirected to price page...................................passed
+Then the randamly the subscription product..................................passed
+Then Select the payment option as CARD is given.............................passed
+Then Enter the the offer code is off is showing.............................passed
+Then Apply the code.........................................................passed
+Then Verify the apply offer code is appeared................................passed
+Then Place order the product................................................passed
+Then Verify the payment option as on card page..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="create new fbuser." name="" time="119.095595">
+<system-out><![CDATA[Given Launching the application URL.........................................passed
+And Select product list as Complete ppts....................................passed
+And On the Scoping Powerpoint product.......................................passed
+And Open the download presentation link.....................................passed
+And Click on create as account link.........................................passed
+And Click on faceblink......................................................passed
+Then The user is redirected to price page...................................passed
+Then the randamly the subscription product..................................passed
+Then Select the payment option as CARD is given.............................passed
+Then Place order the product................................................passed
+Then Verify the payment option as on card page..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Sign with new facebook user." name="Sign in the application with facebook user." time="146.248404">
+<system-out><![CDATA[Given Go to the application URL.............................................passed
+And Select a product list as Complete ppts..................................passed
+And Click on Project Scoping Powerpoint product.............................passed
+And Click on download presentation link.....................................passed
+And Click on fblink.........................................................passed
+Then Facebook user enter a email as.........................................passed
+Then Facebook user enter password...........................................passed
+Then Login the application..................................................passed
+Then See that user is redirected to price page..............................passed
+Then Subscribe the product..................................................passed
+Then Verify the payment section information.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Sign with new facebook user." name="" time="77.592904">
+<system-out><![CDATA[Given Go to the application URL.............................................passed
+And Select a product list as Complete ppts..................................passed
+And Click on Project Scoping Powerpoint product.............................passed
+And Click on download presentation link.....................................passed
+And Click on fblink.........................................................passed
+Then See that user is redirected to price page..............................passed
+Then Subscribe the product..................................................passed
+Then Verify the by default payment option as paypal.........................passed
+Then Enter the coupon as showing............................................passed
+Then Apply coupon the code..................................................passed
+Then Verify the apply code is applied.......................................passed
+Then Go to payement page....................................................passed
+Then Verify the payment page is payapal.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Sign with new facebook user." name="" time="67.841462">
+<system-out><![CDATA[Given Go to the application URL.............................................passed
+And Select a product list as Complete ppts..................................passed
+And Click on Project Scoping Powerpoint product.............................passed
+And Click on download presentation link.....................................passed
+And Click on fblink.........................................................passed
+Then See that user is redirected to price page..............................passed
+Then Subscribe the product..................................................passed
+Then Verify the by default payment option as paypal.........................passed
+Then Go to payement page....................................................passed
+Then Verify the payment page is payapal.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Sign with new facebook user." name="" time="78.173301">
+<system-out><![CDATA[Given Go to the application URL.............................................passed
+And Select a product list as Complete ppts..................................passed
+And Click on Project Scoping Powerpoint product.............................passed
+And Click on download presentation link.....................................passed
+And Click on fblink.........................................................passed
+Then See that user is redirected to price page..............................passed
+Then Subscribe the product..................................................passed
+Then Select the payment option as CARD......................................passed
+Then Enter the coupon as showing............................................passed
+Then Apply coupon the code..................................................passed
+Then Verify the apply code is applied.......................................passed
+Then Go to payement page....................................................passed
+Then Verify the payment page is card chekout................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Sign with new facebook user." name="" time="72.504">
+<system-out><![CDATA[Given Go to the application URL.............................................passed
+And Select a product list as Complete ppts..................................passed
+And Click on Project Scoping Powerpoint product.............................passed
+And Click on download presentation link.....................................passed
+And Click on fblink.........................................................passed
+Then See that user is redirected to price page..............................passed
+Then Subscribe the product..................................................passed
+Then Select the payment option as CARD......................................passed
+Then Go to payement page....................................................passed
+Then Verify the payment page is card chekout................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify the forgot password." name="Test the forgot password." time="54.781026">
+<system-out><![CDATA[Given To the application URL................................................passed
+And Select on Complete ppts CTA.............................................passed
+And Select as a Project Scoping Powerpoint..................................passed
+And Click on download link cta..............................................passed
+Then Click on forgot password link..........................................passed
+Then Enter the user email address is registerd as ""........................passed
+Then Click on submit button.................................................passed
+Then Verify "This is a required field." the validation message..............passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify the forgot password." name="" time="63.285014">
+<system-out><![CDATA[Given To the application URL................................................passed
+And Select on Complete ppts CTA.............................................passed
+And Select as a Project Scoping Powerpoint..................................passed
+And Click on download link cta..............................................passed
+Then Click on forgot password link..........................................passed
+Then Enter the user email address is registerd as "test.shadab@gmail.com"...passed
+Then Click on submit button.................................................passed
+Then "If there is an account associated with test.shadab@gmail.com you will receive an email with a link to reset your password." validation message..passed
+]]></system-out>
+</testcase>
+<testcase classname="google plus user." name="google plus user signin the app." time="87.501015">
+<system-out><![CDATA[Given launch application....................................................passed
+And the product list as Complete ppts.......................................passed
+And Project list as Scoping Powerpoint product..............................passed
+And go to download link.....................................................passed
+And Click on Create account cta.............................................passed
+And then click on Google plus link button...................................passed
+Then enter a email..........................................................passed
+Then Go to next page........................................................passed
+Then enter password.........................................................passed
+Then Click on next button...................................................passed
+Then Redirected to price page...............................................passed
+Then Subscribe randomly the product.........................................passed
+Then the payment information is verify......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="google plus user." name="" time="77.376206">
+<system-out><![CDATA[Given launch application....................................................passed
+And the product list as Complete ppts.......................................passed
+And Project list as Scoping Powerpoint product..............................passed
+And go to download link.....................................................passed
+And Click on Create account cta.............................................passed
+And then click on Google plus link button...................................passed
+Then Redirected to price page...............................................passed
+Then Subscribe randomly the product.........................................passed
+Then then default payment option is paypal..................................passed
+Then insert coupon as display in screen.....................................passed
+Then apply coupon cta.......................................................passed
+Then Verify the apply coupon code text is appeared..........................passed
+Then Go to checkout payement process page...................................passed
+Then Verify the payment screen is paypal is dispalyed.......................passed
+]]></system-out>
+</testcase>
+<testcase classname="google plus user." name="" time="71.009082">
+<system-out><![CDATA[Given launch application....................................................passed
+And the product list as Complete ppts.......................................passed
+And Project list as Scoping Powerpoint product..............................passed
+And go to download link.....................................................passed
+And Click on Create account cta.............................................passed
+And then click on Google plus link button...................................passed
+Then Redirected to price page...............................................passed
+Then Subscribe randomly the product.........................................passed
+Then then default payment option is paypal..................................passed
+Then Go to checkout payement process page...................................passed
+Then Verify the payment screen is paypal is dispalyed.......................passed
+]]></system-out>
+</testcase>
+<testcase classname="google plus user." name="On the card page with apply coupon code" time="80.983902">
+<system-out><![CDATA[Given launch application....................................................passed
+And the product list as Complete ppts.......................................passed
+And Project list as Scoping Powerpoint product..............................passed
+And go to download link.....................................................passed
+And Click on Create account cta.............................................passed
+And then click on Google plus link button...................................passed
+Then Redirected to price page...............................................passed
+Then Subscribe randomly the product.........................................passed
+Then Click on card radio button.............................................passed
+Then insert coupon as display in screen.....................................passed
+Then apply coupon cta.......................................................passed
+Then Verify the apply coupon code text is appeared..........................passed
+Then Go to checkout payement process page...................................passed
+Then Verify the payment page is secure card 2checkout title.................passed
+]]></system-out>
+</testcase>
+<testcase classname="google plus user." name="n the card page without apply coupon code." time="70.690642">
+<system-out><![CDATA[Given launch application....................................................passed
+And the product list as Complete ppts.......................................passed
+And Project list as Scoping Powerpoint product..............................passed
+And go to download link.....................................................passed
+And Click on Create account cta.............................................passed
+And then click on Google plus link button...................................passed
+Then Redirected to price page...............................................passed
+Then Subscribe randomly the product.........................................passed
+Then Click on card radio button.............................................passed
+Then Go to checkout payement process page...................................passed
+Then Verify the payment page is secure card 2checkout title.................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="" time="51.506211">
+<system-out><![CDATA[Given Navigates to website url..............................................passed
+Then Click on Most Downloaded link..........................................passed
+Then Select a product items.................................................passed
+Then Click on Download this presentation link...............................passed
+Then Click on Create an Account CTA.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="Data driving for invalid data for sign-up." time="68.429297">
+<system-out><![CDATA[Then Enter Email Address as ""..............................................passed
+Then Enter First Name as "".................................................passed
+Then Enter Last Name as ""..................................................passed
+Then Enter Password as ""...................................................passed
+Then Enter Confirm password as ""...........................................passed
+Then Enter the captcha......................................................passed
+Then click on Signup button.................................................passed
+Then Verify "This is a required field." validation message for Email Address..passed
+Then Verify "This is a required field." validation message for First Name...passed
+Then Verify "This is a required field." validation message forLast Name.....passed
+Then Verify "This is a required field." validation message for Password.....passed
+Then Verify "This is a required field." validation message for Confirm_password..passed
+Then Verify "" message for all invalid credentials..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="Data driving for invalid data for sign-up. 2" time="68.441508">
+<system-out><![CDATA[Then Enter Email Address as "selenium.testing1234@gmail.com"................passed
+Then Enter First Name as "Test".............................................passed
+Then Enter Last Name as ""..................................................passed
+Then Enter Password as ""...................................................passed
+Then Enter Confirm password as ""...........................................passed
+Then Enter the captcha......................................................passed
+Then click on Signup button.................................................passed
+Then Verify "" validation message for Email Address.........................passed
+Then Verify "" validation message for First Name............................passed
+Then Verify "This is a required field." validation message forLast Name.....passed
+Then Verify "This is a required field." validation message for Password.....passed
+Then Verify "This is a required field." validation message for Confirm_password..passed
+Then Verify "" message for all invalid credentials..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="Data driving for invalid data for sign-up. 3" time="68.645264">
+<system-out><![CDATA[Then Enter Email Address as "selenium.testing1234@gmail.com"................passed
+Then Enter First Name as "Test".............................................passed
+Then Enter Last Name as "Test"..............................................passed
+Then Enter Password as ""...................................................passed
+Then Enter Confirm password as ""...........................................passed
+Then Enter the captcha......................................................passed
+Then click on Signup button.................................................passed
+Then Verify "" validation message for Email Address.........................passed
+Then Verify "" validation message for First Name............................passed
+Then Verify "" validation message forLast Name..............................passed
+Then Verify "This is a required field." validation message for Password.....passed
+Then Verify "This is a required field." validation message for Confirm_password..passed
+Then Verify "" message for all invalid credentials..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="Data driving for invalid data for sign-up. 4" time="48.535664">
+<system-out><![CDATA[Then Enter Email Address as "selenium.testing1234@gmail.com"................passed
+Then Enter First Name as "Test".............................................passed
+Then Enter Last Name as "Test"..............................................passed
+Then Enter Password as "1234"...............................................passed
+Then Enter Confirm password as ""...........................................passed
+Then Enter the captcha......................................................passed
+Then click on Signup button.................................................passed
+Then Verify "" validation message for Email Address.........................passed
+Then Verify "" validation message for First Name............................passed
+Then Verify "" validation message forLast Name..............................passed
+Then Verify "Please enter 6 or more characters. Leading or trailing spaces will be ignored." validation message for Password..passed
+Then Verify "This is a required field." validation message for Confirm_password..passed
+Then Verify "" message for all invalid credentials..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="Data driving for invalid data for sign-up. 5" time="48.505137">
+<system-out><![CDATA[Then Enter Email Address as "selenium.testing1234@gmail.com"................passed
+Then Enter First Name as "Test".............................................passed
+Then Enter Last Name as "Test"..............................................passed
+Then Enter Password as "123456".............................................passed
+Then Enter Confirm password as "654221".....................................passed
+Then Enter the captcha......................................................passed
+Then click on Signup button.................................................passed
+Then Verify "" validation message for Email Address.........................passed
+Then Verify "" validation message for First Name............................passed
+Then Verify "" validation message forLast Name..............................passed
+Then Verify "" validation message for Password..............................passed
+Then Verify "Please make sure your passwords match." validation message for Confirm_password..passed
+Then Verify "" message for all invalid credentials..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="Data driving for invalid data for sign-up. 6" time="107.76267">
+<system-out><![CDATA[Then Enter Email Address as "selenium.testing1234@gmail.com"................passed
+Then Enter First Name as "Test".............................................passed
+Then Enter Last Name as "Test"..............................................passed
+Then Enter Password as "123456".............................................passed
+Then Enter Confirm password as "123456".....................................passed
+Then Enter the captcha......................................................passed
+Then click on Signup button.................................................passed
+Then Verify "" validation message for Email Address.........................passed
+Then Verify "" validation message for First Name............................passed
+Then Verify "" validation message forLast Name..............................passed
+Then Verify "" validation message for Password..............................passed
+Then Verify "" validation message for Confirm_password......................passed
+Then Verify "There is already an account with this email address. If you are sure that it is your email address, click here to get your password and access your account." message for all invalid credentials..passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="Data driving for valid sign-up." time="7.728583">
+<system-out><![CDATA[Then Enter Email "selenium.testing".........................................passed
+Then Enter First Name as "Test".............................................passed
+Then Enter Last Name as "Test"..............................................passed
+Then Enter Password as "123456".............................................passed
+Then Enter Confirm password as "123456".....................................passed
+Then Enter the captcha......................................................passed
+Then click on Signup button.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="" time="24.491451">
+<system-out><![CDATA[Given After signup see the price page.......................................passed
+Then Select price subscription..............................................passed
+Then Verify the payment option..............................................passed
+Then Click on My account link...............................................passed
+Then Click on delete account link...........................................passed
+Then Click on Yes button....................................................passed
+Then Verify the delete account confirmation message.........................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="" time="62.151784">
+<system-out><![CDATA[Given Navigates to website url..............................................passed
+Then Click on Most Downloaded link..........................................passed
+Then Select a product items.................................................passed
+Then Click on Download this presentation link...............................passed
+Then Click on Create an Account CTA.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="Data driving for valid sign-up." time="9.41735">
+<system-out><![CDATA[Then Enter Email "selenium.testing".........................................passed
+Then Enter First Name as "Test".............................................passed
+Then Enter Last Name as "Test"..............................................passed
+Then Enter Password as "123456".............................................passed
+Then Enter Confirm password as "123456".....................................passed
+Then Enter the captcha......................................................passed
+Then click on Signup button.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="" time="42.999604">
+<system-out><![CDATA[Given After signup see the price page.......................................passed
+Then Select price subscription..............................................passed
+Then Verify the default payment option as paypal............................passed
+Then Enter the coupon code..................................................passed
+Then Apply the coupon code as given.........................................passed
+Then Verify the applied coupon code.........................................passed
+Then click on place order button............................................passed
+Then Verify the paypal payement process.....................................passed
+Then Navigates to website url home page.....................................passed
+Then Click on My account link...............................................passed
+Then Click on delete account link...........................................passed
+Then Click on Yes button....................................................passed
+Then Verify the delete account confirmation message.........................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="" time="57.571537">
+<system-out><![CDATA[Given Navigates to website url..............................................passed
+Then Click on Most Downloaded link..........................................passed
+Then Select a product items.................................................passed
+Then Click on Download this presentation link...............................passed
+Then Click on Create an Account CTA.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="Data driving for valid sign-up." time="7.427307">
+<system-out><![CDATA[Then Enter Email "selenium.testing".........................................passed
+Then Enter First Name as "Test".............................................passed
+Then Enter Last Name as "Test"..............................................passed
+Then Enter Password as "123456".............................................passed
+Then Enter Confirm password as "123456".....................................passed
+Then Enter the captcha......................................................passed
+Then click on Signup button.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="" time="32.652639">
+<system-out><![CDATA[Given After signup see the price page.......................................passed
+Then Select price subscription..............................................passed
+Then Verify the default payment option as paypal............................passed
+Then click on place order button............................................passed
+Then Verify the paypal payement process.....................................passed
+Then Navigates to website url home page.....................................passed
+Then Click on My account link...............................................passed
+Then Click on delete account link...........................................passed
+Then Click on Yes button....................................................passed
+Then Verify the delete account confirmation message.........................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="" time="58.692537">
+<system-out><![CDATA[Given Navigates to website url..............................................passed
+Then Click on Most Downloaded link..........................................passed
+Then Select a product items.................................................passed
+Then Click on Download this presentation link...............................passed
+Then Click on Create an Account CTA.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="Data driving for valid sign-up." time="7.644947">
+<system-out><![CDATA[Then Enter Email "selenium.testing".........................................passed
+Then Enter First Name as "Test".............................................passed
+Then Enter Last Name as "Test"..............................................passed
+Then Enter Password as "123456".............................................passed
+Then Enter Confirm password as "123456".....................................passed
+Then Enter the captcha......................................................passed
+Then click on Signup button.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="" time="45.056703">
+<system-out><![CDATA[Given After signup see the price page.......................................passed
+Then Select price subscription..............................................passed
+Then Select the payment option as card......................................passed
+Then Enter the coupon code..................................................passed
+Then Apply the coupon code as given.........................................passed
+Then Verify the applied coupon code.........................................passed
+Then click on place order button............................................passed
+Then Verify the card payement page..........................................passed
+Then Navigates to website url home page.....................................passed
+Then Click on My account link...............................................passed
+Then Click on delete account link...........................................passed
+Then Click on Yes button....................................................passed
+Then Verify the delete account confirmation message.........................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="" time="58.533185">
+<system-out><![CDATA[Given Navigates to website url..............................................passed
+Then Click on Most Downloaded link..........................................passed
+Then Select a product items.................................................passed
+Then Click on Download this presentation link...............................passed
+Then Click on Create an Account CTA.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="Data driving for valid sign-up." time="7.573466">
+<system-out><![CDATA[Then Enter Email "selenium.testing".........................................passed
+Then Enter First Name as "Test".............................................passed
+Then Enter Last Name as "Test"..............................................passed
+Then Enter Password as "123456".............................................passed
+Then Enter Confirm password as "123456".....................................passed
+Then Enter the captcha......................................................passed
+Then click on Signup button.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="signup Test On Web Application" name="" time="34.582324">
+<system-out><![CDATA[Given After signup see the price page.......................................passed
+Then Select price subscription..............................................passed
+Then Select the payment option as card......................................passed
+Then click on place order button............................................passed
+Then Verify the card payement page..........................................passed
+Then Navigates to website url home page.....................................passed
+Then Click on My account link...............................................passed
+Then Click on delete account link...........................................passed
+Then Click on Yes button....................................................passed
+Then Verify the delete account confirmation message.........................passed
+]]></system-out>
+</testcase>
+<testcase classname="signin Test On Web Application" name="" time="70.804479">
+<system-out><![CDATA[Given Open the website url..................................................passed
+Then click on most downloaded link..........................................passed
+Then select a product item..................................................passed
+Then click on download this presentation link...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="signin Test On Web Application" name="Data driving for invalid data for sign-in." time="37.655986">
+<system-out><![CDATA[Then Enter user email address as "".........................................passed
+Then Insert the Password "".................................................passed
+Then Click on Login button..................................................passed
+Then Verify uesr "This is a required field." validation message for Email Address..passed
+Then Verify user "This is a required field." validation message for Password..passed
+Then Verify user "" message for all invalid credentials.....................passed
+]]></system-out>
+</testcase>
+<testcase classname="signin Test On Web Application" name="Data driving for invalid data for sign-in. 2" time="27.667383">
+<system-out><![CDATA[Then Enter user email address as "test@gmail.com"...........................passed
+Then Insert the Password "".................................................passed
+Then Click on Login button..................................................passed
+Then Verify uesr "" validation message for Email Address....................passed
+Then Verify user "This is a required field." validation message for Password..passed
+Then Verify user "" message for all invalid credentials.....................passed
+]]></system-out>
+</testcase>
+<testcase classname="signin Test On Web Application" name="Data driving for invalid data for sign-in. 3" time="78.525013">
+<system-out><![CDATA[Then Enter user email address as "test@gmail.com"...........................passed
+Then Insert the Password "tes@1234".........................................passed
+Then Click on Login button..................................................passed
+Then Verify uesr "" validation message for Email Address....................passed
+Then Verify user "" validation message for Password.........................passed
+Then Verify user "Invalid login or password." message for all invalid credentials..passed
+]]></system-out>
+</testcase>
+<testcase classname="signin Test On Web Application" name="" time="77.593272">
+<system-out><![CDATA[Given Open the website url..................................................passed
+Then click on most downloaded link..........................................passed
+Then select a product item..................................................passed
+Then click on download this presentation link...............................passed
+Then Enter user a email address as..........................................passed
+Then Enter password as......................................................passed
+Then Click on Login button..................................................passed
+Given after login redirect to price page....................................passed
+Then Select any of price subscription.......................................passed
+Then Verify the payment option field........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="signin Test On Web Application" name="" time="90.830642">
+<system-out><![CDATA[Given Open the website url..................................................passed
+Then click on most downloaded link..........................................passed
+Then select a product item..................................................passed
+Then click on download this presentation link...............................passed
+Then Enter user a email address as..........................................passed
+Then Enter password as......................................................passed
+Then Click on Login button..................................................passed
+Then after login redirect to price page.....................................passed
+Then Select any of price subscription.......................................passed
+Then See default payment option as paypal...................................passed
+Then Enter coupon code......................................................passed
+Then Apply cuopon code......................................................passed
+Then Verify applied coupon code offer.......................................passed
+Then click on place order CTA...............................................passed
+Then Verify the paypal payement page........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="signin Test On Web Application" name="" time="86.95561">
+<system-out><![CDATA[Given Open the website url..................................................passed
+Then click on most downloaded link..........................................passed
+Then select a product item..................................................passed
+Then click on download this presentation link...............................passed
+Then Enter user a email address as..........................................passed
+Then Enter password as......................................................passed
+Then Click on Login button..................................................passed
+Then after login redirect to price page.....................................passed
+Then Select any of price subscription.......................................passed
+Then See default payment option as paypal...................................passed
+Then click on place order CTA...............................................passed
+Then Verify the paypal payement page........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="signin Test On Web Application" name="" time="92.157136">
+<system-out><![CDATA[Given Open the website url..................................................passed
+Then click on most downloaded link..........................................passed
+Then select a product item..................................................passed
+Then click on download this presentation link...............................passed
+Then Enter user a email address as..........................................passed
+Then Enter password as......................................................passed
+Then Click on Login button..................................................passed
+Then after login redirect to price page.....................................passed
+Then Select any of price subscription.......................................passed
+Then Select payment option as Card..........................................passed
+Then Enter coupon code......................................................passed
+Then Apply cuopon code......................................................passed
+Then Verify applied coupon code offer.......................................passed
+Then click on place order CTA...............................................passed
+Then Verify card payement page..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="signin Test On Web Application" name="" time="92.349101">
+<system-out><![CDATA[Given Open the website url..................................................passed
+Then click on most downloaded link..........................................passed
+Then select a product item..................................................passed
+Then click on download this presentation link...............................passed
+Then Enter user a email address as..........................................passed
+Then Enter password as......................................................passed
+Then Click on Login button..................................................passed
+Then after login redirect to price page.....................................passed
+Then Select any of price subscription.......................................passed
+Then Select payment option as Card..........................................passed
+Then click on place order CTA...............................................passed
+Then Verify card payement page..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
