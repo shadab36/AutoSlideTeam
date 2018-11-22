@@ -145,7 +145,7 @@ public class Facebook_signin_Unpaid_stepDefinition extends SetupClass {
 		wait.implictywait(driver);
 		Assert.assertEquals(expectedTitle, actualTitle);
 		wait.implictywait(driver);
-
+		Thread.sleep(1000);
 	}
 
 	@Then("^Subscribe the product\\.$")
@@ -165,10 +165,10 @@ public class Facebook_signin_Unpaid_stepDefinition extends SetupClass {
 		String ExpectTitle = "PAYMENT INFORMATION";
 		System.out.println(payment_text);
 		Assert.assertEquals(ExpectTitle, payment_text);
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 	}
 
-	@Then("^Verify the by default payment option as paypal\\.$")
+	@Then("^Verify the by defalt payment option as paypal\\.$")
 	public void see_default_payment_option_as_paypal() throws Throwable {
 		webelement = driver.findElement(SignupObject.paypay_radio_button);
 		if (!driver.findElement(SignupObject.paypay_radio_button).isSelected())
