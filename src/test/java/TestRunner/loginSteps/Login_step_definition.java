@@ -262,22 +262,32 @@ public class Login_step_definition extends SetupClass {
 	@Then("^Verify the paypal payement page\\.$")
 	public void verify_the_paypal_payement_page() throws Throwable {
 		Thread.sleep(4000);
-		try {
-			String actualTitle = driver.getTitle();
-			wait.implictywait(driver);
-			System.out.println(actualTitle);
-			String expectedTitle = "Billing Information - PayPal";
-			wait.implictywait(driver);
-//			Assert.assertEquals(expectedTitle, actualTitle);
-			wait.implictywait(driver);
-			Thread.sleep(1000);
-			}catch(NoSuchElementException paypalbil) {
-			
+		 try {
+			 String actualTitle1 = driver.getTitle();
+				wait.implictywait(driver);
+				System.out.println(actualTitle1);
+				String expectedTitle1 = "Billing Information - PayPal";
+				wait.implictywait(driver);
+				String expectedTitle2="PayPal Checkout";
+				wait.implictywait(driver);
 				
-		
-			}
+			    if(actualTitle1.equals(expectedTitle1)){
+				Assert.assertEquals(expectedTitle1, actualTitle1);
+				wait.implictywait(driver);
+				Thread.sleep(3000);
+				System.out.println("title does not matched");
 	}
-
+		 else{
+				Assert.assertEquals(expectedTitle2, actualTitle1);
+				wait.implictywait(driver);
+				Thread.sleep(3000);
+				System.out.println("title matched");
+		    }
+		 }
+		 catch (NoSuchElementException Paypalget){
+	
+		 }
+	}
 	@Then("^Select payment option as Card\\.$")
 	public void select_payment_option_as_Card() throws Throwable {
 		webelement = driver.findElement(SignupObject.card_radio_button);

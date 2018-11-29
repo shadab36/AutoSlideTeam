@@ -162,30 +162,39 @@ public class SignUp_Step extends SetupClass {
 
 	@Then("^click on Signup button\\.$")
 	public void click_on_Signup_button() throws InterruptedException {
-try {
-		WebDriverWait wait = new WebDriverWait(driver,40);
-		WebElement element = wait.until(ExpectedConditions.visibilityOfElementLocated(SignupObject.Signup));
-		Thread.sleep(1000);
-		js.executeScript("arguments[0].click();", element);
-		Thread.sleep(2000);
-	
-	}catch(TimeoutException e) {
-	}
+		try {
+			WebDriverWait wait = new WebDriverWait(driver, 40);
+			WebElement element = wait.until(ExpectedConditions.visibilityOfElementLocated(SignupObject.Signup));
+			Thread.sleep(1000);
+			js.executeScript("arguments[0].click();", element);
+			Thread.sleep(2000);
+
+		} catch (TimeoutException e) {
+		}
 	}
 
 	@Then("^Verify \"([^\"]*)\" validation message for Email Address\\.$")
 	public void verify_validation_message_for_Email_Address(String Email) throws InterruptedException {
 
 		try {
+
 			String Email_val = driver.findElement(SignupObject.Email_AddressVal).getText();
-			Thread.sleep(1000);
+			wait.implictywait(driver);
 			Assert.assertEquals(Email, Email_val);
 			wait.implictywait(driver);
 			Thread.sleep(1000);
+			
 		} catch (NoSuchElementException nc) {
-
+		  Object s = js.executeScript("return document.getElementById('email_address').validationMessage");
+		  wait.implictywait(driver);
+	        System.out.println(s);
+	        wait.implictywait(driver);
+	         log.info("It's getting HTML5 validation message using JS executor");
+				wait.implictywait(driver);
 		}
-	}
+
+
+}
 
 	@Then("^Verify \"([^\"]*)\" validation message for First Name\\.$")
 	public void verify_validation_message_for_First_Name(String Fn) {
@@ -298,7 +307,7 @@ try {
 
 	@Then("^Enter the coupon code\\.$")
 	public void Enter_the_coupon_code() throws Throwable {
-		
+
 		webelement = driver.findElement(SignupObject.Enter_Coupon);
 		Thread.sleep(1000);
 		js.executeScript("arguments[0].click();", webelement);
@@ -356,19 +365,35 @@ try {
 
 	@Then("^Verify the paypal payement process\\.$")
 	public void paypal_payement_place_process_Step() throws InterruptedException {
-		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
-		String actualTitle = driver.getTitle();
-		wait.implictywait(driver);
-		System.out.println(actualTitle);
-		String expectedTitle = "Billing Information - PayPal";
-		wait.implictywait(driver);
-//		Assert.assertEquals(expectedTitle, actualTitle);
-		wait.implictywait(driver);
 		Thread.sleep(4000);
+		try {
+			String actualTitle1 = driver.getTitle();
+			wait.implictywait(driver);
+			System.out.println(actualTitle1);
+			String expectedTitle1 = "Billing Information - PayPal";
+			wait.implictywait(driver);
+			String expectedTitle2 = "PayPal Checkout";
+			wait.implictywait(driver);
+
+			if (actualTitle1.equals(expectedTitle1)) {
+				Assert.assertEquals(expectedTitle1, actualTitle1);
+				wait.implictywait(driver);
+				Thread.sleep(3000);
+				System.out.println("title does not matched");
+			} else {
+				Assert.assertEquals(expectedTitle2, actualTitle1);
+				wait.implictywait(driver);
+				Thread.sleep(3000);
+				System.out.println("title matched");
+			}
+		} catch (NoSuchElementException PayPal) {
+
+		}
 	}
 
 	@Then("^Select the payment option as card\\.$")
 	public void card_payment() throws InterruptedException {
+	
 		webelement = driver.findElement(SignupObject.card_radio_button);
 		webelement.click();
 		Thread.sleep(1000);
@@ -382,6 +407,7 @@ try {
 
 	@Then("^Verify the card payement page\\.$")
 	public void card_page() throws InterruptedException {
+		Thread.sleep(4000);
 		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
 		String actualTitle = driver.getTitle();
 		wait.implictywait(driver);

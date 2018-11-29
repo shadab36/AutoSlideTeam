@@ -74,74 +74,74 @@ formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 7590159200,
+  "duration": 15384637200,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.click_most_download()"
 });
 formatter.result({
-  "duration": 6023943700,
+  "duration": 6332413500,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.select_product()"
 });
 formatter.result({
-  "duration": 4574543500,
+  "duration": 4875114400,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2452413600,
+  "duration": 2210283400,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.fb_link()"
 });
 formatter.result({
-  "duration": 2666777300,
+  "duration": 1732475800,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.enter_user_mail()"
 });
 formatter.result({
-  "duration": 1312628500,
+  "duration": 2084289700,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.enter_user_password()"
 });
 formatter.result({
-  "duration": 5168136800,
+  "duration": 5120706000,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.google_pass()"
 });
 formatter.result({
-  "duration": 1202007800,
+  "duration": 1183063800,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 47679579000,
+  "duration": 8272725300,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.verify_uesr_validation_message_for_Email_Address()"
 });
 formatter.result({
-  "duration": 1044919400,
+  "duration": 1048891000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 130200,
+  "duration": 129100,
   "status": "passed"
 });
 formatter.uri("src/test/resources/1facebookUser_already_subscribe.feature");
@@ -215,67 +215,67 @@ formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 36966896800,
+  "duration": 37028619200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 5030006800,
+  "duration": 5096709200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 5043890000,
+  "duration": 4565763700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.click_on_Download_thist_presentation_link()"
 });
 formatter.result({
-  "duration": 2359693400,
+  "duration": 2258811500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 2092584300,
+  "duration": 2634105600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.enter_user_mail()"
 });
 formatter.result({
-  "duration": 359456300,
+  "duration": 297836800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.enter_user_password()"
 });
 formatter.result({
-  "duration": 183294100,
+  "duration": 169302000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 75961441200,
+  "duration": 49406170000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.verify_uesr_validation_message_for_Email_Address()"
 });
 formatter.result({
-  "duration": 1039093000,
+  "duration": 1039565400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 34500,
+  "duration": 40200,
   "status": "passed"
 });
 formatter.uri("src/test/resources/2Google_plus_user_logout.feature");
@@ -309,11 +309,11 @@ formatter.match({
   "location": "Google_plus_browser_clear_Step.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 18492561900,
+  "duration": 18631991200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 34400,
+  "duration": 38500,
   "status": "passed"
 });
 formatter.uri("src/test/resources/2facebook_logout.feature");
@@ -347,11 +347,11 @@ formatter.match({
   "location": "Fbpaid_User_logout.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 14941987100,
+  "duration": 15809998200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 33800,
+  "duration": 39300,
   "status": "passed"
 });
 formatter.uri("src/test/resources/Email_signin_paid_user.feature");
@@ -425,67 +425,67 @@ formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 37679537600,
+  "duration": 40103286300,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 25068182600,
+  "duration": 24777322100,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 5495921800,
+  "duration": 4872301300,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 9166661700,
+  "duration": 8991836200,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.close_chat_window()"
 });
 formatter.result({
-  "duration": 42595700,
+  "duration": 6258975000,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.enter_user_email_address_as()"
 });
 formatter.result({
-  "duration": 213518500,
+  "duration": 187959100,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.enter_user_password_as()"
 });
 formatter.result({
-  "duration": 164844400,
+  "duration": 175198700,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 28854586200,
+  "duration": 6888624900,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.verify_uesr_validation_message_for_Email_Address()"
 });
 formatter.result({
-  "duration": 1042086700,
+  "duration": 1039111300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 34200,
+  "duration": 33700,
   "status": "passed"
 });
 formatter.uri("src/test/resources/FBUser_Create_sigin.feature");
@@ -574,88 +574,88 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 35883037400,
+  "duration": 36381228600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 8522044600,
+  "duration": 7550797599,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 5060574500,
+  "duration": 4385583400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 2078154400,
+  "duration": 2151098100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 2635080600,
+  "duration": 2268708400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 1726526900,
+  "duration": 2599021300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.fb_user_enter_a_valid_email()"
 });
 formatter.result({
-  "duration": 304909200,
+  "duration": 272931600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.fb_user_enter_valid_password()"
 });
 formatter.result({
-  "duration": 196507500,
+  "duration": 168209400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_login_cta_on_fb_page()"
 });
 formatter.result({
-  "duration": 99260446300,
+  "duration": 31487836201,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2066402600,
+  "duration": 2009995601,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 9014510700,
+  "duration": 5457921300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.verify_the_payement_section_on_the_app()"
 });
 formatter.result({
-  "duration": 1028542700,
+  "duration": 1039062401,
   "status": "passed"
 });
 formatter.after({
-  "duration": 35500,
+  "duration": 35100,
   "status": "passed"
 });
 formatter.scenario({
@@ -735,95 +735,95 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 37166276400,
+  "duration": 36622645401,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 7742449800,
+  "duration": 7375897200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 4560080800,
+  "duration": 4687042101,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 2194529300,
+  "duration": 2070971000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 2915670600,
+  "duration": 2659041001,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 74408514600,
+  "duration": 3082063800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2061647500,
+  "duration": 2011945999,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 6107152200,
+  "duration": 5687051100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.by_default_payment_option_as_paypal_is_selected()"
 });
 formatter.result({
-  "duration": 1078743800,
+  "duration": 1073199900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.enter_coupon()"
 });
 formatter.result({
-  "duration": 120921300,
+  "duration": 107679600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5047831300,
+  "duration": 5053309000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 3063671400,
+  "duration": 3039973301,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5075004900,
+  "duration": 5069973900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 48900,
+  "duration": 49600,
   "status": "passed"
 });
 formatter.scenario({
@@ -893,81 +893,81 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 37462846900,
+  "duration": 37138498201,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 8983197800,
+  "duration": 7424007800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 4441902600,
+  "duration": 4708977000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 2118800300,
+  "duration": 2086185000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 2547113600,
+  "duration": 2513145400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 26137914500,
+  "duration": 3101152500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2061551000,
+  "duration": 2012553300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 10905092400,
+  "duration": 5312073700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.by_default_payment_option_as_paypal_is_selected()"
 });
 formatter.result({
-  "duration": 1109144000,
+  "duration": 1069203400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5076463300,
+  "duration": 5067758800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.verify_the_paypal_payement_page()"
 });
 formatter.result({
-  "duration": 6077221700,
+  "duration": 7015065500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 50800,
+  "duration": 55500,
   "status": "passed"
 });
 formatter.scenario({
@@ -1052,102 +1052,102 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 41915138100,
+  "duration": 36889150900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 7530263700,
+  "duration": 7446897500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 5213817300,
+  "duration": 4738044500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 2067151500,
+  "duration": 2089718800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 2577980700,
+  "duration": 2607086500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 37729628700,
+  "duration": 2870007500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2077112200,
+  "duration": 2012213600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 6373918300,
+  "duration": 5334086700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 2139532900,
+  "duration": 2100994300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.enter_coupon()"
 });
 formatter.result({
-  "duration": 166032000,
+  "duration": 101798200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5046281300,
+  "duration": 5044644100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 3077122300,
+  "duration": 3109623400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5113912700,
+  "duration": 5067113600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.card_page()"
 });
 formatter.result({
-  "duration": 7070867900,
+  "duration": 7024022900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 44100,
+  "duration": 47500,
   "status": "passed"
 });
 formatter.scenario({
@@ -1217,81 +1217,81 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 41605759900,
+  "duration": 36881411400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 7529887600,
+  "duration": 7482647900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 4860063000,
+  "duration": 4303130300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 2107279600,
+  "duration": 2038016700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 2701089900,
+  "duration": 2605165600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 32952525500,
+  "duration": 2938176200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2061553900,
+  "duration": 2010232500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 10623969300,
+  "duration": 6101002300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 2436599300,
+  "duration": 2096680900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5108372000,
+  "duration": 5068997500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.card_page()"
 });
 formatter.result({
-  "duration": 7108459200,
+  "duration": 7024029000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 36000,
+  "duration": 34500,
   "status": "passed"
 });
 formatter.uri("src/test/resources/Facebook_Sigin_Unpaid_User.feature");
@@ -1375,81 +1375,81 @@ formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 35471049400,
+  "duration": 37104259100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 7897190500,
+  "duration": 7790141600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 4913194600,
+  "duration": 4719070600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2224889900,
+  "duration": 2104147800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 7717754800,
+  "duration": 3087181900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.enter_user_mail()"
 });
 formatter.result({
-  "duration": 20022059100,
+  "duration": 20055538600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.enter_user_password()"
 });
 formatter.result({
-  "duration": 20045797500,
+  "duration": 20013845200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 40107722900,
+  "duration": 40095308100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 1084815900,
+  "duration": 1009047000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5717735200,
+  "duration": 5351959700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_payment_option_field()"
 });
 formatter.result({
-  "duration": 1046159800,
+  "duration": 1035162900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 34600,
+  "duration": 35000,
   "status": "passed"
 });
 formatter.scenario({
@@ -1529,95 +1529,95 @@ formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 35198803100,
+  "duration": 36581084000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 5560522000,
+  "duration": 7544093800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 4661561400,
+  "duration": 4572990200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2320954800,
+  "duration": 2212937300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 6483520600,
+  "duration": 2868236900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 1061670000,
+  "duration": 1010278500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5780318300,
+  "duration": 5362051900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.see_default_payment_option_as_paypal()"
 });
 formatter.result({
-  "duration": 1109318600,
+  "duration": 1067275800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.enter_coupon()"
 });
 formatter.result({
-  "duration": 170473900,
+  "duration": 111811200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5060808000,
+  "duration": 5041725700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 3075296200,
+  "duration": 3039081700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5079227800,
+  "duration": 5073154200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_paypal_payement_page()"
 });
 formatter.result({
-  "duration": 2030394400,
+  "duration": 7014053700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 34600,
+  "duration": 32300,
   "status": "passed"
 });
 formatter.scenario({
@@ -1682,74 +1682,74 @@ formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 36842458200,
+  "duration": 37277299600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 6052357100,
+  "duration": 7822579300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 4959537700,
+  "duration": 4903005000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2132473100,
+  "duration": 2971873300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 3124161200,
+  "duration": 3179060800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 1047107000,
+  "duration": 1010373000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5451409500,
+  "duration": 7026884200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.see_default_payment_option_as_paypal()"
 });
 formatter.result({
-  "duration": 1093052300,
+  "duration": 1066267800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5108418600,
+  "duration": 5068191900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_paypal_payement_page()"
 });
 formatter.result({
-  "duration": 2030452300,
+  "duration": 7015154100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 35000,
+  "duration": 33100,
   "status": "passed"
 });
 formatter.scenario({
@@ -1829,95 +1829,95 @@ formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 35391973500,
+  "duration": 36881747100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 6055879800,
+  "duration": 7548090300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 4892178600,
+  "duration": 4802941300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2121766400,
+  "duration": 2049152200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 3311548300,
+  "duration": 2747205400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 1077366000,
+  "duration": 1011257600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5592880200,
+  "duration": 5696108700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 2139841100,
+  "duration": 2127254900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.enter_coupon()"
 });
 formatter.result({
-  "duration": 185627800,
+  "duration": 107836600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5047336300,
+  "duration": 5036644800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 3077329300,
+  "duration": 3049158500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5202231800,
+  "duration": 5074069800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.card_page()"
 });
 formatter.result({
-  "duration": 4077308000,
+  "duration": 9017122800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 34100,
+  "duration": 35800,
   "status": "passed"
 });
 formatter.scenario({
@@ -1982,74 +1982,74 @@ formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 37085563100,
+  "duration": 35393571900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 7534264900,
+  "duration": 5789995700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 4868854900,
+  "duration": 9588034200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2129452200,
+  "duration": 6830970300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 3014918200,
+  "duration": 7538027300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 1046020300,
+  "duration": 1015342800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5483617800,
+  "duration": 10060025400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 2139814400,
+  "duration": 7137099400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5124210700,
+  "duration": 5065161900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.card_page()"
 });
 formatter.result({
-  "duration": 4077247700,
+  "duration": 9019022200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 35800,
+  "duration": 33200,
   "status": "passed"
 });
 formatter.uri("src/test/resources/ForgotPassword.feature");
@@ -2203,35 +2203,35 @@ formatter.match({
   "location": "Forgotpassword.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 36914989700,
+  "duration": 39754351300,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.click_most_download()"
 });
 formatter.result({
-  "duration": 3795780700,
+  "duration": 8399031200,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.select_product()"
 });
 formatter.result({
-  "duration": 4789521200,
+  "duration": 7166110100,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2582307100,
+  "duration": 6654130000,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.google_create()"
 });
 formatter.result({
-  "duration": 4391288200,
+  "duration": 7295142800,
   "status": "passed"
 });
 formatter.match({
@@ -2244,14 +2244,14 @@ formatter.match({
   "location": "Forgotpassword.user_mail(String)"
 });
 formatter.result({
-  "duration": 171572600,
+  "duration": 117534300,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.enter_user_mail()"
 });
 formatter.result({
-  "duration": 2061301400,
+  "duration": 2035893000,
   "status": "passed"
 });
 formatter.match({
@@ -2264,11 +2264,11 @@ formatter.match({
   "location": "Forgotpassword.password_page(String)"
 });
 formatter.result({
-  "duration": 73793400,
+  "duration": 1042167400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 471800,
+  "duration": 509500,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -2408,35 +2408,35 @@ formatter.match({
   "location": "Forgotpassword.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 43765179000,
+  "duration": 43452002500,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.click_most_download()"
 });
 formatter.result({
-  "duration": 3914133800,
+  "duration": 8576607100,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.select_product()"
 });
 formatter.result({
-  "duration": 4444998000,
+  "duration": 9444955700,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 3569159000,
+  "duration": 6821135700,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.google_create()"
 });
 formatter.result({
-  "duration": 4061687600,
+  "duration": 8915037200,
   "status": "passed"
 });
 formatter.match({
@@ -2449,14 +2449,14 @@ formatter.match({
   "location": "Forgotpassword.user_mail(String)"
 });
 formatter.result({
-  "duration": 217209400,
+  "duration": 5192629600,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.enter_user_mail()"
 });
 formatter.result({
-  "duration": 3259843200,
+  "duration": 3011810100,
   "status": "passed"
 });
 formatter.match({
@@ -2469,11 +2469,11 @@ formatter.match({
   "location": "Forgotpassword.Verify_user_send_email(String)"
 });
 formatter.result({
-  "duration": 52757100,
+  "duration": 1044118800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 47100,
+  "duration": 58000,
   "status": "passed"
 });
 formatter.uri("src/test/resources/Google_Plus(+)_Create_Singin_unpaid.feature");
@@ -2567,3629 +2567,167 @@ formatter.match({
   "location": "Google_plus_create_unpaid_defination.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 43814807600,
+  "duration": 43423141300,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_most_download()"
 });
 formatter.result({
-  "duration": 7773444500,
+  "duration": 10550744600,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_product()"
 });
 formatter.result({
-  "duration": 4727723100,
+  "duration": 9347806500,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2629930800,
+  "duration": 6883067700,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.create_accuont()"
 });
 formatter.result({
-  "duration": 2046073900,
+  "duration": 6420128100,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.fb_link()"
 });
 formatter.result({
-  "duration": 1401430400,
+  "duration": 6432140800,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.enter_user_mail()"
 });
 formatter.result({
-  "duration": 3065620900,
+  "duration": 6500190400,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.password_page()"
 });
 formatter.result({
-  "duration": 3139833300,
+  "duration": 4607024100,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.enter_user_password()"
 });
 formatter.result({
-  "duration": 2186753900,
+  "duration": 3435290600,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 10139606100,
+  "duration": 11490984000,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 48379100,
+  "duration": 18750300,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_any_of_price_subscription()"
 });
-formatter.result({
-  "duration": 5470753700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.verify_the_payment_option_field()"
-});
-formatter.result({
-  "duration": 1056631800,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 25500,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 19,
-  "name": "",
-  "description": "",
-  "id": "google-plus-user.;",
-  "type": "scenario",
-  "keyword": "Scenario"
-});
-formatter.step({
-  "line": 20,
-  "name": "launch application.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 21,
-  "name": "the product list as Complete ppts.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 22,
-  "name": "Project list as Scoping Powerpoint product.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 23,
-  "name": "go to download link.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 24,
-  "name": "Click on Create account cta.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 25,
-  "name": "then click on Google plus link button.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 26,
-  "name": "Redirected to price page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 27,
-  "name": "Subscribe randomly the product.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 28,
-  "name": "then default payment option is paypal.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 29,
-  "name": "insert coupon as display in screen.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 30,
-  "name": "apply coupon cta.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 31,
-  "name": "Verify the apply coupon code text is appeared.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 32,
-  "name": "Go to checkout payement process page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 33,
-  "name": "Verify the payment screen is paypal is dispalyed.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.navigates_to_website_url()"
-});
-formatter.result({
-  "duration": 35090387800,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.click_most_download()"
-});
-formatter.result({
-  "duration": 7535900100,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.select_product()"
-});
-formatter.result({
-  "duration": 4488170900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.click_on_Download_this_presentation_link()"
-});
-formatter.result({
-  "duration": 2055259800,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.create_accuont()"
-});
-formatter.result({
-  "duration": 1604870000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.fb_link()"
-});
-formatter.result({
-  "duration": 3717910300,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.after_signup_redirect_to_price_page()"
-});
-formatter.result({
-  "duration": 46745000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.select_any_of_price_subscription()"
-});
-formatter.result({
-  "duration": 6307397800,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.see_default_payment_option_as_paypal()"
-});
-formatter.result({
-  "duration": 1095885600,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.enter_coupon()"
-});
-formatter.result({
-  "duration": 178235100,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.apply_the_cuopon_code()"
-});
-formatter.result({
-  "duration": 5054513100,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.verify_the_applied_coupon_code_offer()"
-});
-formatter.result({
-  "duration": 3061696500,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.click_on_place_order_CTA()"
-});
-formatter.result({
-  "duration": 5108556500,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.verify_the_paypal_payement_page()"
-});
-formatter.result({
-  "duration": 2030647800,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 29700,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 35,
-  "name": "",
-  "description": "",
-  "id": "google-plus-user.;",
-  "type": "scenario",
-  "keyword": "Scenario"
-});
-formatter.step({
-  "line": 36,
-  "name": "launch application.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 37,
-  "name": "the product list as Complete ppts.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 38,
-  "name": "Project list as Scoping Powerpoint product.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 39,
-  "name": "go to download link.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 40,
-  "name": "Click on Create account cta.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 41,
-  "name": "then click on Google plus link button.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 42,
-  "name": "Redirected to price page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 43,
-  "name": "Subscribe randomly the product.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 44,
-  "name": "then default payment option is paypal.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 45,
-  "name": "Go to checkout payement process page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 46,
-  "name": "Verify the payment screen is paypal is dispalyed.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.navigates_to_website_url()"
-});
-formatter.result({
-  "duration": 36978217000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.click_most_download()"
-});
-formatter.result({
-  "duration": 7364147600,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.select_product()"
-});
-formatter.result({
-  "duration": 4714181500,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.click_on_Download_this_presentation_link()"
-});
-formatter.result({
-  "duration": 2412151700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.create_accuont()"
-});
-formatter.result({
-  "duration": 2077183600,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.fb_link()"
-});
-formatter.result({
-  "duration": 3827347700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.after_signup_redirect_to_price_page()"
-});
-formatter.result({
-  "duration": 45952100,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.select_any_of_price_subscription()"
-});
-formatter.result({
-  "duration": 5357769500,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.see_default_payment_option_as_paypal()"
-});
-formatter.result({
-  "duration": 1093107400,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.click_on_place_order_CTA()"
-});
-formatter.result({
-  "duration": 5108489400,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.verify_the_paypal_payement_page()"
-});
-formatter.result({
-  "duration": 2030504600,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 30100,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 49,
-  "name": "On the card page with apply coupon code",
-  "description": "",
-  "id": "google-plus-user.;on-the-card-page-with-apply-coupon-code",
-  "type": "scenario",
-  "keyword": "Scenario"
-});
-formatter.step({
-  "line": 50,
-  "name": "launch application.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 51,
-  "name": "the product list as Complete ppts.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 52,
-  "name": "Project list as Scoping Powerpoint product.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 53,
-  "name": "go to download link.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 54,
-  "name": "Click on Create account cta.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 55,
-  "name": "then click on Google plus link button.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 56,
-  "name": "Redirected to price page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 57,
-  "name": "Subscribe randomly the product.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 58,
-  "name": "Click on card radio button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 59,
-  "name": "insert coupon as display in screen.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 60,
-  "name": "apply coupon cta.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 61,
-  "name": "Verify the apply coupon code text is appeared.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 62,
-  "name": "Go to checkout payement process page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 63,
-  "name": "Verify the payment page is secure card 2checkout title.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.navigates_to_website_url()"
-});
-formatter.result({
-  "duration": 37089416500,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.click_most_download()"
-});
-formatter.result({
-  "duration": 7498941600,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.select_product()"
-});
-formatter.result({
-  "duration": 4765463800,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.click_on_Download_this_presentation_link()"
-});
-formatter.result({
-  "duration": 2201443900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.create_accuont()"
-});
-formatter.result({
-  "duration": 2296024600,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.fb_link()"
-});
-formatter.result({
-  "duration": 3693735900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.after_signup_redirect_to_price_page()"
-});
-formatter.result({
-  "duration": 9714000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.select_any_of_price_subscription()"
-});
-formatter.result({
-  "duration": 5761576600,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.select_payment_option_as_Card()"
-});
-formatter.result({
-  "duration": 2141119800,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.enter_coupon()"
-});
-formatter.result({
-  "duration": 188126800,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.apply_the_cuopon_code()"
-});
-formatter.result({
-  "duration": 5075953000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.verify_the_applied_coupon_code_offer()"
-});
-formatter.result({
-  "duration": 3077343700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.click_on_place_order_CTA()"
-});
-formatter.result({
-  "duration": 5107723500,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.card_page()"
-});
-formatter.result({
-  "duration": 2077289700,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 28200,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 65,
-  "name": "n the card page without apply coupon code.",
-  "description": "",
-  "id": "google-plus-user.;n-the-card-page-without-apply-coupon-code.",
-  "type": "scenario",
-  "keyword": "Scenario"
-});
-formatter.step({
-  "line": 66,
-  "name": "launch application.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 67,
-  "name": "the product list as Complete ppts.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 68,
-  "name": "Project list as Scoping Powerpoint product.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 69,
-  "name": "go to download link.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 70,
-  "name": "Click on Create account cta.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 71,
-  "name": "then click on Google plus link button.",
-  "keyword": "And "
-});
-formatter.step({
-  "line": 72,
-  "name": "Redirected to price page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 73,
-  "name": "Subscribe randomly the product.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 74,
-  "name": "Click on card radio button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 75,
-  "name": "Go to checkout payement process page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 76,
-  "name": "Verify the payment page is secure card 2checkout title.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.navigates_to_website_url()"
-});
-formatter.result({
-  "duration": 36839566700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.click_most_download()"
-});
-formatter.result({
-  "duration": 5967879200,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.select_product()"
-});
-formatter.result({
-  "duration": 4710689000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.click_on_Download_this_presentation_link()"
-});
-formatter.result({
-  "duration": 2052185900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.create_accuont()"
-});
-formatter.result({
-  "duration": 2531601400,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.fb_link()"
-});
-formatter.result({
-  "duration": 3808782600,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.after_signup_redirect_to_price_page()"
-});
-formatter.result({
-  "duration": 49487000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.select_any_of_price_subscription()"
-});
-formatter.result({
-  "duration": 5429878300,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.select_payment_option_as_Card()"
-});
-formatter.result({
-  "duration": 2114675700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.click_on_place_order_CTA()"
-});
-formatter.result({
-  "duration": 5108540600,
-  "status": "passed"
-});
-formatter.match({
-  "location": "Google_plus_create_unpaid_defination.card_page()"
-});
-formatter.result({
-  "duration": 2077326900,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 28700,
-  "status": "passed"
-});
-formatter.uri("src/test/resources/Signup.feature");
-formatter.feature({
-  "line": 2,
-  "name": "signup Test On Web Application",
-  "description": "",
-  "id": "signup-test-on-web-application",
-  "keyword": "Feature",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@signupTest"
-    }
-  ]
-});
-formatter.scenario({
-  "line": 4,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 3,
-      "name": "@signupTest_1"
-    }
-  ]
-});
-formatter.step({
-  "line": 5,
-  "name": "Navigates to website url.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 6,
-  "name": "Click on Most Downloaded link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 7,
-  "name": "Select a product items.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 8,
-  "name": "Click on Download this presentation link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 9,
-  "name": "Click on Create an Account CTA.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "SignUp_Step.navigates_to_website_url()"
-});
-formatter.result({
-  "duration": 36813889800,
-  "status": "passed"
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      formatter.result({
+  "duration": 6008600700,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.SignUp_Step.navigates_to_website_url(SignUp_Step.java:30)\r\n\tat ✽.Given Navigates to website url.(src/test/resources/Signup.feature:96)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "SignUp_Step.click_most_download()"
 });
 formatter.result({
-  "duration": 6454646600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.select_product()"
 });
 formatter.result({
-  "duration": 2405191600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2897260500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.reate_an_Account_CTA()"
 });
 formatter.result({
-  "duration": 2934937400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 285500,
-  "status": "passed"
+  "duration": 6007577500,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 formatter.scenarioOutline({
-  "line": 11,
-  "name": "Data driving for invalid data for sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.",
-  "type": "scenario_outline",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 10,
-      "name": "@signupTest"
-    }
-  ]
-});
-formatter.step({
-  "line": 12,
-  "name": "Enter Email Address as \"\u003cEmail Address\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 13,
-  "name": "Enter First Name as \"\u003cFirst Name\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "Enter Last Name as \"\u003cLast Name\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 15,
-  "name": "Enter Password as \"\u003cPassword\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "Enter Confirm password as \"\u003cConfirm_password\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 18,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "Verify \"\u003cEmail AddressVal\u003e\" validation message for Email Address.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "Verify \"\u003cFirst NameVal\u003e\" validation message for First Name.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 21,
-  "name": "Verify \"\u003cLast NameVal\u003e\" validation message forLast Name.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 22,
-  "name": "Verify \"\u003cPasswordVal\u003e\" validation message for Password.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 23,
-  "name": "Verify \"\u003cConfirm_passwordVal\u003e\" validation message for Confirm_password.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 24,
-  "name": "Verify \"\u003cSignUp_val_Msg\u003e\" message for all invalid credentials.",
-  "keyword": "Then "
-});
-formatter.examples({
-  "line": 25,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;",
-  "rows": [
-    {
-      "cells": [
-        "Email Address",
-        "First Name",
-        "Last Name",
-        "Password",
-        "Confirm_password",
-        "Email AddressVal",
-        "First NameVal",
-        "Last NameVal",
-        "PasswordVal",
-        "Confirm_passwordVal",
-        "SignUp_val_Msg"
-      ],
-      "line": 26,
-      "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;1"
-    },
-    {
-      "cells": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        "This is a required field.",
-        "This is a required field.",
-        "This is a required field.",
-        "This is a required field.",
-        "This is a required field.",
-        ""
-      ],
-      "line": 27,
-      "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;2"
-    },
-    {
-      "cells": [
-        "selenium.testing1234@gmail.com",
-        "Test",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "This is a required field.",
-        "This is a required field.",
-        "This is a required field.",
-        ""
-      ],
-      "line": 28,
-      "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;3"
-    },
-    {
-      "cells": [
-        "selenium.testing1234@gmail.com",
-        "Test",
-        "Test",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "This is a required field.",
-        "This is a required field.",
-        ""
-      ],
-      "line": 29,
-      "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;4"
-    },
-    {
-      "cells": [
-        "selenium.testing1234@gmail.com",
-        "Test",
-        "Test",
-        "1234",
-        "",
-        "",
-        "",
-        "",
-        "Please enter 6 or more characters. Leading or trailing spaces will be ignored.",
-        "This is a required field.",
-        ""
-      ],
-      "line": 30,
-      "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;5"
-    },
-    {
-      "cells": [
-        "selenium.testing1234@gmail.com",
-        "Test",
-        "Test",
-        "123456",
-        "654221",
-        "",
-        "",
-        "",
-        "",
-        "Please make sure your passwords match.",
-        ""
-      ],
-      "line": 31,
-      "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;6"
-    },
-    {
-      "cells": [
-        "selenium.testing1234@gmail.com",
-        "Test",
-        "Test",
-        "123456",
-        "123456",
-        "",
-        "",
-        "",
-        "",
-        "",
-        "There is already an account with this email address. If you are sure that it is your email address, click here to get your password and access your account."
-      ],
-      "line": 32,
-      "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;7"
-    }
-  ],
-  "keyword": "Examples"
-});
-formatter.scenario({
-  "line": 27,
-  "name": "Data driving for invalid data for sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;2",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@signupTest"
-    }
-  ]
-});
-formatter.step({
-  "line": 12,
-  "name": "Enter Email Address as \"\".",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 13,
-  "name": "Enter First Name as \"\".",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "Enter Last Name as \"\".",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 15,
-  "name": "Enter Password as \"\".",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "Enter Confirm password as \"\".",
-  "matchedColumns": [
-    4
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 18,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "Verify \"This is a required field.\" validation message for Email Address.",
-  "matchedColumns": [
-    5
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "Verify \"This is a required field.\" validation message for First Name.",
-  "matchedColumns": [
-    6
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 21,
-  "name": "Verify \"This is a required field.\" validation message forLast Name.",
-  "matchedColumns": [
-    7
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 22,
-  "name": "Verify \"This is a required field.\" validation message for Password.",
-  "matchedColumns": [
-    8
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 23,
-  "name": "Verify \"This is a required field.\" validation message for Confirm_password.",
-  "matchedColumns": [
-    9
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 24,
-  "name": "Verify \"\" message for all invalid credentials.",
-  "matchedColumns": [
-    10
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 24
-    }
-  ],
-  "location": "SignUp_Step.enter_Email_Address_as(String)"
-});
-formatter.result({
-  "duration": 173492500,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 21
-    }
-  ],
-  "location": "SignUp_Step.enter_First_Name_as(String)"
-});
-formatter.result({
-  "duration": 137056400,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 20
-    }
-  ],
-  "location": "SignUp_Step.enter_Last_Name_as(String)"
-});
-formatter.result({
-  "duration": 148425500,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 19
-    }
-  ],
-  "location": "SignUp_Step.enter_password(String)"
-});
-formatter.result({
-  "duration": 1143413900,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 27
-    }
-  ],
-  "location": "SignUp_Step.enter_Confirm_password_as(String)"
-});
-formatter.result({
-  "duration": 171386100,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.enter_the_captcha()"
-});
-formatter.result({
-  "duration": 1146691300,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Signup_button()"
-});
-formatter.result({
-  "duration": 3175268700,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "This is a required field.",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_Email_Address(String)"
-});
-formatter.result({
-  "duration": 2051237400,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "This is a required field.",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_First_Name(String)"
-});
-formatter.result({
-  "duration": 76734500,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "This is a required field.",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_forLast_Name(String)"
-});
-formatter.result({
-  "duration": 47428100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "This is a required field.",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_password(String)"
-});
-formatter.result({
-  "duration": 20066611100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "This is a required field.",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_Confirm_password(String)"
-});
-formatter.result({
-  "duration": 20061566700,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.message_for_all_invalid_credentials(String)"
-});
-formatter.result({
-  "duration": 20029932300,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 52000,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 28,
-  "name": "Data driving for invalid data for sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;3",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@signupTest"
-    }
-  ]
-});
-formatter.step({
-  "line": 12,
-  "name": "Enter Email Address as \"selenium.testing1234@gmail.com\".",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 13,
-  "name": "Enter First Name as \"Test\".",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "Enter Last Name as \"\".",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 15,
-  "name": "Enter Password as \"\".",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "Enter Confirm password as \"\".",
-  "matchedColumns": [
-    4
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 18,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "Verify \"\" validation message for Email Address.",
-  "matchedColumns": [
-    5
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "Verify \"\" validation message for First Name.",
-  "matchedColumns": [
-    6
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 21,
-  "name": "Verify \"This is a required field.\" validation message forLast Name.",
-  "matchedColumns": [
-    7
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 22,
-  "name": "Verify \"This is a required field.\" validation message for Password.",
-  "matchedColumns": [
-    8
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 23,
-  "name": "Verify \"This is a required field.\" validation message for Confirm_password.",
-  "matchedColumns": [
-    9
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 24,
-  "name": "Verify \"\" message for all invalid credentials.",
-  "matchedColumns": [
-    10
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "selenium.testing1234@gmail.com",
-      "offset": 24
-    }
-  ],
-  "location": "SignUp_Step.enter_Email_Address_as(String)"
-});
-formatter.result({
-  "duration": 271926700,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 21
-    }
-  ],
-  "location": "SignUp_Step.enter_First_Name_as(String)"
-});
-formatter.result({
-  "duration": 143437800,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 20
-    }
-  ],
-  "location": "SignUp_Step.enter_Last_Name_as(String)"
-});
-formatter.result({
-  "duration": 110525200,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 19
-    }
-  ],
-  "location": "SignUp_Step.enter_password(String)"
-});
-formatter.result({
-  "duration": 1117389400,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 27
-    }
-  ],
-  "location": "SignUp_Step.enter_Confirm_password_as(String)"
-});
-formatter.result({
-  "duration": 112557600,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.enter_the_captcha()"
-});
-formatter.result({
-  "duration": 1201434700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Signup_button()"
-});
-formatter.result({
-  "duration": 3185759100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_Email_Address(String)"
-});
-formatter.result({
-  "duration": 2061764300,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_First_Name(String)"
-});
-formatter.result({
-  "duration": 62506100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "This is a required field.",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_forLast_Name(String)"
-});
-formatter.result({
-  "duration": 48018100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "This is a required field.",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_password(String)"
-});
-formatter.result({
-  "duration": 20018899700,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "This is a required field.",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_Confirm_password(String)"
-});
-formatter.result({
-  "duration": 20077266800,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.message_for_all_invalid_credentials(String)"
-});
-formatter.result({
-  "duration": 20029999200,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 23600,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 29,
-  "name": "Data driving for invalid data for sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;4",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@signupTest"
-    }
-  ]
-});
-formatter.step({
-  "line": 12,
-  "name": "Enter Email Address as \"selenium.testing1234@gmail.com\".",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 13,
-  "name": "Enter First Name as \"Test\".",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "Enter Last Name as \"Test\".",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 15,
-  "name": "Enter Password as \"\".",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "Enter Confirm password as \"\".",
-  "matchedColumns": [
-    4
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 18,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "Verify \"\" validation message for Email Address.",
-  "matchedColumns": [
-    5
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "Verify \"\" validation message for First Name.",
-  "matchedColumns": [
-    6
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 21,
-  "name": "Verify \"\" validation message forLast Name.",
-  "matchedColumns": [
-    7
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 22,
-  "name": "Verify \"This is a required field.\" validation message for Password.",
-  "matchedColumns": [
-    8
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 23,
-  "name": "Verify \"This is a required field.\" validation message for Confirm_password.",
-  "matchedColumns": [
-    9
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 24,
-  "name": "Verify \"\" message for all invalid credentials.",
-  "matchedColumns": [
-    10
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "selenium.testing1234@gmail.com",
-      "offset": 24
-    }
-  ],
-  "location": "SignUp_Step.enter_Email_Address_as(String)"
-});
-formatter.result({
-  "duration": 290700900,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 21
-    }
-  ],
-  "location": "SignUp_Step.enter_First_Name_as(String)"
-});
-formatter.result({
-  "duration": 164341900,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 20
-    }
-  ],
-  "location": "SignUp_Step.enter_Last_Name_as(String)"
-});
-formatter.result({
-  "duration": 234119800,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 19
-    }
-  ],
-  "location": "SignUp_Step.enter_password(String)"
-});
-formatter.result({
-  "duration": 1160238600,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 27
-    }
-  ],
-  "location": "SignUp_Step.enter_Confirm_password_as(String)"
-});
-formatter.result({
-  "duration": 110555300,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.enter_the_captcha()"
-});
-formatter.result({
-  "duration": 1163740500,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Signup_button()"
-});
-formatter.result({
-  "duration": 3144695200,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_Email_Address(String)"
-});
-formatter.result({
-  "duration": 2077487900,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_First_Name(String)"
-});
-formatter.result({
-  "duration": 62626200,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_forLast_Name(String)"
-});
-formatter.result({
-  "duration": 62109200,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "This is a required field.",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_password(String)"
-});
-formatter.result({
-  "duration": 20020383000,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "This is a required field.",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_Confirm_password(String)"
-});
-formatter.result({
-  "duration": 20077062700,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.message_for_all_invalid_credentials(String)"
-});
-formatter.result({
-  "duration": 20077180100,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 23100,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 30,
-  "name": "Data driving for invalid data for sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;5",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@signupTest"
-    }
-  ]
-});
-formatter.step({
-  "line": 12,
-  "name": "Enter Email Address as \"selenium.testing1234@gmail.com\".",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 13,
-  "name": "Enter First Name as \"Test\".",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "Enter Last Name as \"Test\".",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 15,
-  "name": "Enter Password as \"1234\".",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "Enter Confirm password as \"\".",
-  "matchedColumns": [
-    4
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 18,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "Verify \"\" validation message for Email Address.",
-  "matchedColumns": [
-    5
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "Verify \"\" validation message for First Name.",
-  "matchedColumns": [
-    6
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 21,
-  "name": "Verify \"\" validation message forLast Name.",
-  "matchedColumns": [
-    7
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 22,
-  "name": "Verify \"Please enter 6 or more characters. Leading or trailing spaces will be ignored.\" validation message for Password.",
-  "matchedColumns": [
-    8
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 23,
-  "name": "Verify \"This is a required field.\" validation message for Confirm_password.",
-  "matchedColumns": [
-    9
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 24,
-  "name": "Verify \"\" message for all invalid credentials.",
-  "matchedColumns": [
-    10
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "selenium.testing1234@gmail.com",
-      "offset": 24
-    }
-  ],
-  "location": "SignUp_Step.enter_Email_Address_as(String)"
-});
-formatter.result({
-  "duration": 269196800,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 21
-    }
-  ],
-  "location": "SignUp_Step.enter_First_Name_as(String)"
-});
-formatter.result({
-  "duration": 204675700,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 20
-    }
-  ],
-  "location": "SignUp_Step.enter_Last_Name_as(String)"
-});
-formatter.result({
-  "duration": 153443100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "1234",
-      "offset": 19
-    }
-  ],
-  "location": "SignUp_Step.enter_password(String)"
-});
-formatter.result({
-  "duration": 1152027700,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 27
-    }
-  ],
-  "location": "SignUp_Step.enter_Confirm_password_as(String)"
-});
-formatter.result({
-  "duration": 115423200,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.enter_the_captcha()"
-});
-formatter.result({
-  "duration": 1187470700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Signup_button()"
-});
-formatter.result({
-  "duration": 3138897500,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_Email_Address(String)"
-});
-formatter.result({
-  "duration": 2077362100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_First_Name(String)"
-});
-formatter.result({
-  "duration": 62552200,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_forLast_Name(String)"
-});
-formatter.result({
-  "duration": 45643600,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Please enter 6 or more characters. Leading or trailing spaces will be ignored.",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_password(String)"
-});
-formatter.result({
-  "duration": 35499700,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "This is a required field.",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_Confirm_password(String)"
-});
-formatter.result({
-  "duration": 20047488000,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.message_for_all_invalid_credentials(String)"
-});
-formatter.result({
-  "duration": 20045961600,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 22000,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 31,
-  "name": "Data driving for invalid data for sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;6",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@signupTest"
-    }
-  ]
-});
-formatter.step({
-  "line": 12,
-  "name": "Enter Email Address as \"selenium.testing1234@gmail.com\".",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 13,
-  "name": "Enter First Name as \"Test\".",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "Enter Last Name as \"Test\".",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 15,
-  "name": "Enter Password as \"123456\".",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "Enter Confirm password as \"654221\".",
-  "matchedColumns": [
-    4
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 18,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "Verify \"\" validation message for Email Address.",
-  "matchedColumns": [
-    5
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "Verify \"\" validation message for First Name.",
-  "matchedColumns": [
-    6
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 21,
-  "name": "Verify \"\" validation message forLast Name.",
-  "matchedColumns": [
-    7
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 22,
-  "name": "Verify \"\" validation message for Password.",
-  "matchedColumns": [
-    8
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 23,
-  "name": "Verify \"Please make sure your passwords match.\" validation message for Confirm_password.",
-  "matchedColumns": [
-    9
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 24,
-  "name": "Verify \"\" message for all invalid credentials.",
-  "matchedColumns": [
-    10
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "selenium.testing1234@gmail.com",
-      "offset": 24
-    }
-  ],
-  "location": "SignUp_Step.enter_Email_Address_as(String)"
-});
-formatter.result({
-  "duration": 273563600,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 21
-    }
-  ],
-  "location": "SignUp_Step.enter_First_Name_as(String)"
-});
-formatter.result({
-  "duration": 198532900,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 20
-    }
-  ],
-  "location": "SignUp_Step.enter_Last_Name_as(String)"
-});
-formatter.result({
-  "duration": 135445900,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "123456",
-      "offset": 19
-    }
-  ],
-  "location": "SignUp_Step.enter_password(String)"
-});
-formatter.result({
-  "duration": 1182463900,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "654221",
-      "offset": 27
-    }
-  ],
-  "location": "SignUp_Step.enter_Confirm_password_as(String)"
-});
-formatter.result({
-  "duration": 126558400,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.enter_the_captcha()"
-});
-formatter.result({
-  "duration": 1166745800,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Signup_button()"
-});
-formatter.result({
-  "duration": 3123552100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_Email_Address(String)"
-});
-formatter.result({
-  "duration": 2046021100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_First_Name(String)"
-});
-formatter.result({
-  "duration": 62700400,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_forLast_Name(String)"
-});
-formatter.result({
-  "duration": 61748300,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_password(String)"
-});
-formatter.result({
-  "duration": 44612400,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Please make sure your passwords match.",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_Confirm_password(String)"
-});
-formatter.result({
-  "duration": 20037461300,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.message_for_all_invalid_credentials(String)"
-});
-formatter.result({
-  "duration": 20045709000,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 21800,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 32,
-  "name": "Data driving for invalid data for sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-invalid-data-for-sign-up.;;7",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@signupTest"
-    }
-  ]
-});
-formatter.step({
-  "line": 12,
-  "name": "Enter Email Address as \"selenium.testing1234@gmail.com\".",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 13,
-  "name": "Enter First Name as \"Test\".",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 14,
-  "name": "Enter Last Name as \"Test\".",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 15,
-  "name": "Enter Password as \"123456\".",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 16,
-  "name": "Enter Confirm password as \"123456\".",
-  "matchedColumns": [
-    4
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 17,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 18,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 19,
-  "name": "Verify \"\" validation message for Email Address.",
-  "matchedColumns": [
-    5
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 20,
-  "name": "Verify \"\" validation message for First Name.",
-  "matchedColumns": [
-    6
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 21,
-  "name": "Verify \"\" validation message forLast Name.",
-  "matchedColumns": [
-    7
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 22,
-  "name": "Verify \"\" validation message for Password.",
-  "matchedColumns": [
-    8
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 23,
-  "name": "Verify \"\" validation message for Confirm_password.",
-  "matchedColumns": [
-    9
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 24,
-  "name": "Verify \"There is already an account with this email address. If you are sure that it is your email address, click here to get your password and access your account.\" message for all invalid credentials.",
-  "matchedColumns": [
-    10
-  ],
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "selenium.testing1234@gmail.com",
-      "offset": 24
-    }
-  ],
-  "location": "SignUp_Step.enter_Email_Address_as(String)"
-});
-formatter.result({
-  "duration": 275291700,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 21
-    }
-  ],
-  "location": "SignUp_Step.enter_First_Name_as(String)"
-});
-formatter.result({
-  "duration": 193911500,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 20
-    }
-  ],
-  "location": "SignUp_Step.enter_Last_Name_as(String)"
-});
-formatter.result({
-  "duration": 133045900,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "123456",
-      "offset": 19
-    }
-  ],
-  "location": "SignUp_Step.enter_password(String)"
-});
-formatter.result({
-  "duration": 1161433200,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "123456",
-      "offset": 27
-    }
-  ],
-  "location": "SignUp_Step.enter_Confirm_password_as(String)"
-});
-formatter.result({
-  "duration": 145141300,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.enter_the_captcha()"
-});
-formatter.result({
-  "duration": 1145004900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Signup_button()"
-});
-formatter.result({
-  "duration": 4417675000,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_Email_Address(String)"
-});
-formatter.result({
-  "duration": 20032231300,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_First_Name(String)"
-});
-formatter.result({
-  "duration": 20051053200,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_forLast_Name(String)"
-});
-formatter.result({
-  "duration": 20075971000,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_password(String)"
-});
-formatter.result({
-  "duration": 20030277700,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.verify_validation_message_for_Confirm_password(String)"
-});
-formatter.result({
-  "duration": 20030276600,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "There is already an account with this email address. If you are sure that it is your email address, click here to get your password and access your account.",
-      "offset": 8
-    }
-  ],
-  "location": "SignUp_Step.message_for_all_invalid_credentials(String)"
-});
-formatter.result({
-  "duration": 71331500,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 25000,
-  "status": "passed"
-});
-formatter.scenarioOutline({
-  "line": 34,
-  "name": "Data driving for valid sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.",
-  "type": "scenario_outline",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 33,
-      "name": "@signupTest"
-    }
-  ]
-});
-formatter.step({
-  "line": 35,
-  "name": "Enter Email \"\u003cEmail Address\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 36,
-  "name": "Enter First Name as \"\u003cFirst Name\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 37,
-  "name": "Enter Last Name as \"\u003cLast Name\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 38,
-  "name": "Enter Password as \"\u003cPassword\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 39,
-  "name": "Enter Confirm password as \"\u003cConfirm_password\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 40,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 41,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.examples({
-  "line": 42,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;",
-  "rows": [
-    {
-      "cells": [
-        "Email Address",
-        "First Name",
-        "Last Name",
-        "Password",
-        "Confirm_password"
-      ],
-      "line": 43,
-      "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;1"
-    },
-    {
-      "cells": [
-        "selenium.testing",
-        "Test",
-        "Test",
-        "123456",
-        "123456"
-      ],
-      "line": 44,
-      "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2"
-    }
-  ],
-  "keyword": "Examples"
-});
-formatter.scenario({
-  "line": 44,
-  "name": "Data driving for valid sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@signupTest"
-    }
-  ]
-});
-formatter.step({
-  "line": 35,
-  "name": "Enter Email \"selenium.testing\".",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 36,
-  "name": "Enter First Name as \"Test\".",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 37,
-  "name": "Enter Last Name as \"Test\".",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 38,
-  "name": "Enter Password as \"123456\".",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 39,
-  "name": "Enter Confirm password as \"123456\".",
-  "matchedColumns": [
-    4
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 40,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 41,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "selenium.testing",
-      "offset": 13
-    }
-  ],
-  "location": "SignUp_Step.Enter_Email_credentials(String)"
-});
-formatter.result({
-  "duration": 277117800,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 21
-    }
-  ],
-  "location": "SignUp_Step.enter_First_Name_as(String)"
-});
-formatter.result({
-  "duration": 133733100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 20
-    }
-  ],
-  "location": "SignUp_Step.enter_Last_Name_as(String)"
-});
-formatter.result({
-  "duration": 155968800,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "123456",
-      "offset": 19
-    }
-  ],
-  "location": "SignUp_Step.enter_password(String)"
-});
-formatter.result({
-  "duration": 1159050100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "123456",
-      "offset": 27
-    }
-  ],
-  "location": "SignUp_Step.enter_Confirm_password_as(String)"
-});
-formatter.result({
-  "duration": 180445100,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.enter_the_captcha()"
-});
-formatter.result({
-  "duration": 1166105900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Signup_button()"
-});
-formatter.result({
-  "duration": 4656121000,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 41400,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 47,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 46,
-      "name": "@signupTest"
-    }
-  ]
-});
-formatter.step({
-  "line": 48,
-  "name": "After signup see the price page.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 49,
-  "name": "Select price subscription.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 50,
-  "name": "Verify the payment option.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 51,
-  "name": "Click on My account link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 52,
-  "name": "Click on delete account link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 53,
-  "name": "Click on Yes button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 54,
-  "name": "Verify the delete account confirmation message.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "SignUp_Step.verify_the_price_page()"
-});
-formatter.result({
-  "duration": 1027213500,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.select_price_subscription()"
-});
-formatter.result({
-  "duration": 4733630800,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.payement_option()"
-});
-formatter.result({
-  "duration": 4093047900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.my_account_link()"
-});
-formatter.result({
-  "duration": 4171174200,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.delete_account_link()"
-});
-formatter.result({
-  "duration": 3233652500,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.confirm_yes_()"
-});
-formatter.result({
-  "duration": 5124125000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.delete_confirmation_message()"
-});
-formatter.result({
-  "duration": 2108581700,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 25500,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 56,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 55,
-      "name": "@signupTest_select_paypal_payement_option"
-    }
-  ]
-});
-formatter.step({
-  "line": 57,
-  "name": "Navigates to website url.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 58,
-  "name": "Click on Most Downloaded link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 59,
-  "name": "Select a product items.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 60,
-  "name": "Click on Download this presentation link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 61,
-  "name": "Click on Create an Account CTA.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "SignUp_Step.navigates_to_website_url()"
-});
-formatter.result({
-  "duration": 44863257200,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.click_most_download()"
-});
-formatter.result({
-  "duration": 6762561200,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.select_product()"
-});
-formatter.result({
-  "duration": 4994104100,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Download_this_presentation_link()"
-});
-formatter.result({
-  "duration": 2560474700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.reate_an_Account_CTA()"
-});
-formatter.result({
-  "duration": 2971361900,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 25200,
-  "status": "passed"
-});
-formatter.scenarioOutline({
-  "line": 63,
-  "name": "Data driving for valid sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.",
-  "type": "scenario_outline",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 62,
-      "name": "@signupTest_select_paypal_payement_option"
-    }
-  ]
-});
-formatter.step({
-  "line": 64,
-  "name": "Enter Email \"\u003cEmail Address\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 65,
-  "name": "Enter First Name as \"\u003cFirst Name\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 66,
-  "name": "Enter Last Name as \"\u003cLast Name\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 67,
-  "name": "Enter Password as \"\u003cPassword\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 68,
-  "name": "Enter Confirm password as \"\u003cConfirm_password\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 69,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 70,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.examples({
-  "line": 71,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;",
-  "rows": [
-    {
-      "cells": [
-        "Email Address",
-        "First Name",
-        "Last Name",
-        "Password",
-        "Confirm_password"
-      ],
-      "line": 72,
-      "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;1"
-    },
-    {
-      "cells": [
-        "selenium.testing",
-        "Test",
-        "Test",
-        "123456",
-        "123456"
-      ],
-      "line": 73,
-      "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2"
-    }
-  ],
-  "keyword": "Examples"
-});
-formatter.scenario({
-  "line": 73,
-  "name": "Data driving for valid sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2",
-  "type": "scenario",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 1,
-      "name": "@signupTest"
-    },
-    {
-      "line": 62,
-      "name": "@signupTest_select_paypal_payement_option"
-    }
-  ]
-});
-formatter.step({
-  "line": 64,
-  "name": "Enter Email \"selenium.testing\".",
-  "matchedColumns": [
-    0
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 65,
-  "name": "Enter First Name as \"Test\".",
-  "matchedColumns": [
-    1
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 66,
-  "name": "Enter Last Name as \"Test\".",
-  "matchedColumns": [
-    2
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 67,
-  "name": "Enter Password as \"123456\".",
-  "matchedColumns": [
-    3
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 68,
-  "name": "Enter Confirm password as \"123456\".",
-  "matchedColumns": [
-    4
-  ],
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 69,
-  "name": "Enter the captcha.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 70,
-  "name": "click on Signup button.",
-  "keyword": "Then "
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "selenium.testing",
-      "offset": 13
-    }
-  ],
-  "location": "SignUp_Step.Enter_Email_credentials(String)"
-});
-formatter.result({
-  "duration": 438028700,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 21
-    }
-  ],
-  "location": "SignUp_Step.enter_First_Name_as(String)"
-});
-formatter.result({
-  "duration": 123699100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "Test",
-      "offset": 20
-    }
-  ],
-  "location": "SignUp_Step.enter_Last_Name_as(String)"
-});
-formatter.result({
-  "duration": 225633100,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "123456",
-      "offset": 19
-    }
-  ],
-  "location": "SignUp_Step.enter_password(String)"
-});
-formatter.result({
-  "duration": 1161368600,
-  "status": "passed"
-});
-formatter.match({
-  "arguments": [
-    {
-      "val": "123456",
-      "offset": 27
-    }
-  ],
-  "location": "SignUp_Step.enter_Confirm_password_as(String)"
-});
-formatter.result({
-  "duration": 135537900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.enter_the_captcha()"
-});
-formatter.result({
-  "duration": 1158839900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Signup_button()"
-});
-formatter.result({
-  "duration": 6174217600,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 25100,
-  "status": "passed"
-});
-formatter.scenario({
-  "line": 76,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 75,
-      "name": "@signupTest_select_paypal_payement_option"
-    }
-  ]
-});
-formatter.step({
-  "line": 77,
-  "name": "After signup see the price page.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 78,
-  "name": "Select price subscription.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 79,
-  "name": "Verify the default payment option as paypal.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 80,
-  "name": "Enter the coupon code.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 81,
-  "name": "Apply the coupon code as given.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 82,
-  "name": "Verify the applied coupon code.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 83,
-  "name": "click on place order button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 84,
-  "name": "Verify the paypal payement process.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 85,
-  "name": "Navigates to website url home page.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 86,
-  "name": "Click on My account link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 87,
-  "name": "Click on delete account link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 88,
-  "name": "Click on Yes button.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 89,
-  "name": "Verify the delete account confirmation message.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "SignUp_Step.verify_the_price_page()"
-});
-formatter.result({
-  "duration": 1023813900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.select_price_subscription()"
-});
-formatter.result({
-  "duration": 4881546400,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.select_the_default_payment_option_as_paypal()"
-});
-formatter.result({
-  "duration": 1085706800,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.Enter_the_coupon_code()"
-});
-formatter.result({
-  "duration": 1185052800,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.apply_the_coupon_code()"
-});
-formatter.result({
-  "duration": 6063688900,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.applied_coupon_code()"
-});
-formatter.result({
-  "duration": 3077311400,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_place_order_cta()"
-});
-formatter.result({
-  "duration": 5108682400,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.paypal_payement_place_process_Step()"
-});
-formatter.result({
-  "duration": 4061651700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.website_url_home_page()"
-});
-formatter.result({
-  "duration": 2087324200,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.my_account_link()"
-});
-formatter.result({
-  "duration": 4067667800,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.delete_account_link()"
-});
-formatter.result({
-  "duration": 3202445300,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.confirm_yes_()"
-});
-formatter.result({
-  "duration": 5077289200,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.delete_confirmation_message()"
-});
-formatter.result({
-  "duration": 2077396000,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 27500,
-  "status": "passed"
-});
-formatter.scenario({
-  "comments": [
-    {
-      "line": 90,
-      "value": "#\t\t\t//Payement the paypal screen without apply coupon code"
-    }
-  ],
-  "line": 93,
-  "name": "",
-  "description": "",
-  "id": "signup-test-on-web-application;",
-  "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 92,
-      "name": "@signupTest_select_paypal_payement_without_coupon"
-    }
-  ]
-});
-formatter.step({
-  "line": 94,
-  "name": "Navigates to website url.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 95,
-  "name": "Click on Most Downloaded link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 96,
-  "name": "Select a product items.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 97,
-  "name": "Click on Download this presentation link.",
-  "keyword": "Then "
-});
-formatter.step({
-  "line": 98,
-  "name": "Click on Create an Account CTA.",
-  "keyword": "Then "
-});
-formatter.match({
-  "location": "SignUp_Step.navigates_to_website_url()"
-});
-formatter.result({
-  "duration": 43815267700,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.click_most_download()"
-});
-formatter.result({
-  "duration": 6472038000,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.select_product()"
-});
-formatter.result({
-  "duration": 2534371500,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.click_on_Download_this_presentation_link()"
-});
-formatter.result({
-  "duration": 2156866100,
-  "status": "passed"
-});
-formatter.match({
-  "location": "SignUp_Step.reate_an_Account_CTA()"
-});
-formatter.result({
-  "duration": 2592963300,
-  "status": "passed"
-});
-formatter.after({
-  "duration": 30900,
-  "status": "passed"
-});
-formatter.scenarioOutline({
-  "line": 100,
-  "name": "Data driving for valid sign-up.",
-  "description": "",
-  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.",
-  "type": "scenario_outline",
-  "keyword": "Scenario Outline",
-  "tags": [
-    {
-      "line": 99,
-      "name": "@signupTest_select_paypal_payement_without_coupon"
-    }
-  ]
-});
-formatter.step({
-  "line": 101,
-  "name": "Enter Email \"\u003cEmail Address\u003e\".",
-  "keyword": "Then "
-});
-formatter.step({
   "line": 102,
-  "name": "Enter First Name as \"\u003cFirst Name\u003e\".",
-  "keyword": "Then "
+  "name": "Data driving for valid sign-up.",
+  "description": "",
+  "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.",
+  "type": "scenario_outline",
+  "keyword": "Scenario Outline",
+  "tags": [
+    {
+      "line": 101,
+      "name": "@signupTest_select_paypal_payement_without_coupon"
+    }
+  ]
 });
 formatter.step({
   "line": 103,
-  "name": "Enter Last Name as \"\u003cLast Name\u003e\".",
+  "name": "Enter Email \"\u003cEmail Address\u003e\".",
   "keyword": "Then "
 });
 formatter.step({
   "line": 104,
-  "name": "Enter Password as \"\u003cPassword\u003e\".",
+  "name": "Enter First Name as \"\u003cFirst Name\u003e\".",
   "keyword": "Then "
 });
 formatter.step({
   "line": 105,
-  "name": "Enter Confirm password as \"\u003cConfirm_password\u003e\".",
+  "name": "Enter Last Name as \"\u003cLast Name\u003e\".",
   "keyword": "Then "
 });
 formatter.step({
   "line": 106,
-  "name": "Enter the captcha.",
+  "name": "Enter Password as \"\u003cPassword\u003e\".",
   "keyword": "Then "
 });
 formatter.step({
   "line": 107,
-  "name": "click on Signup button.",
+  "name": "Enter Confirm password as \"\u003cConfirm_password\u003e\".",
   "keyword": "Then "
 });
-formatter.examples({
+formatter.step({
   "line": 108,
+  "name": "Enter the captcha.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 109,
+  "name": "click on Signup button.",
+  "keyword": "Then "
+});
+formatter.examples({
+  "line": 110,
   "name": "",
   "description": "",
   "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;",
@@ -6202,7 +2740,7 @@ formatter.examples({
         "Password",
         "Confirm_password"
       ],
-      "line": 109,
+      "line": 111,
       "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;1"
     },
     {
@@ -6213,14 +2751,14 @@ formatter.examples({
         "123456",
         "123456"
       ],
-      "line": 110,
+      "line": 112,
       "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2"
     }
   ],
   "keyword": "Examples"
 });
 formatter.scenario({
-  "line": 110,
+  "line": 112,
   "name": "Data driving for valid sign-up.",
   "description": "",
   "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2",
@@ -6232,13 +2770,13 @@ formatter.scenario({
       "name": "@signupTest"
     },
     {
-      "line": 99,
+      "line": 101,
       "name": "@signupTest_select_paypal_payement_without_coupon"
     }
   ]
 });
 formatter.step({
-  "line": 101,
+  "line": 103,
   "name": "Enter Email \"selenium.testing\".",
   "matchedColumns": [
     0
@@ -6246,7 +2784,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 102,
+  "line": 104,
   "name": "Enter First Name as \"Test\".",
   "matchedColumns": [
     1
@@ -6254,7 +2792,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 103,
+  "line": 105,
   "name": "Enter Last Name as \"Test\".",
   "matchedColumns": [
     2
@@ -6262,7 +2800,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 104,
+  "line": 106,
   "name": "Enter Password as \"123456\".",
   "matchedColumns": [
     3
@@ -6270,7 +2808,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 105,
+  "line": 107,
   "name": "Enter Confirm password as \"123456\".",
   "matchedColumns": [
     4
@@ -6278,12 +2816,12 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 106,
+  "line": 108,
   "name": "Enter the captcha.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 107,
+  "line": 109,
   "name": "click on Signup button.",
   "keyword": "Then "
 });
@@ -6297,8 +2835,9 @@ formatter.match({
   "location": "SignUp_Step.Enter_Email_credentials(String)"
 });
 formatter.result({
-  "duration": 225798900,
-  "status": "passed"
+  "duration": 6016647900,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\n*** Element info: {Using\u003did, value\u003demail_address}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:363)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:188)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.SignUp_Step.Enter_Email_credentials(SignUp_Step.java:263)\r\n\tat ✽.Then Enter Email \"selenium.testing\".(src/test/resources/Signup.feature:103)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "arguments": [
@@ -6310,8 +2849,7 @@ formatter.match({
   "location": "SignUp_Step.enter_First_Name_as(String)"
 });
 formatter.result({
-  "duration": 174653300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -6323,8 +2861,7 @@ formatter.match({
   "location": "SignUp_Step.enter_Last_Name_as(String)"
 });
 formatter.result({
-  "duration": 131550900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -6336,8 +2873,7 @@ formatter.match({
   "location": "SignUp_Step.enter_password(String)"
 });
 formatter.result({
-  "duration": 1172506600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -6349,29 +2885,27 @@ formatter.match({
   "location": "SignUp_Step.enter_Confirm_password_as(String)"
 });
 formatter.result({
-  "duration": 129521600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.enter_the_captcha()"
 });
 formatter.result({
-  "duration": 1147765000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_Signup_button()"
 });
 formatter.result({
-  "duration": 4445485700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 24500,
-  "status": "passed"
+  "duration": 6025440700,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:128)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.ExamplesRunner.run(ExamplesRunner.java:59)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:128)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.ScenarioOutlineRunner.run(ScenarioOutlineRunner.java:53)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 formatter.scenario({
-  "line": 113,
+  "line": 115,
   "name": "",
   "description": "",
   "id": "signup-test-on-web-application;",
@@ -6379,58 +2913,58 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "line": 112,
+      "line": 114,
       "name": "@signupTest_select_paypal_payement_without_coupon"
     }
   ]
-});
-formatter.step({
-  "line": 114,
-  "name": "After signup see the price page.",
-  "keyword": "Given "
-});
-formatter.step({
-  "line": 115,
-  "name": "Select price subscription.",
-  "keyword": "Then "
 });
 formatter.step({
   "line": 116,
-  "name": "Verify the default payment option as paypal.",
-  "keyword": "Then "
+  "name": "After signup see the price page.",
+  "keyword": "Given "
 });
 formatter.step({
   "line": 117,
-  "name": "click on place order button.",
+  "name": "Select price subscription.",
   "keyword": "Then "
 });
 formatter.step({
   "line": 118,
-  "name": "Verify the paypal payement process.",
+  "name": "Verify the default payment option as paypal.",
   "keyword": "Then "
 });
 formatter.step({
   "line": 119,
-  "name": "Navigates to website url home page.",
+  "name": "click on place order button.",
   "keyword": "Then "
 });
 formatter.step({
   "line": 120,
-  "name": "Click on My account link.",
+  "name": "Verify the paypal payement process.",
   "keyword": "Then "
 });
 formatter.step({
   "line": 121,
-  "name": "Click on delete account link.",
+  "name": "Navigates to website url home page.",
   "keyword": "Then "
 });
 formatter.step({
   "line": 122,
-  "name": "Click on Yes button.",
+  "name": "Click on My account link.",
   "keyword": "Then "
 });
 formatter.step({
   "line": 123,
+  "name": "Click on delete account link.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 124,
+  "name": "Click on Yes button.",
+  "keyword": "Then "
+});
+formatter.step({
+  "line": 125,
   "name": "Verify the delete account confirmation message.",
   "keyword": "Then "
 });
@@ -6438,84 +2972,77 @@ formatter.match({
   "location": "SignUp_Step.verify_the_price_page()"
 });
 formatter.result({
-  "duration": 1017928400,
-  "status": "passed"
+  "duration": 4043435500,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:275)\r\n\tat TestRunner.loginSteps.SignUp_Step.verify_the_price_page(SignUp_Step.java:277)\r\n\tat ✽.Given After signup see the price page.(src/test/resources/Signup.feature:116)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "SignUp_Step.select_price_subscription()"
 });
 formatter.result({
-  "duration": 4577414600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.select_the_default_payment_option_as_paypal()"
 });
 formatter.result({
-  "duration": 1077557200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_place_order_cta()"
 });
 formatter.result({
-  "duration": 5108649100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.paypal_payement_place_process_Step()"
 });
 formatter.result({
-  "duration": 4077479900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.website_url_home_page()"
 });
 formatter.result({
-  "duration": 2141313900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.my_account_link()"
 });
 formatter.result({
-  "duration": 4216777400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.delete_account_link()"
 });
 formatter.result({
-  "duration": 3202536600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.confirm_yes_()"
 });
 formatter.result({
-  "duration": 5124316200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.delete_confirmation_message()"
 });
 formatter.result({
-  "duration": 2108641100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 25100,
-  "status": "passed"
+  "duration": 6008843900,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 formatter.scenario({
   "comments": [
     {
-      "line": 124,
+      "line": 126,
       "value": "#\t\t\t//Payement with card apply coupon code"
     }
   ],
-  "line": 127,
+  "line": 129,
   "name": "",
   "description": "",
   "id": "signup-test-on-web-application;",
@@ -6523,33 +3050,33 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "line": 126,
+      "line": 128,
       "name": "@signupTest_select_Card_payement"
     }
   ]
 });
 formatter.step({
-  "line": 128,
+  "line": 130,
   "name": "Navigates to website url.",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 129,
+  "line": 131,
   "name": "Click on Most Downloaded link.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 130,
+  "line": 132,
   "name": "Select a product items.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 131,
+  "line": 133,
   "name": "Click on Download this presentation link.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 132,
+  "line": 134,
   "name": "Click on Create an Account CTA.",
   "keyword": "Then "
 });
@@ -6557,43 +3084,41 @@ formatter.match({
   "location": "SignUp_Step.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 43693476000,
-  "status": "passed"
+  "duration": 6012267300,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.SignUp_Step.navigates_to_website_url(SignUp_Step.java:30)\r\n\tat ✽.Given Navigates to website url.(src/test/resources/Signup.feature:130)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "SignUp_Step.click_most_download()"
 });
 formatter.result({
-  "duration": 6445265300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.select_product()"
 });
 formatter.result({
-  "duration": 2815505000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2166407800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.reate_an_Account_CTA()"
 });
 formatter.result({
-  "duration": 3571855600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 27700,
-  "status": "passed"
+  "duration": 6008039500,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 formatter.scenarioOutline({
-  "line": 134,
+  "line": 136,
   "name": "Data driving for valid sign-up.",
   "description": "",
   "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.",
@@ -6601,48 +3126,48 @@ formatter.scenarioOutline({
   "keyword": "Scenario Outline",
   "tags": [
     {
-      "line": 133,
+      "line": 135,
       "name": "@signupTest_select_Card_payement"
     }
   ]
 });
 formatter.step({
-  "line": 135,
+  "line": 137,
   "name": "Enter Email \"\u003cEmail Address\u003e\".",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 136,
+  "line": 138,
   "name": "Enter First Name as \"\u003cFirst Name\u003e\".",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 137,
+  "line": 139,
   "name": "Enter Last Name as \"\u003cLast Name\u003e\".",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 138,
+  "line": 140,
   "name": "Enter Password as \"\u003cPassword\u003e\".",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 139,
+  "line": 141,
   "name": "Enter Confirm password as \"\u003cConfirm_password\u003e\".",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 140,
+  "line": 142,
   "name": "Enter the captcha.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 141,
+  "line": 143,
   "name": "click on Signup button.",
   "keyword": "Then "
 });
 formatter.examples({
-  "line": 142,
+  "line": 144,
   "name": "",
   "description": "",
   "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;",
@@ -6655,7 +3180,7 @@ formatter.examples({
         "Password",
         "Confirm_password"
       ],
-      "line": 143,
+      "line": 145,
       "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;1"
     },
     {
@@ -6666,14 +3191,14 @@ formatter.examples({
         "123456",
         "123456"
       ],
-      "line": 144,
+      "line": 146,
       "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2"
     }
   ],
   "keyword": "Examples"
 });
 formatter.scenario({
-  "line": 144,
+  "line": 146,
   "name": "Data driving for valid sign-up.",
   "description": "",
   "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2",
@@ -6685,13 +3210,13 @@ formatter.scenario({
       "name": "@signupTest"
     },
     {
-      "line": 133,
+      "line": 135,
       "name": "@signupTest_select_Card_payement"
     }
   ]
 });
 formatter.step({
-  "line": 135,
+  "line": 137,
   "name": "Enter Email \"selenium.testing\".",
   "matchedColumns": [
     0
@@ -6699,7 +3224,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 136,
+  "line": 138,
   "name": "Enter First Name as \"Test\".",
   "matchedColumns": [
     1
@@ -6707,7 +3232,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 137,
+  "line": 139,
   "name": "Enter Last Name as \"Test\".",
   "matchedColumns": [
     2
@@ -6715,7 +3240,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 138,
+  "line": 140,
   "name": "Enter Password as \"123456\".",
   "matchedColumns": [
     3
@@ -6723,7 +3248,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 139,
+  "line": 141,
   "name": "Enter Confirm password as \"123456\".",
   "matchedColumns": [
     4
@@ -6731,12 +3256,12 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 140,
+  "line": 142,
   "name": "Enter the captcha.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 141,
+  "line": 143,
   "name": "click on Signup button.",
   "keyword": "Then "
 });
@@ -6750,8 +3275,9 @@ formatter.match({
   "location": "SignUp_Step.Enter_Email_credentials(String)"
 });
 formatter.result({
-  "duration": 326311400,
-  "status": "passed"
+  "duration": 6300836900,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\n*** Element info: {Using\u003did, value\u003demail_address}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:363)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:188)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.SignUp_Step.Enter_Email_credentials(SignUp_Step.java:263)\r\n\tat ✽.Then Enter Email \"selenium.testing\".(src/test/resources/Signup.feature:137)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "arguments": [
@@ -6763,8 +3289,7 @@ formatter.match({
   "location": "SignUp_Step.enter_First_Name_as(String)"
 });
 formatter.result({
-  "duration": 141989900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -6776,8 +3301,7 @@ formatter.match({
   "location": "SignUp_Step.enter_Last_Name_as(String)"
 });
 formatter.result({
-  "duration": 161316000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -6789,8 +3313,7 @@ formatter.match({
   "location": "SignUp_Step.enter_password(String)"
 });
 formatter.result({
-  "duration": 1162500500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -6802,29 +3325,27 @@ formatter.match({
   "location": "SignUp_Step.enter_Confirm_password_as(String)"
 });
 formatter.result({
-  "duration": 158237100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.enter_the_captcha()"
 });
 formatter.result({
-  "duration": 1187077300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_Signup_button()"
 });
 formatter.result({
-  "duration": 4507489000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 26300,
-  "status": "passed"
+  "duration": 6007747300,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:128)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.ExamplesRunner.run(ExamplesRunner.java:59)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:128)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.ScenarioOutlineRunner.run(ScenarioOutlineRunner.java:53)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 formatter.scenario({
-  "line": 148,
+  "line": 150,
   "name": "",
   "description": "",
   "id": "signup-test-on-web-application;",
@@ -6832,73 +3353,73 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "line": 147,
+      "line": 149,
       "name": "@signupTest_select_Card_payement"
     }
   ]
 });
 formatter.step({
-  "line": 149,
+  "line": 151,
   "name": "After signup see the price page.",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 150,
+  "line": 152,
   "name": "Select price subscription.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 151,
+  "line": 153,
   "name": "Select the payment option as card.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 152,
+  "line": 154,
   "name": "Enter the coupon code.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 153,
+  "line": 155,
   "name": "Apply the coupon code as given.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 154,
+  "line": 156,
   "name": "Verify the applied coupon code.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 155,
+  "line": 157,
   "name": "click on place order button.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 156,
+  "line": 158,
   "name": "Verify the card payement page.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 157,
+  "line": 159,
   "name": "Navigates to website url home page.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 158,
+  "line": 160,
   "name": "Click on My account link.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 159,
+  "line": 161,
   "name": "Click on delete account link.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 160,
+  "line": 162,
   "name": "Click on Yes button.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 161,
+  "line": 163,
   "name": "Verify the delete account confirmation message.",
   "keyword": "Then "
 });
@@ -6906,105 +3427,95 @@ formatter.match({
   "location": "SignUp_Step.verify_the_price_page()"
 });
 formatter.result({
-  "duration": 1017661700,
-  "status": "passed"
+  "duration": 6010648400,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:275)\r\n\tat TestRunner.loginSteps.SignUp_Step.verify_the_price_page(SignUp_Step.java:277)\r\n\tat ✽.Given After signup see the price page.(src/test/resources/Signup.feature:151)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "SignUp_Step.select_price_subscription()"
 });
 formatter.result({
-  "duration": 4891684600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.card_payment()"
 });
 formatter.result({
-  "duration": 2121957500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.Enter_the_coupon_code()"
 });
 formatter.result({
-  "duration": 1155693200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.apply_the_coupon_code()"
 });
 formatter.result({
-  "duration": 6077326000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.applied_coupon_code()"
 });
 formatter.result({
-  "duration": 3077431700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_place_order_cta()"
 });
 formatter.result({
-  "duration": 5108682100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.card_page()"
 });
 formatter.result({
-  "duration": 5077440700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.website_url_home_page()"
 });
 formatter.result({
-  "duration": 2023027300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.my_account_link()"
 });
 formatter.result({
-  "duration": 4100971000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.delete_account_link()"
 });
 formatter.result({
-  "duration": 3196250200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.confirm_yes_()"
 });
 formatter.result({
-  "duration": 5114764200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.delete_confirmation_message()"
 });
 formatter.result({
-  "duration": 2093786000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 27300,
-  "status": "passed"
+  "duration": 4007960700,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 formatter.scenario({
   "comments": [
     {
-      "line": 162,
+      "line": 164,
       "value": "#\t\t\t\t\t\t\t\t\t//\t\tpayement the product without coupon"
     }
   ],
-  "line": 165,
+  "line": 167,
   "name": "",
   "description": "",
   "id": "signup-test-on-web-application;",
@@ -7012,33 +3523,33 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "line": 164,
+      "line": 166,
       "name": "@signupTest_select_Card_payement_without_coupon"
     }
   ]
 });
 formatter.step({
-  "line": 166,
+  "line": 168,
   "name": "Navigates to website url.",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 167,
+  "line": 169,
   "name": "Click on Most Downloaded link.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 168,
+  "line": 170,
   "name": "Select a product items.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 169,
+  "line": 171,
   "name": "Click on Download this presentation link.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 170,
+  "line": 172,
   "name": "Click on Create an Account CTA.",
   "keyword": "Then "
 });
@@ -7046,43 +3557,41 @@ formatter.match({
   "location": "SignUp_Step.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 43771815400,
-  "status": "passed"
+  "duration": 6017194500,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.SignUp_Step.navigates_to_website_url(SignUp_Step.java:30)\r\n\tat ✽.Given Navigates to website url.(src/test/resources/Signup.feature:168)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "SignUp_Step.click_most_download()"
 });
 formatter.result({
-  "duration": 6575687700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.select_product()"
 });
 formatter.result({
-  "duration": 3012220800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2189676400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.reate_an_Account_CTA()"
 });
 formatter.result({
-  "duration": 2983755800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 29300,
-  "status": "passed"
+  "duration": 4012173800,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 formatter.scenarioOutline({
-  "line": 172,
+  "line": 174,
   "name": "Data driving for valid sign-up.",
   "description": "",
   "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.",
@@ -7090,48 +3599,48 @@ formatter.scenarioOutline({
   "keyword": "Scenario Outline",
   "tags": [
     {
-      "line": 171,
+      "line": 173,
       "name": "@signupTest_select_Card_payement_without_coupon"
     }
   ]
 });
 formatter.step({
-  "line": 173,
+  "line": 175,
   "name": "Enter Email \"\u003cEmail Address\u003e\".",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 174,
+  "line": 176,
   "name": "Enter First Name as \"\u003cFirst Name\u003e\".",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 175,
+  "line": 177,
   "name": "Enter Last Name as \"\u003cLast Name\u003e\".",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 176,
+  "line": 178,
   "name": "Enter Password as \"\u003cPassword\u003e\".",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 177,
+  "line": 179,
   "name": "Enter Confirm password as \"\u003cConfirm_password\u003e\".",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 178,
+  "line": 180,
   "name": "Enter the captcha.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 179,
+  "line": 181,
   "name": "click on Signup button.",
   "keyword": "Then "
 });
 formatter.examples({
-  "line": 180,
+  "line": 182,
   "name": "",
   "description": "",
   "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;",
@@ -7144,7 +3653,7 @@ formatter.examples({
         "Password",
         "Confirm_password"
       ],
-      "line": 181,
+      "line": 183,
       "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;1"
     },
     {
@@ -7155,14 +3664,14 @@ formatter.examples({
         "123456",
         "123456"
       ],
-      "line": 182,
+      "line": 184,
       "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2"
     }
   ],
   "keyword": "Examples"
 });
 formatter.scenario({
-  "line": 182,
+  "line": 184,
   "name": "Data driving for valid sign-up.",
   "description": "",
   "id": "signup-test-on-web-application;data-driving-for-valid-sign-up.;;2",
@@ -7174,13 +3683,13 @@ formatter.scenario({
       "name": "@signupTest"
     },
     {
-      "line": 171,
+      "line": 173,
       "name": "@signupTest_select_Card_payement_without_coupon"
     }
   ]
 });
 formatter.step({
-  "line": 173,
+  "line": 175,
   "name": "Enter Email \"selenium.testing\".",
   "matchedColumns": [
     0
@@ -7188,7 +3697,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 174,
+  "line": 176,
   "name": "Enter First Name as \"Test\".",
   "matchedColumns": [
     1
@@ -7196,7 +3705,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 175,
+  "line": 177,
   "name": "Enter Last Name as \"Test\".",
   "matchedColumns": [
     2
@@ -7204,7 +3713,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 176,
+  "line": 178,
   "name": "Enter Password as \"123456\".",
   "matchedColumns": [
     3
@@ -7212,7 +3721,7 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 177,
+  "line": 179,
   "name": "Enter Confirm password as \"123456\".",
   "matchedColumns": [
     4
@@ -7220,12 +3729,12 @@ formatter.step({
   "keyword": "Then "
 });
 formatter.step({
-  "line": 178,
+  "line": 180,
   "name": "Enter the captcha.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 179,
+  "line": 181,
   "name": "click on Signup button.",
   "keyword": "Then "
 });
@@ -7239,8 +3748,9 @@ formatter.match({
   "location": "SignUp_Step.Enter_Email_credentials(String)"
 });
 formatter.result({
-  "duration": 255300900,
-  "status": "passed"
+  "duration": 6015219900,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\n*** Element info: {Using\u003did, value\u003demail_address}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:363)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:188)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.SignUp_Step.Enter_Email_credentials(SignUp_Step.java:263)\r\n\tat ✽.Then Enter Email \"selenium.testing\".(src/test/resources/Signup.feature:175)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "arguments": [
@@ -7252,8 +3762,7 @@ formatter.match({
   "location": "SignUp_Step.enter_First_Name_as(String)"
 });
 formatter.result({
-  "duration": 175754300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -7265,8 +3774,7 @@ formatter.match({
   "location": "SignUp_Step.enter_Last_Name_as(String)"
 });
 formatter.result({
-  "duration": 146084900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -7278,8 +3786,7 @@ formatter.match({
   "location": "SignUp_Step.enter_password(String)"
 });
 formatter.result({
-  "duration": 1161795900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -7291,29 +3798,27 @@ formatter.match({
   "location": "SignUp_Step.enter_Confirm_password_as(String)"
 });
 formatter.result({
-  "duration": 130530700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.enter_the_captcha()"
 });
 formatter.result({
-  "duration": 1148605100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_Signup_button()"
 });
 formatter.result({
-  "duration": 4555367000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 27600,
-  "status": "passed"
+  "duration": 6013809700,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:128)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.ExamplesRunner.run(ExamplesRunner.java:59)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:128)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.ScenarioOutlineRunner.run(ScenarioOutlineRunner.java:53)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 formatter.scenario({
-  "line": 185,
+  "line": 187,
   "name": "",
   "description": "",
   "id": "signup-test-on-web-application;",
@@ -7321,58 +3826,58 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "line": 184,
+      "line": 186,
       "name": "@signupTest_select_Card_payement_without_coupon"
     }
   ]
 });
 formatter.step({
-  "line": 186,
+  "line": 188,
   "name": "After signup see the price page.",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 187,
+  "line": 189,
   "name": "Select price subscription.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 188,
+  "line": 190,
   "name": "Select the payment option as card.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 189,
+  "line": 191,
   "name": "click on place order button.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 190,
+  "line": 192,
   "name": "Verify the card payement page.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 191,
+  "line": 193,
   "name": "Navigates to website url home page.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 192,
+  "line": 194,
   "name": "Click on My account link.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 193,
+  "line": 195,
   "name": "Click on delete account link.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 194,
+  "line": 196,
   "name": "Click on Yes button.",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 195,
+  "line": 197,
   "name": "Verify the delete account confirmation message.",
   "keyword": "Then "
 });
@@ -7380,75 +3885,68 @@ formatter.match({
   "location": "SignUp_Step.verify_the_price_page()"
 });
 formatter.result({
-  "duration": 1151028700,
-  "status": "passed"
+  "duration": 6021809400,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:275)\r\n\tat TestRunner.loginSteps.SignUp_Step.verify_the_price_page(SignUp_Step.java:277)\r\n\tat ✽.Given After signup see the price page.(src/test/resources/Signup.feature:188)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "SignUp_Step.select_price_subscription()"
 });
 formatter.result({
-  "duration": 4773707700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.card_payment()"
 });
 formatter.result({
-  "duration": 2115625200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.click_on_place_order_cta()"
 });
 formatter.result({
-  "duration": 5098029400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.card_page()"
 });
 formatter.result({
-  "duration": 5212975500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.website_url_home_page()"
 });
 formatter.result({
-  "duration": 2091373200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.my_account_link()"
 });
 formatter.result({
-  "duration": 3688667500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.delete_account_link()"
 });
 formatter.result({
-  "duration": 3218028700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.confirm_yes_()"
 });
 formatter.result({
-  "duration": 5124242700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "SignUp_Step.delete_confirmation_message()"
 });
 formatter.result({
-  "duration": 2108618000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 27600,
-  "status": "passed"
+  "duration": 6015584400,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 formatter.uri("src/test/resources/login.feature");
 formatter.feature({
@@ -7496,33 +3994,32 @@ formatter.match({
   "location": "Login_step_definition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 44141759900,
-  "status": "passed"
+  "duration": 6012629900,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.Login_step_definition.navigates_to_website_url(Login_step_definition.java:28)\r\n\tat ✽.Given Open the website url.(src/test/resources/login.feature:4)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "Login_step_definition.click_most_download()"
 });
 formatter.result({
-  "duration": 10398746700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.select_product()"
 });
 formatter.result({
-  "duration": 9499101200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 6764843200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 28500,
-  "status": "passed"
+  "duration": 6010631400,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 formatter.scenarioOutline({
   "line": 8,
@@ -7684,8 +4181,9 @@ formatter.match({
   "location": "Login_step_definition.enter_user_email_address_as(String)"
 });
 formatter.result({
-  "duration": 5201208700,
-  "status": "passed"
+  "duration": 6013178500,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\n*** Element info: {Using\u003did, value\u003demail}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:363)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:188)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Login_step_definition.enter_user_email_address_as(Login_step_definition.java:80)\r\n\tat ✽.Then Enter user email address as \"\".(src/test/resources/login.feature:9)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "arguments": [
@@ -7697,15 +4195,13 @@ formatter.match({
   "location": "Login_step_definition.enter_user_password_as(String)"
 });
 formatter.result({
-  "duration": 5170270000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 7108193400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -7717,8 +4213,7 @@ formatter.match({
   "location": "Login_step_definition.verify_uesr_validation_message_for_Email_Address(String)"
 });
 formatter.result({
-  "duration": 46872800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -7730,8 +4225,7 @@ formatter.match({
   "location": "Login_step_definition.verify_user_validation_message_for_Password(String)"
 });
 formatter.result({
-  "duration": 62078800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -7743,12 +4237,12 @@ formatter.match({
   "location": "Login_step_definition.verify_user_message_for_all_invalid_credentials(String)"
 });
 formatter.result({
-  "duration": 20067340000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 22300,
-  "status": "passed"
+  "duration": 6010292400,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:128)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.ExamplesRunner.run(ExamplesRunner.java:59)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:128)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.ScenarioOutlineRunner.run(ScenarioOutlineRunner.java:53)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 formatter.scenario({
   "line": 18,
@@ -7819,8 +4313,9 @@ formatter.match({
   "location": "Login_step_definition.enter_user_email_address_as(String)"
 });
 formatter.result({
-  "duration": 5212532100,
-  "status": "passed"
+  "duration": 6015092200,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\n*** Element info: {Using\u003did, value\u003demail}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:363)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:188)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Login_step_definition.enter_user_email_address_as(Login_step_definition.java:80)\r\n\tat ✽.Then Enter user email address as \"test@gmail.com\".(src/test/resources/login.feature:9)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "arguments": [
@@ -7832,15 +4327,13 @@ formatter.match({
   "location": "Login_step_definition.enter_user_password_as(String)"
 });
 formatter.result({
-  "duration": 185631200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 2094934500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -7852,8 +4345,7 @@ formatter.match({
   "location": "Login_step_definition.verify_uesr_validation_message_for_Email_Address(String)"
 });
 formatter.result({
-  "duration": 60264700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -7865,8 +4357,7 @@ formatter.match({
   "location": "Login_step_definition.verify_user_validation_message_for_Password(String)"
 });
 formatter.result({
-  "duration": 48138400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -7878,12 +4369,12 @@ formatter.match({
   "location": "Login_step_definition.verify_user_message_for_all_invalid_credentials(String)"
 });
 formatter.result({
-  "duration": 20065861000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 21300,
-  "status": "passed"
+  "duration": 6006888500,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:128)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.ExamplesRunner.run(ExamplesRunner.java:59)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:128)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.ScenarioOutlineRunner.run(ScenarioOutlineRunner.java:53)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 formatter.scenario({
   "line": 19,
@@ -7954,8 +4445,9 @@ formatter.match({
   "location": "Login_step_definition.enter_user_email_address_as(String)"
 });
 formatter.result({
-  "duration": 5197566000,
-  "status": "passed"
+  "duration": 6009748700,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\n*** Element info: {Using\u003did, value\u003demail}\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:363)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:188)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat TestRunner.loginSteps.Login_step_definition.enter_user_email_address_as(Login_step_definition.java:80)\r\n\tat ✽.Then Enter user email address as \"test@gmail.com\".(src/test/resources/login.feature:9)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "arguments": [
@@ -7967,15 +4459,13 @@ formatter.match({
   "location": "Login_step_definition.enter_user_password_as(String)"
 });
 formatter.result({
-  "duration": 5217295000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 7934954000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -7987,8 +4477,7 @@ formatter.match({
   "location": "Login_step_definition.verify_uesr_validation_message_for_Email_Address(String)"
 });
 formatter.result({
-  "duration": 20077343300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -8000,8 +4489,7 @@ formatter.match({
   "location": "Login_step_definition.verify_user_validation_message_for_Password(String)"
 });
 formatter.result({
-  "duration": 20052283300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -8013,12 +4501,12 @@ formatter.match({
   "location": "Login_step_definition.verify_user_message_for_all_invalid_credentials(String)"
 });
 formatter.result({
-  "duration": 20045548200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 23000,
-  "status": "passed"
+  "duration": 6009179400,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:128)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.ExamplesRunner.run(ExamplesRunner.java:59)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:128)\r\n\tat org.junit.runners.Suite.runChild(Suite.java:27)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.ScenarioOutlineRunner.run(ScenarioOutlineRunner.java:53)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 formatter.scenario({
   "line": 23,
@@ -8088,75 +4576,68 @@ formatter.match({
   "location": "Login_step_definition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 43965379800,
-  "status": "passed"
+  "duration": 6010751200,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.Login_step_definition.navigates_to_website_url(Login_step_definition.java:28)\r\n\tat ✽.Given Open the website url.(src/test/resources/login.feature:24)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "Login_step_definition.click_most_download()"
 });
 formatter.result({
-  "duration": 7945495400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.select_product()"
 });
 formatter.result({
-  "duration": 4756393900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2148839200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.enter_email_as()"
 });
 formatter.result({
-  "duration": 267454600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.enter_paasword_as()"
 });
 formatter.result({
-  "duration": 1137460200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 4299747500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 5074052700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 6954405300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.verify_the_payment_option_field()"
 });
 formatter.result({
-  "duration": 1044012800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 30600,
-  "status": "passed"
+  "duration": 6008870600,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 formatter.scenario({
   "line": 37,
@@ -8251,110 +4732,98 @@ formatter.match({
   "location": "Login_step_definition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 36614130100,
-  "status": "passed"
+  "duration": 6086063900,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.Login_step_definition.navigates_to_website_url(Login_step_definition.java:28)\r\n\tat ✽.Given Open the website url.(src/test/resources/login.feature:38)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "Login_step_definition.click_most_download()"
 });
 formatter.result({
-  "duration": 9100415800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.select_product()"
 });
 formatter.result({
-  "duration": 5264857800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2483505000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.enter_email_as()"
 });
 formatter.result({
-  "duration": 269805500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.enter_paasword_as()"
 });
 formatter.result({
-  "duration": 1157003800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 4352754000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 5077472700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5814557200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.see_default_payment_option_as_paypal()"
 });
 formatter.result({
-  "duration": 1059076600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.enter_coupon()"
 });
 formatter.result({
-  "duration": 179454500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5053760300,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 4233724700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5092921600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.verify_the_paypal_payement_page()"
 });
 formatter.result({
-  "duration": 5077172700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 29800,
-  "status": "passed"
+  "duration": 4018658400,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 formatter.scenario({
   "line": 56,
@@ -8434,89 +4903,80 @@ formatter.match({
   "location": "Login_step_definition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 39943587600,
-  "status": "passed"
+  "duration": 6014831600,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.Login_step_definition.navigates_to_website_url(Login_step_definition.java:28)\r\n\tat ✽.Given Open the website url.(src/test/resources/login.feature:57)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "Login_step_definition.click_most_download()"
 });
 formatter.result({
-  "duration": 10611884500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.select_product()"
 });
 formatter.result({
-  "duration": 7801470400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2087993900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.enter_email_as()"
 });
 formatter.result({
-  "duration": 272309900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.enter_paasword_as()"
 });
 formatter.result({
-  "duration": 1132737400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 3310730800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 5063002500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5483681500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.see_default_payment_option_as_paypal()"
 });
 formatter.result({
-  "duration": 1093469600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5108490700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.verify_the_paypal_payement_page()"
 });
 formatter.result({
-  "duration": 5046218600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 32300,
-  "status": "passed"
+  "duration": 6017635900,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 formatter.scenario({
   "line": 71,
@@ -8611,110 +5071,98 @@ formatter.match({
   "location": "Login_step_definition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 37697415300,
-  "status": "passed"
+  "duration": 6025355600,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.Login_step_definition.navigates_to_website_url(Login_step_definition.java:28)\r\n\tat ✽.Given Open the website url.(src/test/resources/login.feature:72)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "Login_step_definition.click_most_download()"
 });
 formatter.result({
-  "duration": 5561922800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.select_product()"
 });
 formatter.result({
-  "duration": 8564472000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2031415400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.enter_email_as()"
 });
 formatter.result({
-  "duration": 267969000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.enter_paasword_as()"
 });
 formatter.result({
-  "duration": 1149577000,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 3400902200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 5066309700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5749201400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 2155608400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.enter_coupon()"
 });
 formatter.result({
-  "duration": 170512500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5078183900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 4076008200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5110263700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.card_page()"
 });
 formatter.result({
-  "duration": 6077341500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 33300,
-  "status": "passed"
+  "duration": 6010355900,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 formatter.scenario({
   "line": 89,
@@ -8794,88 +5242,153 @@ formatter.match({
   "location": "Login_step_definition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 40028434300,
-  "status": "passed"
+  "duration": 4007501800,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.Login_step_definition.navigates_to_website_url(Login_step_definition.java:28)\r\n\tat ✽.Given Open the website url.(src/test/resources/login.feature:90)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "Login_step_definition.click_most_download()"
 });
 formatter.result({
-  "duration": 9671044100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.select_product()"
 });
 formatter.result({
-  "duration": 9390017800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2671117100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.enter_email_as()"
 });
 formatter.result({
-  "duration": 250257500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.enter_paasword_as()"
 });
 formatter.result({
-  "duration": 1155073400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 3327336100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 5014980700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 7583117700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 2134073800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5108710600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Login_step_definition.card_page()"
 });
 formatter.result({
-  "duration": 6014894800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 43200,
-  "status": "passed"
+  "duration": 6012747300,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49854}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 9f272e638274bf25a8f828d0daa15798\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
+});
+}); org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:271)\r\n\tat TestRunner.loginSteps.Login_step_definition.navigates_to_website_url(Login_step_definition.java:28)\r\n\tat ✽.Given Open the website url.(src/test/resources/login.feature:90)\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "location": "Login_step_definition.click_most_download()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Login_step_definition.select_product()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Login_step_definition.click_on_Download_this_presentation_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Login_step_definition.enter_email_as()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Login_step_definition.enter_paasword_as()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Login_step_definition.click_on_Login_button()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Login_step_definition.after_signup_redirect_to_price_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Login_step_definition.select_any_of_price_subscription()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Login_step_definition.select_payment_option_as_Card()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Login_step_definition.click_on_place_order_CTA()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Login_step_definition.card_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.after({
+  "duration": 6016725000,
+  "error_message": "org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49768}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 5debf3d9e4ddfa439983a0eb3d178309\r\n\tat sun.reflect.GeneratedConstructorAccessor13.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:289)\r\n\tat TestRunner.loginSteps.TakeImageStep.tearDown(TakeImageStep.java:16)\r\n\tat sun.reflect.GeneratedMethodAccessor16.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:40)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:16)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:34)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:224)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:212)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:206)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:102)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)\r\n\tat cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:95)\r\n\tat cucumber.api.junit.Cucumber.runChild(Cucumber.java:38)\r\n\tat org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)\r\n\tat org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)\r\n\tat org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)\r\n\tat org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:363)\r\n\tat cucumber.api.junit.Cucumber.run(Cucumber.java:100)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)\r\n\tat org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)\r\n",
+  "status": "failed"
 });
 });

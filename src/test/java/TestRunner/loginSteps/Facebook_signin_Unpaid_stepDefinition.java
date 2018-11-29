@@ -122,7 +122,7 @@ public class Facebook_signin_Unpaid_stepDefinition extends SetupClass {
 		wait.implictywait(driver);
 		webelement.click();
 		wait.implictywait(driver);
-		Thread.sleep(5000);
+		Thread.sleep(8000);
 	} catch (NoSuchElementException alredylogin) {
 
 	}
@@ -227,15 +227,35 @@ public class Facebook_signin_Unpaid_stepDefinition extends SetupClass {
 
 	@Then("^Verify the payment page is payapal\\.$")
 	public void verify_the_paypal_payement_page() throws Throwable {
-		String actualTitle = driver.getTitle();
-  Thread.sleep(1000);
-		System.out.println(actualTitle);
-		String expectedTitle = "Billing Information - PayPal";
-		wait.implictywait(driver);
-//		Assert.assertEquals(expectedTitle, actualTitle);
-	 Thread.sleep(1000);
-
+		Thread.sleep(4000);
+		 try {
+			 String actualTitle1 = driver.getTitle();
+				wait.implictywait(driver);
+				System.out.println(actualTitle1);
+				String expectedTitle1 = "Billing Information - PayPal";
+				wait.implictywait(driver);
+				String expectedTitle2="PayPal Checkout";
+				wait.implictywait(driver);
+				
+			    if(actualTitle1.equals(expectedTitle1)){
+				Assert.assertEquals(expectedTitle1, actualTitle1);
+				wait.implictywait(driver);
+				Thread.sleep(3000);
+				System.out.println("title does not matched");
 	}
+		 else{
+				Assert.assertEquals(expectedTitle2, actualTitle1);
+				wait.implictywait(driver);
+				Thread.sleep(3000);
+				System.out.println("title matched");
+		    }
+		 }
+		 catch (NoSuchElementException checkPaypapayement){
+	
+		 }
+	}
+
+	
 
 	@Then("^Select the payment option as CARD\\.$")
 	public void select_payment_option_as_Card() throws Throwable {
@@ -253,6 +273,7 @@ public class Facebook_signin_Unpaid_stepDefinition extends SetupClass {
 
 	@Then("^Verify the payment page is card chekout\\.$")
 	public void card_page() throws InterruptedException {
+		Thread.sleep(5000);
 		String actualTitle = driver.getTitle();
 		Thread.sleep(1000);
 		wait.implictywait(driver);

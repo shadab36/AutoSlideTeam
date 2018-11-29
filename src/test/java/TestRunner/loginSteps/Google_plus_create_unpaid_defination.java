@@ -78,6 +78,7 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 	@And("^Click on Create account cta\\.")
 	public void create_accuont() throws InterruptedException {
 		webelement = driver.findElement(SignupObject.create);
+		wait.implictywait(driver);
 		webelement.click();
 		Thread.sleep(500);
 	}
@@ -129,7 +130,7 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 		wait.implictywait(driver);
 		webelement.sendKeys("Test@1234");
 		wait.implictywait(driver);
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 	}
 
 	@Then("^Click on next button\\.$")
@@ -233,14 +234,32 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 
 	@Then("^Verify the payment screen is paypal is dispalyed\\.$")
 	public void verify_the_paypal_payement_page() throws Throwable {
-		String actualTitle = driver.getTitle();
-		Thread.sleep(1000);
-		System.out.println(actualTitle);
-		String expectedTitle = "Billing Information - PayPal";
-//		wait.implictywait(driver);
-//		Assert.assertEquals(expectedTitle, actualTitle);
-		Thread.sleep(1000);
-
+		Thread.sleep(4000);
+		 try {
+			 String actualTitle1 = driver.getTitle();
+				wait.implictywait(driver);
+				System.out.println(actualTitle1);
+				String expectedTitle1 = "Billing Information - PayPal";
+				wait.implictywait(driver);
+				String expectedTitle2="PayPal Checkout";
+				wait.implictywait(driver);
+				
+			    if(actualTitle1.equals(expectedTitle1)){
+				Assert.assertEquals(expectedTitle1, actualTitle1);
+				wait.implictywait(driver);
+				Thread.sleep(3000);
+				System.out.println("title does not matched");
+	}
+		 else{
+				Assert.assertEquals(expectedTitle2, actualTitle1);
+				wait.implictywait(driver);
+				Thread.sleep(3000);
+				System.out.println("title matched");
+		    }
+		 }
+		 catch (NoSuchElementException checkPaypalpayement){
+	
+		 }
 	}
 
 	@Then("^Click on card radio button\\.$")
@@ -259,6 +278,7 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 
 	@Then("^Verify the payment page is secure card 2checkout title\\.$")
 	public void card_page() throws InterruptedException {
+		Thread.sleep(4000);
 		String actualTitle = driver.getTitle();
 		Thread.sleep(1000);
 		wait.implictywait(driver);

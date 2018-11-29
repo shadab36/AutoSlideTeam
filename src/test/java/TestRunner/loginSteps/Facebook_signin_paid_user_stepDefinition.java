@@ -77,7 +77,7 @@ public class Facebook_signin_paid_user_stepDefinition extends SetupClass {
 	public void fb_link() throws InterruptedException {
 		webelement = driver.findElement(FbandGP_Object.fbLink);
 		webelement.click();
-		Thread.sleep(500);
+		Thread.sleep(1000);
 	}
 
 	@Then("^user email as$")
@@ -119,7 +119,7 @@ public class Facebook_signin_paid_user_stepDefinition extends SetupClass {
 		wait.implictywait(driver);
 		webelement.click();
 		wait.implictywait(driver);
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 		} catch (NoSuchElementException logincta) {
 			
 		}

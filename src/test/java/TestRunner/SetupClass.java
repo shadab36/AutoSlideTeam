@@ -3,8 +3,8 @@ package TestRunner;
 import java.io.FileReader;
 import java.net.URL;
 import java.util.Properties;
-import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
+import java.util.logging.Logger;
+
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.openqa.selenium.WebDriver;
@@ -45,8 +45,7 @@ public class SetupClass {
 	@BeforeClass
 	public static void before_Class() throws Exception {
 
-		PropertyConfigurator.configure("log4j.properties");
-		log = Logger.getLogger("devpinoyLogger");
+		log = Logger.getLogger(BeforeClass.class.getName());
 		
 		property.load(new FileReader("C:\\Users\\Administrator\\eclipse-workspace\\AutoSlideTeam\\src\\main\\resources\\configure.properties"));
 		AppURL = property.getProperty("App_url");
