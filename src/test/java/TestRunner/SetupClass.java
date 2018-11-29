@@ -12,6 +12,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxProfile;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
@@ -67,25 +68,27 @@ public class SetupClass {
 		AppURL = property.getProperty("App_url");
 		System.out.println("Bname=====" + AppURL);
 
-		// if (browser.equalsIgnoreCase("chrome"))
 
-		if ((local_chrome.equals("yes")) && oncloud.equals("no")) {
+
+		if ((local_chrome.equals("yes"))) {
 			local_chromebrowser = System.setProperty(CommonData.Chrome_Name, CommonData.Chrome_Path);
 			ChromeOptions options = new ChromeOptions();
 			options.addArguments("--disable-notifications");
 			driver = new ChromeDriver(options);
 			driver.manage().window().maximize();
-			// if (browser.equalsIgnoreCase("firefox"))
-		} else if ((localtestFF.equals("yes")) && oncloud.equals("no")) {
+	
+		} else if ((localtestFF.equals("yes"))) {
 
 			localFF = System.setProperty(CommonData.Firefox_Name, CommonData.Firefox_Path);
-			driver = new FirefoxDriver();
-			System.out.println(localFF);
+			FirefoxProfile profile = new FirefoxProfile();
+			profile.setPreference("dom.webnotifications.enabled", false);
+		   driver = new FirefoxDriver();
+		   Thread.sleep(1000);
 
 		}
 		// if (browser.equalsIgnoreCase("IE11"))
 
-		else if ((local_IE11.equals("yes")) && oncloud.equals("no")) {
+		else if ((local_IE11.equals("yes"))) {
 			/*** To run desktop project on local */
 			local_IE11browser = System.setProperty(CommonData.IE_Name, CommonData.IE_Path);
 			driver = new InternetExplorerDriver();
