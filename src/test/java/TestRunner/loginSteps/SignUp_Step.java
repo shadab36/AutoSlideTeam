@@ -383,6 +383,8 @@ public class SignUp_Step extends SetupClass {
 			} else {
 				Assert.assertEquals(expectedTitle2, actualTitle1);
 				wait.implictywait(driver);
+				System.out.println(actualTitle1);
+				Thread.sleep(2000);
 				Thread.sleep(3000);
 				System.out.println("title matched");
 			}
@@ -415,7 +417,8 @@ public class SignUp_Step extends SetupClass {
 		wait.implictywait(driver);
 		Assert.assertEquals(expectedTitle, actualTitle);
 		wait.implictywait(driver);
-		Thread.sleep(5000);
+		System.out.println(actualTitle);
+		Thread.sleep(7000);
 	}
 
 	@Then("^Navigates to website url home page\\.$")

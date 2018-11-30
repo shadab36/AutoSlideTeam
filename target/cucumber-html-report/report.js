@@ -74,74 +74,74 @@ formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 15399559400,
+  "duration": 15435068200,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.click_most_download()"
 });
 formatter.result({
-  "duration": 6268150100,
+  "duration": 6184206700,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.select_product()"
 });
 formatter.result({
-  "duration": 4765140900,
+  "duration": 4437179600,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2080419500,
+  "duration": 2076608300,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.fb_link()"
 });
 formatter.result({
-  "duration": 1724606300,
+  "duration": 1922528900,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.enter_user_mail()"
 });
 formatter.result({
-  "duration": 1741327700,
+  "duration": 1916290400,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.enter_user_password()"
 });
 formatter.result({
-  "duration": 5154875700,
+  "duration": 5148174300,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.google_pass()"
 });
 formatter.result({
-  "duration": 1186384000,
+  "duration": 1217585000,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 7201751200,
+  "duration": 7870521500,
   "status": "passed"
 });
 formatter.match({
   "location": "GooglePlus_signin_paid_user_stepDefinitio.verify_uesr_validation_message_for_Email_Address()"
 });
 formatter.result({
-  "duration": 1048622000,
+  "duration": 1048927400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 136300,
+  "duration": 133900,
   "status": "passed"
 });
 formatter.uri("src/test/resources/1facebookUser_already_subscribe.feature");
@@ -215,67 +215,67 @@ formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 36648523400,
+  "duration": 36579396500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 4824314200,
+  "duration": 4811236800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 4726475300,
+  "duration": 4516184200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.click_on_Download_thist_presentation_link()"
 });
 formatter.result({
-  "duration": 2067518800,
+  "duration": 2039841800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 2498908300,
+  "duration": 2877785400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.enter_user_mail()"
 });
 formatter.result({
-  "duration": 281085200,
+  "duration": 306066800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.enter_user_password()"
 });
 formatter.result({
-  "duration": 178217100,
+  "duration": 174189200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 49033820000,
+  "duration": 47952781200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_paid_user_stepDefinition.verify_uesr_validation_message_for_Email_Address()"
 });
 formatter.result({
-  "duration": 1039896100,
+  "duration": 1038587500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 34600,
+  "duration": 36300,
   "status": "passed"
 });
 formatter.uri("src/test/resources/2Google_plus_user_logout.feature");
@@ -309,11 +309,11 @@ formatter.match({
   "location": "Google_plus_browser_clear_Step.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 19390227300,
+  "duration": 18260593800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 7908100,
+  "duration": 35600,
   "status": "passed"
 });
 formatter.uri("src/test/resources/2facebook_logout.feature");
@@ -347,11 +347,11 @@ formatter.match({
   "location": "Fbpaid_User_logout.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 14830739800,
+  "duration": 14991137700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 32100,
+  "duration": 35200,
   "status": "passed"
 });
 formatter.uri("src/test/resources/Email_signin_paid_user.feature");
@@ -425,67 +425,67 @@ formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 40244075700,
+  "duration": 39971689500,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 24831765000,
+  "duration": 24823705400,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 4407643100,
+  "duration": 4437798300,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 9011783000,
+  "duration": 9037055500,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.close_chat_window()"
 });
 formatter.result({
-  "duration": 6318917200,
+  "duration": 38664400,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.enter_user_email_address_as()"
 });
 formatter.result({
-  "duration": 195866200,
+  "duration": 229638400,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.enter_user_password_as()"
 });
 formatter.result({
-  "duration": 175965400,
+  "duration": 171159200,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 7204466300,
+  "duration": 7257325100,
   "status": "passed"
 });
 formatter.match({
   "location": "Email_Signin_paidUser_stepDefinition.verify_uesr_validation_message_for_Email_Address()"
 });
 formatter.result({
-  "duration": 1046739600,
+  "duration": 1038126800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 34100,
+  "duration": 36700,
   "status": "passed"
 });
 formatter.uri("src/test/resources/FBUser_Create_sigin.feature");
@@ -574,88 +574,88 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 35086181000,
+  "duration": 36891900100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 5859154400,
+  "duration": 7623694600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 4389343200,
+  "duration": 4759463000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 1966194300,
+  "duration": 2144296500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 2358326800,
+  "duration": 2342637800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 2342820100,
+  "duration": 2289259500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.fb_user_enter_a_valid_email()"
 });
 formatter.result({
-  "duration": 293690000,
+  "duration": 297920600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.fb_user_enter_valid_password()"
 });
 formatter.result({
-  "duration": 175119900,
+  "duration": 198091900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_login_cta_on_fb_page()"
 });
 formatter.result({
-  "duration": 31177917200,
+  "duration": 31363207100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2036986700,
+  "duration": 2049625500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 5575464300,
+  "duration": 5762305200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.verify_the_payement_section_on_the_app()"
 });
 formatter.result({
-  "duration": 1045709300,
+  "duration": 1061029600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 34900,
+  "duration": 42300,
   "status": "passed"
 });
 formatter.scenario({
@@ -735,95 +735,95 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 37723176300,
+  "duration": 36876848400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 7404914300,
+  "duration": 7473942500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 4239603200,
+  "duration": 4307331300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 2117987000,
+  "duration": 2159493000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 2358461200,
+  "duration": 2557615800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 2872919900,
+  "duration": 2877889700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2062762500,
+  "duration": 2061404300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 8352313600,
+  "duration": 5499089500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.by_default_payment_option_as_paypal_is_selected()"
 });
 formatter.result({
-  "duration": 1114514500,
+  "duration": 1092636000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.enter_coupon()"
 });
 formatter.result({
-  "duration": 177371600,
+  "duration": 157591900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5090482000,
+  "duration": 5043643800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 3073323700,
+  "duration": 3063820900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5098724600,
+  "duration": 5074741000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 49700,
+  "duration": 49500,
   "status": "passed"
 });
 formatter.scenario({
@@ -893,81 +893,81 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 58957158000,
+  "duration": 36916277800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 12201771800,
+  "duration": 7526180200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 5353154100,
+  "duration": 4624151100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 2023188300,
+  "duration": 2168114900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 6730200700,
+  "duration": 2564297400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 2905401800,
+  "duration": 3045974600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2061593300,
+  "duration": 2045800200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 5483448400,
+  "duration": 5530343100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.by_default_payment_option_as_paypal_is_selected()"
 });
 formatter.result({
-  "duration": 1092829000,
+  "duration": 1092967400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5108390900,
+  "duration": 5076888300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.verify_the_paypal_payement_page()"
 });
 formatter.result({
-  "duration": 7077097700,
+  "duration": 7092859700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 53600,
+  "duration": 51200,
   "status": "passed"
 });
 formatter.scenario({
@@ -1052,102 +1052,102 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 36725501500,
+  "duration": 37009198700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 7346689400,
+  "duration": 7685945000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 4339288500,
+  "duration": 4791617100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 2174489200,
+  "duration": 1980067500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 2624148200,
+  "duration": 2584567400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 2958619900,
+  "duration": 3452106300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2070785000,
+  "duration": 2061683000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 5376342600,
+  "duration": 5467837300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 2121381200,
+  "duration": 2123955600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.enter_coupon()"
 });
 formatter.result({
-  "duration": 169636900,
+  "duration": 139272200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5062564100,
+  "duration": 5077127300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 3077250700,
+  "duration": 3092734200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5108477700,
+  "duration": 5108469900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.card_page()"
 });
 formatter.result({
-  "duration": 7030036300,
+  "duration": 7091900300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 34600,
+  "duration": 37000,
   "status": "passed"
 });
 formatter.scenario({
@@ -1217,81 +1217,81 @@ formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.launching_the_application_URL()"
 });
 formatter.result({
-  "duration": 41620529100,
+  "duration": 37087907900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_product_list_as_Complete_ppts()"
 });
 formatter.result({
-  "duration": 12009048700,
+  "duration": 5748949300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.on_the_Scoping_Powerpoint_product()"
 });
 formatter.result({
-  "duration": 9644194300,
+  "duration": 4667857100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.open_the_download_presentation_link()"
 });
 formatter.result({
-  "duration": 6858383000,
+  "duration": 2111634300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_create_as_account_link()"
 });
 formatter.result({
-  "duration": 7358424800,
+  "duration": 2563643700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_faceblink()"
 });
 formatter.result({
-  "duration": 8155182800,
+  "duration": 2836476100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_user_is_redirected_to_price_page()"
 });
 formatter.result({
-  "duration": 2061644900,
+  "duration": 2061645400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.the_randamly_the_subscription_product()"
 });
 formatter.result({
-  "duration": 10327031300,
+  "duration": 5405194200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 7201090800,
+  "duration": 2232672200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5102118500,
+  "duration": 5108390000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_create_sigin_unpaid_stepDefin.card_page()"
 });
 formatter.result({
-  "duration": 7083321400,
+  "duration": 7092929700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 36000,
+  "duration": 35200,
   "status": "passed"
 });
 formatter.uri("src/test/resources/Facebook_Sigin_Unpaid_User.feature");
@@ -1375,81 +1375,81 @@ formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 41949726000,
+  "duration": 36777095200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 10560646400,
+  "duration": 7372340900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 9374220300,
+  "duration": 4685700600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 6733011400,
+  "duration": 2062422900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 7482783100,
+  "duration": 2748207700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.enter_user_mail()"
 });
 formatter.result({
-  "duration": 20021398000,
+  "duration": 20024123000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.enter_user_password()"
 });
 formatter.result({
-  "duration": 20045321400,
+  "duration": 20011400700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 40077391500,
+  "duration": 40098947700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 1053895400,
+  "duration": 1063451200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 10310384200,
+  "duration": 5419735300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_payment_option_field()"
 });
 formatter.result({
-  "duration": 1046110000,
+  "duration": 1045932600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 33300,
+  "duration": 34700,
   "status": "passed"
 });
 formatter.scenario({
@@ -1529,95 +1529,95 @@ formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 39886345000,
+  "duration": 36713375400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 12160284600,
+  "duration": 7373989300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 9698902600,
+  "duration": 4364957100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 6792793800,
+  "duration": 2288468200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 7983401600,
+  "duration": 2764802100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 1047033300,
+  "duration": 1010983600,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 10388670700,
+  "duration": 5565170800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.see_default_payment_option_as_paypal()"
 });
 formatter.result({
-  "duration": 1109479800,
+  "duration": 1108542400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.enter_coupon()"
 });
 formatter.result({
-  "duration": 155227200,
+  "duration": 160934000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5091391000,
+  "duration": 5050998900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 3092721800,
+  "duration": 3202152500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5092854400,
+  "duration": 5108518300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_paypal_payement_page()"
 });
 formatter.result({
-  "duration": 7092794500,
+  "duration": 7092938200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 31200,
+  "duration": 32600,
   "status": "passed"
 });
 formatter.scenario({
@@ -1682,74 +1682,74 @@ formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 39917926100,
+  "duration": 36833312100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 11998570800,
+  "duration": 7514554200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 9467594400,
+  "duration": 4618298400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 6842710000,
+  "duration": 2036376300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 7670936400,
+  "duration": 3014763000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 1046581200,
+  "duration": 1061776100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 10232713200,
+  "duration": 5280372500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.see_default_payment_option_as_paypal()"
 });
 formatter.result({
-  "duration": 1108549900,
+  "duration": 1124334100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5108476000,
+  "duration": 5108511400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_paypal_payement_page()"
 });
 formatter.result({
-  "duration": 7064466200,
+  "duration": 7077288200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 31600,
+  "duration": 33200,
   "status": "passed"
 });
 formatter.scenario({
@@ -1829,95 +1829,95 @@ formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 39790005000,
+  "duration": 37152363200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 10748947900,
+  "duration": 7389709300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 9326970200,
+  "duration": 4627359400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 6889661000,
+  "duration": 2007152500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 7577068100,
+  "duration": 3065973800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 1061592900,
+  "duration": 1061883000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 10123990300,
+  "duration": 5577361400,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 7170931400,
+  "duration": 2139063700,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.enter_coupon()"
 });
 formatter.result({
-  "duration": 167555400,
+  "duration": 156475500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5080957100,
+  "duration": 5076283800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 3065929300,
+  "duration": 3077303800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5119958900,
+  "duration": 5108567800,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.card_page()"
 });
 formatter.result({
-  "duration": 9092582200,
+  "duration": 9092538600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 34700,
+  "duration": 34200,
   "status": "passed"
 });
 formatter.scenario({
@@ -1982,74 +1982,74 @@ formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 39558109200,
+  "duration": 36760912000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_most_download()"
 });
 formatter.result({
-  "duration": 10732734400,
+  "duration": 7248358000,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_product()"
 });
 formatter.result({
-  "duration": 9373922300,
+  "duration": 4595678200,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 6858360500,
+  "duration": 1989219100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.fb_link()"
 });
 formatter.result({
-  "duration": 7639748300,
+  "duration": 2959685100,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 1061725000,
+  "duration": 1061684900,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 10249071900,
+  "duration": 5358499300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.select_payment_option_as_Card()"
 });
 formatter.result({
-  "duration": 7155230800,
+  "duration": 2124281300,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5108386700,
+  "duration": 5108524500,
   "status": "passed"
 });
 formatter.match({
   "location": "Facebook_signin_Unpaid_stepDefinition.card_page()"
 });
 formatter.result({
-  "duration": 9078302600,
+  "duration": 9092797800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 33100,
+  "duration": 33700,
   "status": "passed"
 });
 formatter.uri("src/test/resources/ForgotPassword.feature");
@@ -2203,35 +2203,35 @@ formatter.match({
   "location": "Forgotpassword.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 37108123600,
+  "duration": 35256953300,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.click_most_download()"
 });
 formatter.result({
-  "duration": 3990315900,
+  "duration": 3842837400,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.select_product()"
 });
 formatter.result({
-  "duration": 4819029300,
+  "duration": 4843437700,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2091278700,
+  "duration": 2108185100,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.google_create()"
 });
 formatter.result({
-  "duration": 4056104200,
+  "duration": 4139898500,
   "status": "passed"
 });
 formatter.match({
@@ -2244,14 +2244,14 @@ formatter.match({
   "location": "Forgotpassword.user_mail(String)"
 });
 formatter.result({
-  "duration": 203781600,
+  "duration": 187339400,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.enter_user_mail()"
 });
 formatter.result({
-  "duration": 2066150200,
+  "duration": 3061258700,
   "status": "passed"
 });
 formatter.match({
@@ -2264,11 +2264,11 @@ formatter.match({
   "location": "Forgotpassword.password_page(String)"
 });
 formatter.result({
-  "duration": 1040089000,
+  "duration": 2076663300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 516300,
+  "duration": 528300,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -2408,35 +2408,35 @@ formatter.match({
   "location": "Forgotpassword.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 43863614200,
+  "duration": 43814196000,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.click_most_download()"
 });
 formatter.result({
-  "duration": 4096014900,
+  "duration": 3804423900,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.select_product()"
 });
 formatter.result({
-  "duration": 4626992900,
+  "duration": 4503387000,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2101331700,
+  "duration": 2151170800,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.google_create()"
 });
 formatter.result({
-  "duration": 3971388500,
+  "duration": 5608539200,
   "status": "passed"
 });
 formatter.match({
@@ -2449,14 +2449,14 @@ formatter.match({
   "location": "Forgotpassword.user_mail(String)"
 });
 formatter.result({
-  "duration": 229371500,
+  "duration": 248480700,
   "status": "passed"
 });
 formatter.match({
   "location": "Forgotpassword.enter_user_mail()"
 });
 formatter.result({
-  "duration": 3150825200,
+  "duration": 4164792300,
   "status": "passed"
 });
 formatter.match({
@@ -2469,11 +2469,11 @@ formatter.match({
   "location": "Forgotpassword.Verify_user_send_email(String)"
 });
 formatter.result({
-  "duration": 1039358200,
+  "duration": 2053557000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 54800,
+  "duration": 66500,
   "status": "passed"
 });
 formatter.uri("src/test/resources/Google_Plus(+)_Create_Singin_unpaid.feature");
@@ -2567,95 +2567,93 @@ formatter.match({
   "location": "Google_plus_create_unpaid_defination.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 43947891000,
+  "duration": 43782735300,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_most_download()"
 });
 formatter.result({
-  "duration": 8002990500,
+  "duration": 6148434500,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_product()"
 });
 formatter.result({
-  "duration": 4458657100,
+  "duration": 4805528200,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2222025600,
+  "duration": 2583196500,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.create_accuont()"
 });
 formatter.result({
-  "duration": 1623870200,
+  "duration": 3193220600,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.fb_link()"
 });
 formatter.result({
-  "duration": 1327243800,
+  "duration": 1797886600,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.enter_user_mail()"
 });
 formatter.result({
-  "duration": 3936706100,
+  "duration": 3490956300,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.password_page()"
 });
 formatter.result({
-  "duration": 3140218000,
+  "duration": 8155160100,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.enter_user_password()"
 });
 formatter.result({
-  "duration": 3170780600,
-  "status": "passed"
+  "duration": 20068748200,
+  "error_message": "org.openqa.selenium.ElementNotVisibleException: element not interactable\n  (Session info: chrome\u003d70.0.3538.110)\n  (Driver info: chromedriver\u003d2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform\u003dWindows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027EC2AMAZ-Q0OH3N2\u0027, ip: \u0027172.31.37.184\u0027, os.name: \u0027Windows Server 2016\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\\Users\\ADMINI~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61856}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.110, webStorageEnabled: true}\nSession ID: 0285f1bfa38fc948ea4ad734b7aed2cb\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)\r\n\tat TestRunner.loginSteps.Google_plus_create_unpaid_defination.enter_user_password(Google_plus_create_unpaid_defination.java:127)\r\n\tat ✽.Then enter password.(src/test/resources/Google_Plus(+)_Create_Singin_unpaid.feature:12)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_on_Login_button()"
 });
 formatter.result({
-  "duration": 10139672900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 46496400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5248463200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.verify_the_payment_option_field()"
 });
 formatter.result({
-  "duration": 1061794200,
-  "status": "passed"
+  "status": "skipped"
 });
+formatter.embedding("image/png", "embedded0.png");
 formatter.after({
-  "duration": 25200,
+  "duration": 598830800,
   "status": "passed"
 });
 formatter.scenario({
@@ -2740,102 +2738,97 @@ formatter.match({
   "location": "Google_plus_create_unpaid_defination.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 36981317200,
+  "duration": 43811811800,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_most_download()"
 });
 formatter.result({
-  "duration": 7873897800,
+  "duration": 7366844800,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_product()"
 });
 formatter.result({
-  "duration": 4937875300,
+  "duration": 4541294600,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_on_Download_this_presentation_link()"
 });
 formatter.result({
-  "duration": 2216848600,
+  "duration": 2113106400,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.create_accuont()"
 });
 formatter.result({
-  "duration": 1998721600,
+  "duration": 2108633800,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.fb_link()"
 });
 formatter.result({
-  "duration": 3046672500,
+  "duration": 1780589300,
   "status": "passed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.after_signup_redirect_to_price_page()"
 });
 formatter.result({
-  "duration": 59970600,
-  "status": "passed"
+  "duration": 31412800,
+  "error_message": "org.junit.ComparisonFailure: expected:\u003c[Pricing]\u003e but was:\u003c[Sign in - Google Accounts]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat TestRunner.loginSteps.Google_plus_create_unpaid_defination.after_signup_redirect_to_price_page(Google_plus_create_unpaid_defination.java:153)\r\n\tat ✽.Then Redirected to price page.(src/test/resources/Google_Plus(+)_Create_Singin_unpaid.feature:26)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.select_any_of_price_subscription()"
 });
 formatter.result({
-  "duration": 5375960200,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.see_default_payment_option_as_paypal()"
 });
 formatter.result({
-  "duration": 1092935900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.enter_coupon()"
 });
 formatter.result({
-  "duration": 159933400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.apply_the_cuopon_code()"
 });
 formatter.result({
-  "duration": 5072813100,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.verify_the_applied_coupon_code_offer()"
 });
 formatter.result({
-  "duration": 3077328400,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_on_place_order_CTA()"
 });
 formatter.result({
-  "duration": 5108376900,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.verify_the_paypal_payement_page()"
 });
 formatter.result({
-  "duration": 7077268900,
-  "status": "passed"
+  "status": "skipped"
 });
+formatter.embedding("image/png", "embedded1.png");
 formatter.after({
-  "duration": 25900,
+  "duration": 250273400,
   "status": "passed"
 });
 formatter.scenario({
@@ -2905,9 +2898,67 @@ formatter.match({
   "location": "Google_plus_create_unpaid_defination.navigates_to_website_url()"
 });
 formatter.result({
-  "duration": 41839479600,
-  "status": "passed"
+  "duration": 6246400200,
+  "error_message": "java.lang.NullPointerException\r\n\tat TestRunner.loginSteps.Google_plus_create_unpaid_defination.navigates_to_website_url(Google_plus_create_unpaid_defination.java:33)\r\n\tat ✽.Given launch application.(src/test/resources/Google_Plus(+)_Create_Singin_unpaid.feature:36)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "Google_plus_create_unpaid_defination.click_most_download()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.select_product()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.click_on_Download_this_presentation_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.create_accuont()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.fb_link()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.after_signup_redirect_to_price_page()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.select_any_of_price_subscription()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.see_default_payment_option_as_paypal()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.click_on_place_order_CTA()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "Google_plus_create_unpaid_defination.verify_the_paypal_payement_page()"
+});
+formatter.result({
+  "status": "skipped"
 });

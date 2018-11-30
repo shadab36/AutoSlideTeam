@@ -152,6 +152,7 @@ public class Facebook_create_sigin_unpaid_stepDefin extends SetupClass {
 		Thread.sleep(1000);
 		list.get(randomValue).click();
 		Thread.sleep(2000);
+		
 	}
 
 	@Then("^Verify the payement section on the app\\.$")
@@ -241,6 +242,7 @@ public class Facebook_create_sigin_unpaid_stepDefin extends SetupClass {
 		 else{
 				Assert.assertEquals(expectedTitle2, actualTitle1);
 				wait.implictywait(driver);
+				System.out.println(actualTitle1);
 				Thread.sleep(3000);
 				System.out.println("title matched");
 		    }
@@ -273,7 +275,9 @@ public class Facebook_create_sigin_unpaid_stepDefin extends SetupClass {
 		wait.implictywait(driver);
 		Assert.assertEquals(expectedTitle, actualTitle);
 		wait.implictywait(driver);
+		System.out.println(actualTitle);
 		Thread.sleep(2000);
+		
 	}
 
 

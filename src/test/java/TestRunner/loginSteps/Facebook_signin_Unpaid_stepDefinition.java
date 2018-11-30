@@ -246,6 +246,7 @@ public class Facebook_signin_Unpaid_stepDefinition extends SetupClass {
 		 else{
 				Assert.assertEquals(expectedTitle2, actualTitle1);
 				wait.implictywait(driver);
+				System.out.println(actualTitle1);
 				Thread.sleep(3000);
 				System.out.println("title matched");
 		    }
@@ -281,6 +282,7 @@ public class Facebook_signin_Unpaid_stepDefinition extends SetupClass {
 		wait.implictywait(driver);
 		Assert.assertEquals(expectedTitle, actualTitle);
 		wait.implictywait(driver);
+		System.out.println(actualTitle);
 		Thread.sleep(3000);
 	}
 

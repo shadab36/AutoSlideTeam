@@ -247,6 +247,7 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 			    if(actualTitle1.equals(expectedTitle1)){
 				Assert.assertEquals(expectedTitle1, actualTitle1);
 				wait.implictywait(driver);
+				System.out.println(actualTitle1);
 				Thread.sleep(3000);
 				System.out.println("title does not matched");
 	}
@@ -286,7 +287,8 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 		wait.implictywait(driver);
 		Assert.assertEquals(expectedTitle, actualTitle);
 		wait.implictywait(driver);
-		Thread.sleep(1000);
+		System.out.println(actualTitle);
+		Thread.sleep(2000);
 	}
 
 }

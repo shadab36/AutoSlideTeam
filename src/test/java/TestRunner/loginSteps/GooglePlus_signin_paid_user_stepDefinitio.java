@@ -86,7 +86,7 @@ public class GooglePlus_signin_paid_user_stepDefinitio extends SetupClass {
 		Thread.sleep(1000);
 		webelement = driver.findElement(FbandGP_Object.GooglePlusLink);
 		webelement.click();
-		Thread.sleep(500);
+		Thread.sleep(2000);
 	}
 
 	@Then("^Enter user google email addess\\.$")
@@ -98,7 +98,7 @@ public class GooglePlus_signin_paid_user_stepDefinitio extends SetupClass {
 		wait.implictywait(driver);
 		webelement.sendKeys("selenium_testing@slidetech.in");
 		wait.implictywait(driver);
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 		
 			
 		
@@ -124,7 +124,7 @@ public class GooglePlus_signin_paid_user_stepDefinitio extends SetupClass {
 				wait.implictywait(driver);
 				webelement.sendKeys("slideteam");
 				wait.implictywait(driver);
-				Thread.sleep(1000);
+				Thread.sleep(2000);
 			
 
 			
