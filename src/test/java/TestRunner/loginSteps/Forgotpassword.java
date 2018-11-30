@@ -95,7 +95,7 @@ import webApp.PerformAction;
 			webelement = driver.findElement(LoginObject.Button_submit);
 			js.executeScript("arguments[0].click();", webelement);
 			wait.implictywait(driver);
-			Thread.sleep(2000);
+			Thread.sleep(3000);
 		}
 
 		@Then("^Verify \"([^\"]*)\" the validation message\\.$")
@@ -106,7 +106,7 @@ import webApp.PerformAction;
 				String invalid_val = driver.findElement(LoginObject.invalid_error).getText();
 				wait.implictywait(driver);
 				Assert.assertEquals(error, invalid_val);
-				Thread.sleep(1000);
+				Thread.sleep(2000);
 			} catch (NoSuchElementException Invalid) {
 
 			}
@@ -119,7 +119,7 @@ import webApp.PerformAction;
 				System.out.println(user_val);
 				wait.implictywait(driver);
 				Assert.assertEquals(text, user_val);
-				Thread.sleep(1000);
+				Thread.sleep(2000);
 			} catch (NoSuchElementException Stest) {
 
 			}

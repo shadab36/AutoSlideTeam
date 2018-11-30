@@ -80,7 +80,7 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 		webelement = driver.findElement(SignupObject.create);
 		wait.implictywait(driver);
 		webelement.click();
-		Thread.sleep(500);
+		Thread.sleep(1000);
 	}
 
 	@And("^then click on Google plus link button\\.$")
@@ -89,7 +89,7 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 		Thread.sleep(500);
 		webelement = driver.findElement(FbandGP_Object.GooglePlusLink);
 		webelement.click();
-		Thread.sleep(500);
+		Thread.sleep(1000);
 	}
 
 	@Then("^enter a email\\.$")
@@ -98,7 +98,7 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 			WebElement useaccount=driver.findElement(By.xpath("//*[text()='Use another account']"));
 			wait.implictywait(driver);
 			useaccount.click();
-			Thread.sleep(1000);
+			Thread.sleep(2000);
 		}catch(NoSuchElementException usenewaccount) {	
 	}
 		webelement = driver.findElement(FbandGP_Object.GPEmail);
