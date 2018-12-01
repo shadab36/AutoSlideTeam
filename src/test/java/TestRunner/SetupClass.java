@@ -131,9 +131,12 @@ public class SetupClass {
 
 	@AfterClass
 
-	public static void after_Class() throws InterruptedException {
-
+	public static void after_Class() {
+try {
 		driver.quit();
 		Thread.sleep(2000);
+}catch (Exception closeBrowser) {
+	
+}
 	}
 }

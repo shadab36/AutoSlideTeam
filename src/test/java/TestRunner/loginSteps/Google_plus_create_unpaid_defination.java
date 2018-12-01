@@ -101,6 +101,10 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 			Thread.sleep(2000);
 		}catch(NoSuchElementException usenewaccount) {	
 	}
+		
+	
+	
+	try {
 		webelement = driver.findElement(FbandGP_Object.GPEmail);
 		webelement.click();
 		wait.implictywait(driver);
@@ -109,8 +113,9 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 		webelement.sendKeys("selenium.testing9977@gmail.com");
 		wait.implictywait(driver);
 		Thread.sleep(1000);
+	}catch(NoSuchElementException usenewa) {	
 	}
-
+	}
 	@Then("^Go to next page\\.$")
 	public void password_page() throws InterruptedException {
 
