@@ -101,8 +101,6 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 			Thread.sleep(2000);
 		}catch(NoSuchElementException usenewaccount) {	
 	}
-		
-	
 	
 	try {
 		webelement = driver.findElement(FbandGP_Object.GPEmail);
@@ -112,7 +110,7 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 		wait.implictywait(driver);
 		webelement.sendKeys("selenium.testing9977@gmail.com");
 		wait.implictywait(driver);
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 	}catch(NoSuchElementException usenewa) {	
 	}
 	}
