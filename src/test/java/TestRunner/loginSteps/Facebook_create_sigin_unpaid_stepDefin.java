@@ -111,7 +111,7 @@ public class Facebook_create_sigin_unpaid_stepDefin extends SetupClass {
 		wait.implictywait(driver);
 		webelement.sendKeys("vrushali@786");
 		wait.implictywait(driver);
-
+		Thread.sleep(2000);
 	}
 
 	@Then("^click on login cta on fb page\\.$")
@@ -120,7 +120,7 @@ public class Facebook_create_sigin_unpaid_stepDefin extends SetupClass {
 		wait.implictywait(driver);
 		webelement.click();
 		wait.implictywait(driver);
-		Thread.sleep(8000);
+		Thread.sleep(10000);
 		try {
 			webelement = driver.findElement(FbandGP_Object.continue_as_QA);
 			webelement.click();
