@@ -92,7 +92,7 @@ public class SetupClass {
 			/*** To run desktop project on local */
 			local_IE11browser = System.setProperty(CommonData.IE_Name, CommonData.IE_Path);
 			driver = new InternetExplorerDriver();
-			System.out.println(local_IE11);
+	
 
 			// if (browser.equalsIgnoreCase("mobile"))
 		} else if ((onmobile.equals("yes")) && oncloud.equals("no")) {

@@ -1,6 +1,7 @@
 package TestRunner.loginSteps;
 
 import java.util.Random;
+import java.util.concurrent.TimeUnit;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;
@@ -8,6 +9,8 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import ObjectRepository.LoginObject;
 import ObjectRepository.SignupObject;
@@ -51,13 +54,15 @@ public class Email_Signin_paidUser_stepDefinition extends SetupClass {
 
 	@Then("^Click on Complete ppts$")
 	public void click_most_download() throws InterruptedException {
+		WebDriverWait wait = new WebDriverWait(driver, 30);
+		wait.until(ExpectedConditions.visibilityOfElementLocated(SignupObject.Most));
 		webelement = driver.findElement(SignupObject.Most);
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		webelement.click();
-		wait.implictywait(driver);
-		Thread.sleep(2000);
+		Thread.sleep(1000);
 		try {
 			WebElement recommended=driver.findElement(By.cssSelector(".scd-assistant-cards-close>i"));
-			wait.implictywait(driver);
+			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 			recommended.click();
 	Thread.sleep(2000);
 	} catch (NoSuchElementException recomm) {
@@ -68,10 +73,13 @@ public class Email_Signin_paidUser_stepDefinition extends SetupClass {
 
 	@Then("^Select a product as Project Scoping Powerpoint$")
 	public void select_product() throws InterruptedException {
-		webelement = driver.findElement(SignupObject.Select_item);
-		webelement.click();
-		wait.implictywait(driver);
-		Thread.sleep(2000);
+		WebDriverWait wait = new WebDriverWait(driver, 30);
+		wait.until(ExpectedConditions.visibilityOfElementLocated(SignupObject.Select_item));
+		WebElement et = driver.findElement(SignupObject.Select_item);
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		et.click();
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		Thread.sleep(1000);
 	}
 
 	@Then("^Click on download this presentation link$")
@@ -79,6 +87,7 @@ public class Email_Signin_paidUser_stepDefinition extends SetupClass {
 		webelement = driver.findElement(SignupObject.Downloaded);
 		wait.implictywait(driver);
 		webelement.click();
+		wait.implictywait(driver);
 		Thread.sleep(8000);
 	}
 	@Then ("^chat window option\\.$")

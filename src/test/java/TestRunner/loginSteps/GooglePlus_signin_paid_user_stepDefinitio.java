@@ -26,7 +26,7 @@ public class GooglePlus_signin_paid_user_stepDefinitio extends SetupClass {
 	public void navigates_to_website_url() throws InterruptedException {
 		// Maximize Windows
 		driver.get("https://www.slideteam.net");
-		Thread.sleep(10000);
+		Thread.sleep(8000);
 		try {
 			webelement = driver.findElement(SignupObject.close_add);
 			webelement.click();
@@ -53,7 +53,7 @@ public class GooglePlus_signin_paid_user_stepDefinitio extends SetupClass {
 		webelement = driver.findElement(SignupObject.Most);
 		webelement.click();
 		wait.implictywait(driver);
-		Thread.sleep(2000);
+		Thread.sleep(1000);
 		try {
 			WebElement recommended=driver.findElement(By.cssSelector(".scd-assistant-cards-close>i"));
 			wait.implictywait(driver);
@@ -77,7 +77,7 @@ public class GooglePlus_signin_paid_user_stepDefinitio extends SetupClass {
 		webelement = driver.findElement(SignupObject.Downloaded);
 		wait.implictywait(driver);
 		webelement.click();
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 	}
 
 	@And("^Click on googlePlus link\\.$")
