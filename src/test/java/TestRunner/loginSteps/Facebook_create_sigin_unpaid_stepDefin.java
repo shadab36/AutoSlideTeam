@@ -132,7 +132,7 @@ public class Facebook_create_sigin_unpaid_stepDefin extends SetupClass {
 
 	@Then("^The user is redirected to price page\\.$")
 	public void the_user_is_redirected_to_price_page() throws Throwable {
-
+		Thread.sleep(1000);
 		String actualTitle = driver.getTitle();
 		wait.implictywait(driver);
 		String expectedTitle = "Pricing";
