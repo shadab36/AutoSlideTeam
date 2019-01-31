@@ -1,0 +1,380 @@
+[
+  {
+    "source": "^go to Complete ppts$",
+    "steps": [
+      {
+        "name": "go to Complete ppts",
+        "aggregatedDurations": {
+          "average": 4.8126174,
+          "median": 4.8126174
+        },
+        "durations": [
+          {
+            "duration": 4.8126174,
+            "location": "src/test/resources/1facebookUser_already_subscribe.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user password as$",
+    "steps": [
+      {
+        "name": "user password as",
+        "aggregatedDurations": {
+          "average": 0.17109,
+          "median": 0.17109
+        },
+        "durations": [
+          {
+            "duration": 0.17109,
+            "location": "src/test/resources/1facebookUser_already_subscribe.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Open given the application URL$",
+    "steps": [
+      {
+        "name": "Open given the application URL",
+        "aggregatedDurations": {
+          "average": 36.3634922,
+          "median": 36.3634922
+        },
+        "durations": [
+          {
+            "duration": 36.3634922,
+            "location": "src/test/resources/1facebookUser_already_subscribe.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click on googlePlus link\\.$",
+    "steps": [
+      {
+        "name": "Click on googlePlus link.",
+        "aggregatedDurations": {
+          "average": 8.193249,
+          "median": 8.193249
+        },
+        "durations": [
+          {
+            "duration": 8.193249,
+            "location": "src/test/resources/1Google_Plus_paid_user.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^user email as$",
+    "steps": [
+      {
+        "name": "user email as",
+        "aggregatedDurations": {
+          "average": 0.2835022,
+          "median": 0.2835022
+        },
+        "durations": [
+          {
+            "duration": 0.2835022,
+            "location": "src/test/resources/1facebookUser_already_subscribe.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^open the google plus page\\.$",
+    "steps": [
+      {
+        "name": "open the google plus page.",
+        "aggregatedDurations": {
+          "average": 14.8057026,
+          "median": 14.8057026
+        },
+        "durations": [
+          {
+            "duration": 14.8057026,
+            "location": "src/test/resources/2Google_plus_user_logout.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^go to password page\\.$",
+    "steps": [
+      {
+        "name": "go to password page.",
+        "aggregatedDurations": {
+          "average": 5.1255647,
+          "median": 5.1255647
+        },
+        "durations": [
+          {
+            "duration": 5.1255647,
+            "location": "src/test/resources/1Google_Plus_paid_user.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Enter user google pass\\.$",
+    "steps": [
+      {
+        "name": "Enter user google pass.",
+        "aggregatedDurations": {
+          "average": 2.1537862,
+          "median": 2.1537862
+        },
+        "durations": [
+          {
+            "duration": 2.1537862,
+            "location": "src/test/resources/1Google_Plus_paid_user.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click on download this presentation$",
+    "steps": [
+      {
+        "name": "Click on download this presentation",
+        "aggregatedDurations": {
+          "average": 2.1599378,
+          "median": 2.1599378
+        },
+        "durations": [
+          {
+            "duration": 2.1599378,
+            "location": "src/test/resources/1facebookUser_already_subscribe.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^See the this link as download this presenetion link is appeared$",
+    "steps": [
+      {
+        "name": "See the this link as download this presenetion link is appeared",
+        "aggregatedDurations": {
+          "average": 1.0357042,
+          "median": 1.0357042
+        },
+        "durations": [
+          {
+            "duration": 1.0357042,
+            "location": "src/test/resources/1facebookUser_already_subscribe.feature:12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click on downloadbtn test5 link\\.$",
+    "steps": [
+      {
+        "name": "Click on downloadbtn test5 link.",
+        "aggregatedDurations": {
+          "average": 3.1902266,
+          "median": 3.1902266
+        },
+        "durations": [
+          {
+            "duration": 3.1902266,
+            "location": "src/test/resources/1Google_Plus_paid_user.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click on test fblink$",
+    "steps": [
+      {
+        "name": "Click on test fblink",
+        "aggregatedDurations": {
+          "average": 2.0039206,
+          "median": 2.0039206
+        },
+        "durations": [
+          {
+            "duration": 2.0039206,
+            "location": "src/test/resources/1facebookUser_already_subscribe.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Enter user google email addess\\.$",
+    "steps": [
+      {
+        "name": "Enter user google email addess.",
+        "aggregatedDurations": {
+          "average": 2.6184506,
+          "median": 2.6184506
+        },
+        "durations": [
+          {
+            "duration": 2.6184506,
+            "location": "src/test/resources/1Google_Plus_paid_user.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^product as Project Scoping Powerpoint$",
+    "steps": [
+      {
+        "name": "product as Project Scoping Powerpoint",
+        "aggregatedDurations": {
+          "average": 3.8619501,
+          "median": 3.8619501
+        },
+        "durations": [
+          {
+            "duration": 3.8619501,
+            "location": "src/test/resources/1facebookUser_already_subscribe.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^navigate to the facebook url\\.$",
+    "steps": [
+      {
+        "name": "navigate to the facebook url.",
+        "aggregatedDurations": {
+          "average": 14.4800535,
+          "median": 14.4800535
+        },
+        "durations": [
+          {
+            "duration": 14.4800535,
+            "location": "src/test/resources/2facebook_logout.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click on next CTA\\.$",
+    "steps": [
+      {
+        "name": "Click on next CTA.",
+        "aggregatedDurations": {
+          "average": 6.836764,
+          "median": 6.836764
+        },
+        "durations": [
+          {
+            "duration": 6.836764,
+            "location": "src/test/resources/1Google_Plus_paid_user.feature:12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Open home page of the application\\.$",
+    "steps": [
+      {
+        "name": "Open home page of the application.",
+        "aggregatedDurations": {
+          "average": 12.8617099,
+          "median": 12.8617099
+        },
+        "durations": [
+          {
+            "duration": 12.8617099,
+            "location": "src/test/resources/1Google_Plus_paid_user.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Select style as complete ppt\\.$",
+    "steps": [
+      {
+        "name": "Select style as complete ppt.",
+        "aggregatedDurations": {
+          "average": 4.9106471,
+          "median": 4.9106471
+        },
+        "durations": [
+          {
+            "duration": 4.9106471,
+            "location": "src/test/resources/1Google_Plus_paid_user.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Select any project slider\\.$",
+    "steps": [
+      {
+        "name": "Select any project slider.",
+        "aggregatedDurations": {
+          "average": 3.9435593,
+          "median": 3.9435593
+        },
+        "durations": [
+          {
+            "duration": 3.9435593,
+            "location": "src/test/resources/1Google_Plus_paid_user.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^The Page is redirect to download presenetion link\\.$",
+    "steps": [
+      {
+        "name": "The Page is redirect to download presenetion link.",
+        "aggregatedDurations": {
+          "average": 1.0529498,
+          "median": 1.0529498
+        },
+        "durations": [
+          {
+            "duration": 1.0529498,
+            "location": "src/test/resources/1Google_Plus_paid_user.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^click on Login button$",
+    "steps": [
+      {
+        "name": "click on Login button",
+        "aggregatedDurations": {
+          "average": 47.8241503,
+          "median": 47.8241503
+        },
+        "durations": [
+          {
+            "duration": 47.8241503,
+            "location": "src/test/resources/1facebookUser_already_subscribe.feature:11"
+          }
+        ]
+      }
+    ]
+  }
+]
