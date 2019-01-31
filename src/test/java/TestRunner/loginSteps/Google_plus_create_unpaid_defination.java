@@ -98,13 +98,20 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 	public void enter_user_mail() throws InterruptedException {
 		try {
 			
-			
-			WebElement useraccount = new WebDriverWait(driver, 50)
-					.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[text()='Use another account']")));
+			WebElement useraccount = driver.findElement(By.xpath("//div[text()='Use another account']"));
 			wait.implictywait(driver);
 			useraccount .click();
 			wait.implictywait(driver);
-			
+			webelement= new WebDriverWait(driver, 50)
+					.until(ExpectedConditions.visibilityOfElementLocated(FbandGP_Object.GPEmail));
+			wait.implictywait(driver);
+			webelement.click();
+			wait.implictywait(driver);
+			webelement.clear();
+			wait.implictywait(driver);
+			webelement.sendKeys("selenium.testing9977@gmail.com");
+			wait.implictywait(driver);
+			Thread.sleep(2000);
 		}catch(NoSuchElementException usenewaccount) {	
 	}
 	
