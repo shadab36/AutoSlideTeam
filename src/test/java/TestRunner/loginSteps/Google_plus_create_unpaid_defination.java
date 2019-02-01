@@ -102,17 +102,8 @@ public class Google_plus_create_unpaid_defination extends SetupClass {
 			wait.implictywait(driver);
 			useraccount .click();
 			wait.implictywait(driver);
-			webelement= new WebDriverWait(driver, 50)
-					.until(ExpectedConditions.visibilityOfElementLocated(FbandGP_Object.GPEmail));
-			wait.implictywait(driver);
-			webelement.click();
-			wait.implictywait(driver);
-			webelement.clear();
-			wait.implictywait(driver);
-			webelement.sendKeys("selenium.testing9977@gmail.com");
-			wait.implictywait(driver);
 			Thread.sleep(2000);
-		}catch(NoSuchElementException usenewaccount) {	
+		}catch(NoSuchElementException usenewaccountes) {	
 	}
 	
 	try {
