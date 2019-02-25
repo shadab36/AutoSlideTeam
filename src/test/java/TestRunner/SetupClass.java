@@ -14,6 +14,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxProfile;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import webApp.CommonData;
@@ -42,7 +43,7 @@ public class SetupClass {
 	public static String oncloud;
 	public static String local_chromebrowser;
 	public static String local_chrome;
-
+	public Actions ac=new Actions(driver);
 	@BeforeClass
 	public static void before_Class() throws Exception {
 

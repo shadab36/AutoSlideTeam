@@ -54,8 +54,24 @@ public class SignUp_Step extends SetupClass {
 	public void click_most_download() throws InterruptedException {
 		driver.navigate().refresh();
 		Thread.sleep(2000);
-		webelement = driver.findElement(SignupObject.Most);
-		webelement.click();
+		WebDriverWait wait = new WebDriverWait(driver, 30);
+		wait.until(ExpectedConditions.visibilityOfElementLocated(SignupObject.Others));
+		webelement = driver.findElement(SignupObject.Others);
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		ac.moveToElement(webelement).build().perform();
+		Thread.sleep(1000);
+		
+		
+		WebElement Complete_Desk=driver.findElement(SignupObject.Complete_desk);
+		ac.moveToElement(Complete_Desk).build().perform();
+		Thread.sleep(1000);
+		
+		WebElement Complete_All=driver.findElement(SignupObject.Complete_All);
+		ac.moveToElement(Complete_All).build().perform();
+		Thread.sleep(500);
+		ac.click(Complete_All).build().perform();
+		
+		Thread.sleep(1000);
 		driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
 	}
 
