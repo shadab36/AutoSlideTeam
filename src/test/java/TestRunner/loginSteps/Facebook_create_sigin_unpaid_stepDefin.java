@@ -55,8 +55,8 @@ public class Facebook_create_sigin_unpaid_stepDefin extends SetupClass {
 
 	@And("^Select product list as Complete ppts\\.$")
 	public void select_product_list_as_Complete_ppts() throws InterruptedException {
-		driver.navigate().refresh();
-		WebDriverWait wait = new WebDriverWait(driver, 30);
+	
+		WebDriverWait wait = new WebDriverWait(driver, 60);
 		wait.until(ExpectedConditions.visibilityOfElementLocated(SignupObject.Others));
 		webelement = driver.findElement(SignupObject.Others);
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
@@ -78,11 +78,12 @@ public class Facebook_create_sigin_unpaid_stepDefin extends SetupClass {
 
 	@And("^On the Scoping Powerpoint product\\.$")
 	public void on_the_Scoping_Powerpoint_product() throws InterruptedException {
-	
+		WebDriverWait wait1 = new WebDriverWait(driver, 30);
+		wait1.until(ExpectedConditions.visibilityOfElementLocated(SignupObject.Select_item));
 		webelement = driver.findElement(SignupObject.Select_item);
 		webelement.click();
 		wait.implictywait(driver);
-		Thread.sleep(2000);
+		Thread.sleep(1000);
 	}
 
 	@And("^Open the download presentation link\\.$")

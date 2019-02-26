@@ -74,14 +74,18 @@ import webApp.PerformAction;
 
 		@And("^Select as a Project Scoping Powerpoint\\.$")
 		public void select_product() throws InterruptedException {
+			WebDriverWait wait1 = new WebDriverWait(driver, 30);
+			wait1.until(ExpectedConditions.visibilityOfElementLocated(SignupObject.Select_item));
 			webelement = driver.findElement(SignupObject.Select_item);
 			webelement.click();
 			wait.implictywait(driver);
-			Thread.sleep(2000);
+			
 		}
 
 		@And("^Click on download link cta\\.$")
 		public void click_on_Download_this_presentation_link() throws InterruptedException {
+			WebDriverWait wait1 = new WebDriverWait(driver, 30);
+			wait1.until(ExpectedConditions.visibilityOfElementLocated(SignupObject.Downloaded));
 			webelement = driver.findElement(SignupObject.Downloaded);
 			wait.implictywait(driver);
 			webelement.click();
@@ -90,14 +94,18 @@ import webApp.PerformAction;
 
 		@And("^Click on forgot password link\\.$")
 		public void google_create() throws InterruptedException {
+			WebDriverWait wait1 = new WebDriverWait(driver, 30);
+			wait1.until(ExpectedConditions.visibilityOfElementLocated(LoginObject.Forgot));
 			webelement = driver.findElement(LoginObject.Forgot);
 			webelement.click();
-			Thread.sleep(3000);
+			
 
 		}
 
 		@And("^Enter the user email address is registerd as \"([^\"]*)\"\\.$")
 		public void user_mail(String email) throws InterruptedException {
+			WebDriverWait wait1 = new WebDriverWait(driver, 30);
+			wait1.until(ExpectedConditions.visibilityOfElementLocated(LoginObject.enter_mail));
 			webelement = driver.findElement(LoginObject.enter_mail);
 			wait.implictywait(driver);
 			webelement.click();
@@ -110,6 +118,8 @@ import webApp.PerformAction;
 
 		@Then("^Click on submit button\\.$")
 		public void enter_user_mail() throws InterruptedException {
+			WebDriverWait wait1 = new WebDriverWait(driver, 30);
+			wait1.until(ExpectedConditions.visibilityOfElementLocated(LoginObject.Button_submit));
 			webelement = driver.findElement(LoginObject.Button_submit);
 			js.executeScript("arguments[0].click();", webelement);
 			wait.implictywait(driver);
