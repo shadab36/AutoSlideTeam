@@ -48,7 +48,7 @@ public class SetupClass {
 	public static void before_Class() throws Exception {
 
 		log = Logger.getLogger(BeforeClass.class.getName());
-		
+		//auto trigger when push code
 		property.load(new FileReader("C:\\Users\\Administrator\\eclipse-workspace\\AutoSlideTeam\\src\\main\\resources\\configure.properties"));
 		AppURL = property.getProperty("App_url");
 		sauceURL = property.getProperty("sauce_url");
