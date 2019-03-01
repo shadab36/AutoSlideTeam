@@ -7,6 +7,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -89,11 +90,39 @@ import webApp.PerformAction;
 			webelement = driver.findElement(SignupObject.Downloaded);
 			wait.implictywait(driver);
 			webelement.click();
-			Thread.sleep(1000);
+			Thread.sleep(8000);
 		}
 
 		@And("^Click on forgot password link\\.$")
 		public void google_create() throws InterruptedException {
+			
+			try {
+				WebElement iframe = driver.findElement(By.id("livechat-full-view"));
+				if(iframe.isDisplayed()) {
+					driver.switchTo().frame(iframe);   
+					 Actions act = new Actions(driver);
+					 act.moveToElement(driver.findElement(By.cssSelector("#title .icon-minimize"))).build().perform();
+					 Thread.sleep(2000);
+						WebElement chat1=driver.findElement(By.cssSelector("#title .icon-minimize"));
+						 Thread.sleep(1000);
+							chat1.click();
+							 Thread.sleep(1000);
+							 driver.switchTo().defaultContent();
+							 Thread.sleep(1000);
+							 driver.switchTo().parentFrame();
+						 Thread.sleep(2000);
+				}
+				else {
+					
+
+				System.out.println("chat window does not open");
+				}
+			}
+					catch(NoSuchElementException NCP) {
+						
+					}
+					
+
 			WebDriverWait wait1 = new WebDriverWait(driver, 30);
 			wait1.until(ExpectedConditions.visibilityOfElementLocated(LoginObject.Forgot));
 			webelement = driver.findElement(LoginObject.Forgot);
