@@ -29,7 +29,7 @@ public class Email_Signin_paidUser_stepDefinition extends SetupClass {
 	public void navigates_to_website_url() throws InterruptedException {
 		// Maximize Windows
 		driver.get("https://www.slideteam.net");
-		Thread.sleep(5000);
+		 driver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
 		try {
 			webelement = driver.findElement(SignupObject.close_add);
 			webelement.click();
@@ -53,6 +53,9 @@ public class Email_Signin_paidUser_stepDefinition extends SetupClass {
 
 	@Then("^Click on Complete ppts$")
 	public void click_most_download() throws InterruptedException {
+//		driver.get("https://www.slideteam.net/project-scoping-powerpoint-presentation-slides.html");
+//		 driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
+		
 		WebDriverWait wait = new WebDriverWait(driver, 30);
 		wait.until(ExpectedConditions.visibilityOfElementLocated(SignupObject.Others));
 		webelement = driver.findElement(SignupObject.Others);

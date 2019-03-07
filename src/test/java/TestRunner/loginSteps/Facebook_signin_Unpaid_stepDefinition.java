@@ -55,6 +55,9 @@ public class Facebook_signin_Unpaid_stepDefinition extends SetupClass {
 	@And("^Select a product list as Complete ppts\\.$")
 	public void click_most_download() throws InterruptedException {
 		driver.navigate().refresh();
+		
+//		driver.get("https://www.slideteam.net/project-scoping-powerpoint-presentation-slides.html");
+//		 driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
 		WebDriverWait wait = new WebDriverWait(driver, 30);
 		wait.until(ExpectedConditions.visibilityOfElementLocated(SignupObject.Others));
 		webelement = driver.findElement(SignupObject.Others);

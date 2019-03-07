@@ -53,6 +53,11 @@ public class GooglePlus_signin_paid_user_stepDefinitio extends SetupClass {
 
 	@And("^Select style as complete ppt\\.$")
 	public void click_most_download() throws InterruptedException {
+		
+		
+//		driver.get("https://www.slideteam.net/project-scoping-powerpoint-presentation-slides.html");
+//		 driver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
+		
 		WebDriverWait wait1 = new WebDriverWait(driver, 30);
 		wait1.until(ExpectedConditions.visibilityOfElementLocated(SignupObject.Others));
 		webelement = driver.findElement(SignupObject.Others);
@@ -70,7 +75,7 @@ public class GooglePlus_signin_paid_user_stepDefinitio extends SetupClass {
 		Thread.sleep(500);
 		ac.click(Complete_All).build().perform();
 		
-		Thread.sleep(1000);
+		Thread.sleep(4000);
 		
 		
 		
@@ -94,6 +99,8 @@ public class GooglePlus_signin_paid_user_stepDefinitio extends SetupClass {
 
 	@And("^Click on downloadbtn test5 link\\.$")
 	public void click_on_Download_this_presentation_link() throws InterruptedException {
+		WebDriverWait wait1 = new WebDriverWait(driver, 30);
+		wait1.until(ExpectedConditions.visibilityOfElementLocated(SignupObject.Downloaded));
 		webelement = driver.findElement(SignupObject.Downloaded);
 		wait.implictywait(driver);
 		webelement.click();
