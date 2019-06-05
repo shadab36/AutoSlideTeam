@@ -6,7 +6,9 @@ public class SignupObject {
 		public static By close_add=By.cssSelector(".fancybox-item.fancybox-close");
 		public static By Others = By.xpath("//p[text()='Others']");
 		
-		public static By Select_item = By.cssSelector(".product-info>h2>a[title='Project Scoping Powerpoint Presentation Slides']");
+		//public static By Select_item = By.cssSelector(".product-info>h2>a[title='Project Scoping Powerpoint Presentation Slides']");
+		
+		public static By Select_item = By.cssSelector(".product-info>h2>a[title='Project Scoping PowerPoint Presentation Slides |Project Scoping PPT | Project Scoping Presentation']");
 		
 		
 		public static By Complete_desk=By.xpath("//p[text()='Complete Decks']");
@@ -23,6 +25,8 @@ public class SignupObject {
 		public static By Cpassword = By.id("confirmation");
 		public static By Captcha = By.id("captcha_user_create");
 		//public static By reload_Captcha = By.id("captcha-reload");
+		
+		
 		public static By take_Captcha = By.id("#user_create");
 		public static By Signup=By.cssSelector("#form-validate >div.buttons-set>button");
 			
